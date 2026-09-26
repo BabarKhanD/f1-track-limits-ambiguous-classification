@@ -1,0 +1,15 @@
+# FastF1 cache (large, regenerable)
+f1cache/
+pipcache/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Progress/resume files (regenerable)
+data/*progress*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
