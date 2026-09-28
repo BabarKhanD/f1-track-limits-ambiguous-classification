@@ -1,0 +1,759 @@
+﻿year,race,session,driver,lap,lap_time,turn,label,reason
+2023,Bahrain Grand Prix,FP1,ALO,,,4,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 4
+2023,Bahrain Grand Prix,FP1,NOR,,,1,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 1
+2023,Bahrain Grand Prix,FP2,PIA,,,1,no_advantage,CAR 81 (PIA) OFF TRACK AND CONTINUED AT TURN 1
+2023,Bahrain Grand Prix,FP2,SAR,,,10,no_advantage,CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 10
+2023,Bahrain Grand Prix,FP2,ALO,,,10,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 10
+2023,Bahrain Grand Prix,Q,SAI,2.0,0 days 00:01:32.408000,8,clear_violation,TRACK LIMITS AT TURN 8 LAP 3 
+2023,Bahrain Grand Prix,Q,STR,2.0,0 days 00:01:31.617000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 3 
+2023,Bahrain Grand Prix,Q,HUL,16.0,0 days 00:01:31.055000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 17 
+2023,Bahrain Grand Prix,Q,GAS,5.0,0 days 00:01:31.818000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 6 
+2023,Bahrain Grand Prix,R,GAS,43.0,0 days 00:01:35.942000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 43 
+2023,Bahrain Grand Prix,R,GAS,44.0,0 days 00:01:35.792000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 44 
+2023,Bahrain Grand Prix,R,LEC,8.0,0 days 00:01:38.614000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 8 
+2023,Bahrain Grand Prix,R,MAG,28.0,0 days 00:01:39.316000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 28 
+2023,Bahrain Grand Prix,R,DEV,19.0,0 days 00:01:39.078000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 19 
+2023,Bahrain Grand Prix,R,DEV,50.0,0 days 00:01:39.089000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 50 
+2023,Bahrain Grand Prix,R,HUL,21.0,0 days 00:01:39.703000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 21 
+2023,Bahrain Grand Prix,R,HUL,39.0,0 days 00:01:38.184000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 39 
+2023,Bahrain Grand Prix,R,HUL,47.0,0 days 00:01:36.806000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 47 
+2023,Bahrain Grand Prix,R,HUL,52.0,0 days 00:01:37.917000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 52 
+2023,Bahrain Grand Prix,R,HUL,56.0,0 days 00:01:39.206000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 56 
+2023,Bahrain Grand Prix,R,NOR,3.0,0 days 00:01:39.777000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 3 
+2023,Bahrain Grand Prix,R,NOR,15.0,0 days 00:01:38.870000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 15 
+2023,Bahrain Grand Prix,R,NOR,50.0,0 days 00:01:35.257000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 50 
+2023,Bahrain Grand Prix,R,HAM,50.0,0 days 00:01:37.770000,8,clear_violation,TRACK LIMITS AT TURN 8 LAP 50 
+2023,Bahrain Grand Prix,R,RUS,42.0,0 days 00:01:37.035000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 42 
+2023,Bahrain Grand Prix,R,BOT,7.0,0 days 00:01:40.564000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 7 
+2023,Bahrain Grand Prix,R,RUS,,,10,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 10
+2023,Bahrain Grand Prix,R,STR,,,10,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 10
+2023,Saudi Arabian Grand Prix,FP1,ALB,,,8,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 8
+2023,Saudi Arabian Grand Prix,Q,HAM,20.0,0 days 00:01:29.248000,27,clear_violation,TRACK LIMITS AT TURN 27 LAP 21 
+2023,Saudi Arabian Grand Prix,Q,HUL,13.0,0 days 00:01:29.468000,27,clear_violation,TRACK LIMITS AT TURN 27 LAP 14 
+2023,Saudi Arabian Grand Prix,Q,MAG,16.0,0 days 00:01:29.517000,27,clear_violation,TRACK LIMITS AT TURN 27 LAP 17 
+2023,Saudi Arabian Grand Prix,Q,SAR,2.0,0 days 00:01:29.721000,27,clear_violation,TRACK LIMITS AT TURN 27 LAP 3 
+2023,Saudi Arabian Grand Prix,R,VER,5.0,0 days 00:01:35.359000,23,clear_violation,TRACK LIMITS AT TURN 23 LAP 5 
+2023,Saudi Arabian Grand Prix,R,VER,37.0,0 days 00:01:32.496000,23,clear_violation,TRACK LIMITS AT TURN 23 LAP 37 
+2023,Saudi Arabian Grand Prix,R,PER,37.0,0 days 00:01:32.638000,23,clear_violation,TRACK LIMITS AT TURN 23 LAP 37 
+2023,Saudi Arabian Grand Prix,R,LEC,31.0,0 days 00:01:34.082000,23,clear_violation,TRACK LIMITS AT TURN 23 LAP 31 
+2023,Saudi Arabian Grand Prix,R,LEC,32.0,0 days 00:01:34.701000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 32 
+2023,Saudi Arabian Grand Prix,R,STR,12.0,0 days 00:01:36.522000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 12 
+2023,Saudi Arabian Grand Prix,R,SAR,5.0,0 days 00:01:36.881000,23,clear_violation,TRACK LIMITS AT TURN 23 LAP 5 
+2023,Saudi Arabian Grand Prix,R,MAG,4.0,0 days 00:01:37.098000,23,clear_violation,TRACK LIMITS AT TURN 23 LAP 4 
+2023,Saudi Arabian Grand Prix,R,MAG,23.0,0 days 00:01:35.702000,23,clear_violation,TRACK LIMITS AT TURN 23 LAP 23 
+2023,Saudi Arabian Grand Prix,R,ALB,5.0,0 days 00:01:37.108000,23,clear_violation,TRACK LIMITS AT TURN 23 LAP 5 
+2023,Saudi Arabian Grand Prix,R,ALB,26.0,0 days 00:01:38.229000,23,clear_violation,TRACK LIMITS AT TURN 23 LAP 26 
+2023,Saudi Arabian Grand Prix,R,ZHO,22.0,0 days 00:01:37.391000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 22 
+2023,Saudi Arabian Grand Prix,R,HUL,9.0,0 days 00:01:36.613000,23,clear_violation,TRACK LIMITS AT TURN 23 LAP 9 
+2023,Saudi Arabian Grand Prix,R,NOR,32.0,0 days 00:01:35.478000,23,clear_violation,TRACK LIMITS AT TURN 23 LAP 32 
+2023,Saudi Arabian Grand Prix,R,SAI,16.0,0 days 00:01:53.399000,23,clear_violation,TRACK LIMITS AT TURN 23 LAP 16 
+2023,Saudi Arabian Grand Prix,R,PIA,43.0,0 days 00:01:35.257000,23,clear_violation,TRACK LIMITS AT TURN 23 LAP 43 
+2023,Australian Grand Prix,FP1,MAG,,,3,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 3
+2023,Australian Grand Prix,FP1,TSU,,,1,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 1
+2023,Australian Grand Prix,FP1,DEV,,,13,no_advantage,CAR 21 (DEV) OFF TRACK AND CONTINUED AT TURN 13
+2023,Australian Grand Prix,FP2,NOR,,,1,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 1
+2023,Australian Grand Prix,FP2,STR,,,3,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 3
+2023,Australian Grand Prix,FP3,MAG,,,13,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 13
+2023,Australian Grand Prix,FP3,PER,,,3,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 3
+2023,Australian Grand Prix,FP3,PER,,,1,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 1
+2023,Australian Grand Prix,Q,VER,11.0,0 days 00:01:35.777000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 12 
+2023,Australian Grand Prix,Q,HAM,7.0,0 days 00:01:51.797000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 8 
+2023,Australian Grand Prix,Q,NOR,9.0,0 days 00:01:37.388000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 10 
+2023,Australian Grand Prix,Q,NOR,16.0,0 days 00:01:40.322000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 17 
+2023,Australian Grand Prix,R,VER,47.0,0 days 00:01:24.107000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 47 
+2023,Australian Grand Prix,R,VER,,,13,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 13
+2023,Australian Grand Prix,R,HUL,,,12,no_advantage,CAR 27 (HUL) OFF TRACK AND CONTINUED AT TURN 12
+2023,Azerbaijan Grand Prix,FP1,NOR,,,1,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 1
+2023,Azerbaijan Grand Prix,FP1,MAG,,,1,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 1
+2023,Azerbaijan Grand Prix,FP1,SAR,,,1,no_advantage,CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 1
+2023,Azerbaijan Grand Prix,FP1,GAS,,,1,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 1
+2023,Azerbaijan Grand Prix,FP1,LEC,,,7,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 7
+2023,Azerbaijan Grand Prix,FP1,LEC,,,2,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 2
+2023,Azerbaijan Grand Prix,Q,BOT,17.0,0 days 00:02:06.656000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 18 
+2023,Azerbaijan Grand Prix,Q,ZHO,,,1,no_advantage,CAR 24 (ZHO) OFF TRACK AND CONTINUED AT TURN 1
+2023,Azerbaijan Grand Prix,Q,SAI,,,3,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 3
+2023,Azerbaijan Grand Prix,R,STR,19.0,0 days 00:01:48.008000,16,clear_violation,TRACK LIMITS AT TURN 16 LAP 19 
+2023,Miami Grand Prix,FP1,HAM,,,4,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 4
+2023,Miami Grand Prix,FP1,PIA,,,15,no_advantage,CAR 81 (PIA) OFF TRACK AND CONTINUED AT TURN 15
+2023,Miami Grand Prix,FP1,TSU,,,6,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 6
+2023,Miami Grand Prix,FP1,ALB,,,17,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 17
+2023,Miami Grand Prix,FP1,GAS,,,7,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 7
+2023,Miami Grand Prix,FP1,TSU,,,6,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 6
+2023,Miami Grand Prix,FP1,STR,,,6,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 6
+2023,Miami Grand Prix,FP2,ALB,,,17,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 17
+2023,Miami Grand Prix,FP3,ALB,,,17,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 17
+2023,Miami Grand Prix,FP3,ALO,,,17,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 17
+2023,Miami Grand Prix,FP3,HUL,,,7,no_advantage,CAR 27 (HUL) OFF TRACK AND CONTINUED AT TURN 7
+2023,Miami Grand Prix,FP3,NOR,,,4,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 4
+2023,Miami Grand Prix,R,SAI,33.0,0 days 00:01:34.440000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 33 
+2023,Miami Grand Prix,R,OCO,5.0,0 days 00:01:33.355000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 5 
+2023,Miami Grand Prix,R,MAG,35.0,0 days 00:01:32.958000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 35 
+2023,Miami Grand Prix,R,STR,22.0,0 days 00:01:34.178000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 22 
+2023,Miami Grand Prix,R,ALB,27.0,0 days 00:01:32.070000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 27 
+2023,Miami Grand Prix,R,ALB,33.0,0 days 00:01:32.681000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 33 
+2023,Miami Grand Prix,R,SAR,34.0,0 days 00:01:33.103000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 34 
+2023,Monaco Grand Prix,Q,LEC,10.0,0 days 00:01:49.645000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 11 
+2023,Monaco Grand Prix,Q,SAI,1.0,0 days 00:01:52.924000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 2 
+2023,Monaco Grand Prix,Q,HAM,11.0,0 days 00:01:30.960000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 12 
+2023,Monaco Grand Prix,Q,GAS,20.0,0 days 00:01:33.208000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 21 
+2023,Monaco Grand Prix,Q,RUS,10.0,0 days 00:01:25.302000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 11 
+2023,Monaco Grand Prix,Q,TSU,14.0,0 days 00:01:37.202000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 15 
+2023,Monaco Grand Prix,Q,PER,3.0,0 days 00:01:55.938000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 4 
+2023,Monaco Grand Prix,R,GAS,53.0,0 days 00:01:35.781000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 53 
+2023,Monaco Grand Prix,R,GAS,66.0,0 days 00:01:36.252000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 66 
+2023,Monaco Grand Prix,R,PER,31.0,0 days 00:01:19.292000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 31 
+2023,Monaco Grand Prix,R,PER,59.0,0 days 00:01:40.595000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 59 
+2023,Monaco Grand Prix,R,ALO,53.0,0 days 00:01:30.862000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 53 
+2023,Monaco Grand Prix,R,ALO,55.0,0 days 00:02:06.635000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 55 
+2023,Monaco Grand Prix,R,ALO,57.0,0 days 00:01:42.581000,16,clear_violation,TRACK LIMITS AT TURN 16 LAP 57 
+2023,Monaco Grand Prix,R,SAR,69.0,0 days 00:01:33.193000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 69 
+2023,Monaco Grand Prix,R,MAG,36.0,0 days 00:01:20.942000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 36 
+2023,Monaco Grand Prix,R,MAG,45.0,0 days 00:01:18.920000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 45 
+2023,Monaco Grand Prix,R,MAG,55.0,0 days 00:02:07.055000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 55 
+2023,Monaco Grand Prix,R,DEV,58.0,0 days 00:01:43.778000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 58 
+2023,Monaco Grand Prix,R,DEV,65.0,0 days 00:01:36.475000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 65 
+2023,Monaco Grand Prix,R,ALB,15.0,0 days 00:01:20.892000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 15 
+2023,Monaco Grand Prix,R,ALB,51.0,0 days 00:01:29.941000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 51 
+2023,Monaco Grand Prix,R,ALB,58.0,0 days 00:01:46.101000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 58 
+2023,Monaco Grand Prix,R,ALB,73.0,0 days 00:01:32.141000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 73 
+2023,Monaco Grand Prix,R,ZHO,19.0,0 days 00:01:22.387000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 19 
+2023,Monaco Grand Prix,R,ZHO,51.0,0 days 00:01:30.253000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 51 
+2023,Monaco Grand Prix,R,HUL,3.0,0 days 00:01:17.221000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 3 
+2023,Monaco Grand Prix,R,HUL,53.0,0 days 00:01:40.881000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 53 
+2023,Monaco Grand Prix,R,OCO,11.0,0 days 00:01:18.271000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 11 
+2023,Monaco Grand Prix,R,OCO,52.0,0 days 00:01:26.990000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 52 
+2023,Monaco Grand Prix,R,NOR,60.0,0 days 00:01:41.789000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 60 
+2023,Monaco Grand Prix,R,SAI,11.0,0 days 00:01:18.265000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 11 
+2023,Monaco Grand Prix,R,SAI,52.0,0 days 00:01:26.201000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 52 
+2023,Monaco Grand Prix,R,PIA,61.0,0 days 00:01:41.089000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 61 
+2023,Spanish Grand Prix,FP2,RUS,,,10,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 10
+2023,Spanish Grand Prix,FP3,STR,,,5,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 5
+2023,Spanish Grand Prix,Q,HUL,2.0,0 days 00:01:14.006000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 3 
+2023,Spanish Grand Prix,Q,PER,15.0,0 days 00:02:08.539000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 16 
+2023,Spanish Grand Prix,Q,TSU,18.0,0 days 00:01:13.316000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 19 
+2023,Spanish Grand Prix,Q,LEC,4.0,0 days 00:01:51.165000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 5 
+2023,Spanish Grand Prix,Q,TSU,,,12,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 12
+2023,Spanish Grand Prix,Q,ALO,,,14,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 14
+2023,Spanish Grand Prix,Q,DEV,,,12,no_advantage,CAR 21 (DEV) OFF TRACK AND CONTINUED AT TURN 12
+2023,Spanish Grand Prix,Q,PER,,,5,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 5
+2023,Spanish Grand Prix,R,VER,39.0,0 days 00:01:19.322000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 39 
+2023,Spanish Grand Prix,R,VER,45.0,0 days 00:01:19.104000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 45 
+2023,Spanish Grand Prix,R,VER,56.0,0 days 00:01:17.183000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 56 
+2023,Spanish Grand Prix,R,ALO,34.0,0 days 00:01:20.634000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 34 
+2023,Spanish Grand Prix,R,ZHO,56.0,0 days 00:01:20.335000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 56 
+2023,Spanish Grand Prix,R,HUL,22.0,0 days 00:01:20.991000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 22 
+2023,Spanish Grand Prix,R,NOR,41.0,0 days 00:01:20.992000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 41 
+2023,Spanish Grand Prix,R,MAG,4.0,0 days 00:01:22.097000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 4 
+2023,Spanish Grand Prix,R,MAG,37.0,0 days 00:01:21.792000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 37 
+2023,Canadian Grand Prix,FP2,NOR,,,1,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 1
+2023,Canadian Grand Prix,FP2,ALB,,,1,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 1
+2023,Canadian Grand Prix,FP2,SAI,,,13,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 13
+2023,Canadian Grand Prix,FP2,NOR,,,13,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 13
+2023,Canadian Grand Prix,FP3,ALB,,,13,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 13
+2023,Canadian Grand Prix,FP3,STR,,,13,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 13
+2023,Canadian Grand Prix,FP3,ALO,,,13,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 13
+2023,Canadian Grand Prix,FP3,STR,,,13,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 13
+2023,Canadian Grand Prix,FP3,HUL,,,9,no_advantage,CAR 27 (HUL) OFF TRACK AND CONTINUED AT TURN 9
+2023,Canadian Grand Prix,FP3,GAS,,,10,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 10
+2023,Canadian Grand Prix,FP3,ALB,,,13,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 13
+2023,Canadian Grand Prix,FP3,PER,,,1,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 1
+2023,Canadian Grand Prix,FP3,OCO,,,3,no_advantage,CAR 31 (OCO) OFF TRACK AND CONTINUED AT TURN 3
+2023,Canadian Grand Prix,FP3,HAM,,,1,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 1
+2023,Canadian Grand Prix,FP3,ALB,,,2,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 2
+2023,Canadian Grand Prix,FP3,ZHO,,,3,no_advantage,CAR 24 (ZHO) OFF TRACK AND CONTINUED AT TURN 3
+2023,Canadian Grand Prix,FP3,RUS,,,9,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 9
+2023,Canadian Grand Prix,Q,HAM,5.0,0 days 00:01:27.179000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 6 
+2023,Canadian Grand Prix,Q,HAM,14.0,0 days 00:01:23.102000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 15 
+2023,Canadian Grand Prix,Q,SAI,7.0,0 days 00:01:32.735000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 8 
+2023,Canadian Grand Prix,Q,SAI,25.0,0 days 00:01:37.132000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 26 
+2023,Canadian Grand Prix,Q,ALB,21.0,0 days 00:01:30.284000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 22 
+2023,Canadian Grand Prix,Q,ALB,23.0,0 days 00:01:45.574000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 24 
+2023,Canadian Grand Prix,Q,LEC,3.0,0 days 00:01:31.585000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 4 
+2023,Canadian Grand Prix,Q,LEC,18.0,0 days 00:01:21.440000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 19 
+2023,Canadian Grand Prix,Q,PER,4.0,0 days 00:01:26.808000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 5 
+2023,Canadian Grand Prix,Q,PER,21.0,0 days 00:01:24.807000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 22 
+2023,Canadian Grand Prix,Q,MAG,7.0,0 days 00:01:42.135000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 8 
+2023,Canadian Grand Prix,Q,MAG,18.0,0 days 00:01:24.155000,,clear_violation,TRACK LIMITS AT PIT ENTRY LAP 19 
+2023,Canadian Grand Prix,Q,GAS,9.0,0 days 00:01:24.344000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 10 
+2023,Canadian Grand Prix,Q,DEV,3.0,0 days 00:01:49.565000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 4 
+2023,Canadian Grand Prix,R,ALO,47.0,0 days 00:01:17.367000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 47 
+2023,Canadian Grand Prix,R,DEV,4.0,0 days 00:01:19.152000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 4 
+2023,Canadian Grand Prix,R,ALB,22.0,0 days 00:01:18.868000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 22 
+2023,Canadian Grand Prix,R,ZHO,42.0,0 days 00:01:19.675000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 42 
+2023,Canadian Grand Prix,R,NOR,70.0,0 days 00:01:19.040000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 70 
+2023,Canadian Grand Prix,R,SAI,56.0,0 days 00:01:16.357000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 56 
+2023,Canadian Grand Prix,R,PIA,19.0,0 days 00:01:18.501000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 19 
+2023,Canadian Grand Prix,R,PIA,70.0,0 days 00:01:17.296000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 70 
+2023,Austrian Grand Prix,FP1,SAI,,,1,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 1
+2023,Austrian Grand Prix,FP1,BOT,,,1,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 1
+2023,Austrian Grand Prix,FP1,TSU,,,3,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 3
+2023,Austrian Grand Prix,FP1,LEC,,,3,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 3
+2023,Austrian Grand Prix,FP1,SAR,,,3,no_advantage,CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 3
+2023,Austrian Grand Prix,Q,VER,2.0,0 days 00:01:05.190000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 3 
+2023,Austrian Grand Prix,Q,VER,3.0,0 days 00:02:17.209000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,Q,VER,14.0,0 days 00:01:04.955000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 15 
+2023,Austrian Grand Prix,Q,VER,15.0,0 days 00:02:10.585000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,Q,SAI,2.0,0 days 00:01:06.496000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 3 
+2023,Austrian Grand Prix,Q,SAI,9.0,0 days 00:01:05.815000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 10 
+2023,Austrian Grand Prix,Q,NOR,2.0,0 days 00:01:05.946000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 3 
+2023,Austrian Grand Prix,Q,NOR,3.0,0 days 00:02:13.805000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,Q,NOR,9.0,0 days 00:01:05.179000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 10 
+2023,Austrian Grand Prix,Q,NOR,10.0,0 days 00:02:05.873000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,Q,HAM,3.0,0 days 00:01:06.723000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 4 
+2023,Austrian Grand Prix,Q,STR,12.0,0 days 00:01:05.177000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 13 
+2023,Austrian Grand Prix,Q,STR,21.0,0 days 00:01:05.857000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 22 
+2023,Austrian Grand Prix,Q,ALO,17.0,0 days 00:01:05.055000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 18 
+2023,Austrian Grand Prix,Q,HUL,2.0,0 days 00:01:06.040000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 3 
+2023,Austrian Grand Prix,Q,HUL,17.0,0 days 00:01:05.301000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 18 
+2023,Austrian Grand Prix,Q,GAS,5.0,0 days 00:01:05.702000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 6 
+2023,Austrian Grand Prix,Q,GAS,14.0,0 days 00:01:05.084000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 15 
+2023,Austrian Grand Prix,Q,ALB,14.0,0 days 00:01:05.993000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 15 
+2023,Austrian Grand Prix,Q,ALB,20.0,0 days 00:01:05.340000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 21 
+2023,Austrian Grand Prix,Q,RUS,17.0,0 days 00:01:05.408000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 18 
+2023,Austrian Grand Prix,Q,OCO,5.0,0 days 00:01:06.341000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 6 
+2023,Austrian Grand Prix,Q,OCO,14.0,0 days 00:01:05.295000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 15 
+2023,Austrian Grand Prix,Q,PIA,18.0,0 days 00:01:05.213000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 19 
+2023,Austrian Grand Prix,Q,BOT,13.0,0 days 00:01:05.513000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 14 
+2023,Austrian Grand Prix,Q,PER,12.0,0 days 00:01:05.028000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 13 
+2023,Austrian Grand Prix,Q,PER,15.0,0 days 00:01:05.235000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 16 
+2023,Austrian Grand Prix,Q,PER,18.0,0 days 00:01:04.990000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 19 
+2023,Austrian Grand Prix,Q,TSU,9.0,0 days 00:01:05.863000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 10 
+2023,Austrian Grand Prix,Q,ZHO,2.0,0 days 00:01:06.498000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 3 
+2023,Austrian Grand Prix,Q,MAG,6.0,0 days 00:01:05.793000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 7 
+2023,Austrian Grand Prix,Q,MAG,7.0,0 days 00:02:03.532000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,Q,DEV,6.0,0 days 00:01:06.058000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 7 
+2023,Austrian Grand Prix,S,SAI,18.0,0 days 00:01:16.048000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 18 
+2023,Austrian Grand Prix,S,NOR,16.0,0 days 00:01:16.224000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 16 
+2023,Austrian Grand Prix,S,HAM,13.0,0 days 00:01:16.717000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 13 
+2023,Austrian Grand Prix,S,HAM,16.0,0 days 00:01:16.088000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 16 
+2023,Austrian Grand Prix,S,LEC,15.0,0 days 00:01:16.930000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 15 
+2023,Austrian Grand Prix,S,LEC,16.0,0 days 00:01:16.471000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,S,GAS,23.0,0 days 00:01:17.481000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 23 
+2023,Austrian Grand Prix,R,VER,65.0,0 days 00:01:08.878000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 65 
+2023,Austrian Grand Prix,R,VER,66.0,0 days 00:01:08.601000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,GAS,6.0,0 days 00:01:11.213000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 6 
+2023,Austrian Grand Prix,R,GAS,7.0,0 days 00:01:11.092000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,GAS,22.0,0 days 00:01:10.538000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 22 
+2023,Austrian Grand Prix,R,GAS,25.0,0 days 00:01:10.541000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 25 
+2023,Austrian Grand Prix,R,GAS,26.0,0 days 00:01:10.662000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 26 
+2023,Austrian Grand Prix,R,GAS,27.0,0 days 00:01:10.649000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 27 
+2023,Austrian Grand Prix,R,GAS,28.0,0 days 00:01:10.670000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 28 
+2023,Austrian Grand Prix,R,GAS,29.0,0 days 00:01:11.188000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,PER,11.0,0 days 00:01:11.526000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 11 
+2023,Austrian Grand Prix,R,PER,17.0,0 days 00:01:10.289000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 17 
+2023,Austrian Grand Prix,R,PER,18.0,0 days 00:01:10.399000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,PER,61.0,0 days 00:01:09.188000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 61 
+2023,Austrian Grand Prix,R,ALO,4.0,0 days 00:01:11.892000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 4 
+2023,Austrian Grand Prix,R,ALO,5.0,0 days 00:01:11.059000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,LEC,5.0,0 days 00:01:10.416000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 5 
+2023,Austrian Grand Prix,R,LEC,8.0,0 days 00:01:10.416000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 5 
+2023,Austrian Grand Prix,R,LEC,32.0,0 days 00:01:10.416000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 5 
+2023,Austrian Grand Prix,R,STR,6.0,0 days 00:01:11.287000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 6 
+2023,Austrian Grand Prix,R,STR,10.0,0 days 00:01:11.037000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 10 
+2023,Austrian Grand Prix,R,STR,33.0,0 days 00:01:11.187000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 33 
+2023,Austrian Grand Prix,R,STR,34.0,0 days 00:01:11.045000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,SAR,15.0,0 days 00:01:46.237000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 15 
+2023,Austrian Grand Prix,R,SAR,54.0,0 days 00:01:10.001000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 54 
+2023,Austrian Grand Prix,R,SAR,55.0,0 days 00:01:10.337000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,SAR,57.0,0 days 00:01:10.084000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 57 
+2023,Austrian Grand Prix,R,MAG,28.0,0 days 00:01:12.254000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 28 
+2023,Austrian Grand Prix,R,MAG,29.0,0 days 00:01:12.188000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,MAG,42.0,0 days 00:01:10.416000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 42 
+2023,Austrian Grand Prix,R,MAG,43.0,0 days 00:01:10.631000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 43 
+2023,Austrian Grand Prix,R,MAG,44.0,0 days 00:01:10.680000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,MAG,57.0,0 days 00:01:14.147000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 57 
+2023,Austrian Grand Prix,R,DEV,5.0,0 days 00:01:12.701000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 5 
+2023,Austrian Grand Prix,R,DEV,21.0,0 days 00:01:11.292000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 21 
+2023,Austrian Grand Prix,R,TSU,5.0,0 days 00:01:12.518000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 5 
+2023,Austrian Grand Prix,R,TSU,6.0,0 days 00:01:11.940000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 6 
+2023,Austrian Grand Prix,R,TSU,8.0,0 days 00:01:11.534000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 8 
+2023,Austrian Grand Prix,R,TSU,9.0,0 days 00:01:11.725000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 9 
+2023,Austrian Grand Prix,R,TSU,10.0,0 days 00:01:11.852000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,TSU,22.0,0 days 00:01:12.890000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 22 
+2023,Austrian Grand Prix,R,TSU,47.0,0 days 00:01:10.496000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 47 
+2023,Austrian Grand Prix,R,TSU,48.0,0 days 00:01:10.008000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 48 
+2023,Austrian Grand Prix,R,TSU,49.0,0 days 00:01:10.040000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,TSU,62.0,0 days 00:01:10.698000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 62 
+2023,Austrian Grand Prix,R,TSU,63.0,0 days 00:01:11.455000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,ALB,19.0,0 days 00:01:11.355000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 19 
+2023,Austrian Grand Prix,R,ALB,20.0,0 days 00:01:11.305000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 20 
+2023,Austrian Grand Prix,R,ALB,25.0,0 days 00:01:10.822000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 25 
+2023,Austrian Grand Prix,R,ALB,26.0,0 days 00:01:10.898000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 26 
+2023,Austrian Grand Prix,R,ALB,27.0,0 days 00:01:11.348000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,ALB,28.0,0 days 00:01:11.015000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 28 
+2023,Austrian Grand Prix,R,ALB,29.0,0 days 00:01:11.016000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,HUL,8.0,0 days 00:01:12.213000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 8 
+2023,Austrian Grand Prix,R,HUL,9.0,0 days 00:01:11.248000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 9 
+2023,Austrian Grand Prix,R,HUL,10.0,0 days 00:01:11.254000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 10 
+2023,Austrian Grand Prix,R,OCO,27.0,0 days 00:01:10.937000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 27 
+2023,Austrian Grand Prix,R,OCO,28.0,0 days 00:01:10.877000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,OCO,38.0,0 days 00:01:11.585000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 38 
+2023,Austrian Grand Prix,R,OCO,58.0,0 days 00:01:09.972000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 58 
+2023,Austrian Grand Prix,R,OCO,59.0,0 days 00:01:09.992000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,NOR,28.0,0 days 00:01:09.947000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 28 
+2023,Austrian Grand Prix,R,NOR,29.0,0 days 00:01:10.826000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,NOR,64.0,0 days 00:01:09.658000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 64 
+2023,Austrian Grand Prix,R,NOR,65.0,0 days 00:01:09.870000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,HAM,4.0,0 days 00:01:10.981000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 4 
+2023,Austrian Grand Prix,R,HAM,5.0,0 days 00:01:10.706000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 5 
+2023,Austrian Grand Prix,R,HAM,6.0,0 days 00:01:10.746000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 6 
+2023,Austrian Grand Prix,R,HAM,7.0,0 days 00:01:10.597000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,HAM,8.0,0 days 00:01:10.579000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 8 
+2023,Austrian Grand Prix,R,HAM,9.0,0 days 00:01:10.598000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 9 
+2023,Austrian Grand Prix,R,HAM,10.0,0 days 00:01:10.901000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,HAM,31.0,0 days 00:01:10.579000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 8 
+2023,Austrian Grand Prix,R,SAI,5.0,0 days 00:01:10.409000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 5 
+2023,Austrian Grand Prix,R,SAI,6.0,0 days 00:01:10.399000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,SAI,8.0,0 days 00:01:10.431000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 8 
+2023,Austrian Grand Prix,R,SAI,9.0,0 days 00:01:10.288000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2023,Austrian Grand Prix,R,SAI,10.0,0 days 00:01:10.570000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 10 
+2023,Austrian Grand Prix,R,SAI,11.0,0 days 00:01:10.395000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 11 
+2023,Austrian Grand Prix,R,SAI,17.0,0 days 00:01:09.129000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 17 
+2023,Austrian Grand Prix,R,BOT,5.0,0 days 00:01:12.673000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 5 
+2023,Austrian Grand Prix,R,PIA,12.0,0 days 00:01:11.339000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 12 
+2023,British Grand Prix,FP1,ALB,,,15,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 15
+2023,British Grand Prix,FP1,RUS,,,6,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 6
+2023,British Grand Prix,FP2,HAM,,,16,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 16
+2023,British Grand Prix,Q,VER,2.0,0 days 00:01:33.535000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 3 
+2023,British Grand Prix,Q,NOR,3.0,0 days 00:02:00.681000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 4 
+2023,British Grand Prix,Q,NOR,19.0,0 days 00:01:28.783000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 20 
+2023,British Grand Prix,Q,PIA,3.0,0 days 00:01:34.531000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 4 
+2023,British Grand Prix,Q,SAI,2.0,0 days 00:02:09.195000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 3 
+2023,British Grand Prix,Q,HAM,2.0,0 days 00:01:55.058000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 3 
+2023,British Grand Prix,Q,ALB,6.0,0 days 00:01:31.999000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 7 
+2023,British Grand Prix,Q,HUL,5.0,0 days 00:01:32.223000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 6 
+2023,British Grand Prix,Q,STR,15.0,0 days 00:01:29.704000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 16 
+2023,British Grand Prix,Q,SAR,3.0,0 days 00:01:34.051000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 4 
+2023,British Grand Prix,Q,SAR,13.0,0 days 00:01:31.104000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 14 
+2023,British Grand Prix,Q,SAR,15.0,0 days 00:01:29.811000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 16 
+2023,British Grand Prix,Q,DEV,2.0,0 days 00:01:36.078000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 3 
+2023,British Grand Prix,Q,SAR,,,11,no_advantage,CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 11
+2023,British Grand Prix,R,PER,38.0,0 days 00:02:16.625000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 38 
+2023,British Grand Prix,R,STR,10.0,0 days 00:01:34.007000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 10 
+2023,British Grand Prix,R,STR,11.0,0 days 00:01:34.198000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 11 
+2023,British Grand Prix,R,STR,39.0,0 days 00:01:32.306000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 39 
+2023,British Grand Prix,R,SAR,16.0,0 days 00:01:33.771000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 16 
+2023,British Grand Prix,R,MAG,14.0,0 days 00:01:35.024000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 14 
+2023,British Grand Prix,R,MAG,20.0,0 days 00:01:33.935000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 20 
+2023,British Grand Prix,R,MAG,27.0,0 days 00:01:33.935000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 20 
+2023,British Grand Prix,R,DEV,10.0,0 days 00:01:33.985000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 10 
+2023,British Grand Prix,R,ALB,10.0,0 days 00:01:34.045000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 10 
+2023,British Grand Prix,R,HUL,7.0,0 days 00:01:34.412000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 7 
+2023,British Grand Prix,R,NOR,13.0,0 days 00:01:32.986000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 13 
+2023,British Grand Prix,R,NOR,14.0,0 days 00:01:33.670000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 14 
+2023,British Grand Prix,R,NOR,47.0,0 days 00:01:31.593000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 47 
+2023,British Grand Prix,R,RUS,14.0,0 days 00:01:33.729000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 14 
+2023,British Grand Prix,R,RUS,45.0,0 days 00:01:31.718000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 45 
+2023,British Grand Prix,R,RUS,46.0,0 days 00:01:31.984000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 46 
+2023,Hungarian Grand Prix,FP1,ALB,,,4,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 4
+2023,Hungarian Grand Prix,FP1,HUL,,,4,no_advantage,CAR 27 (HUL) OFF TRACK AND CONTINUED AT TURN 4
+2023,Hungarian Grand Prix,FP1,SAR,,,4,no_advantage,CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 4
+2023,Hungarian Grand Prix,FP1,NOR,,,3,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 3
+2023,Hungarian Grand Prix,FP1,TSU,,,5,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 5
+2023,Hungarian Grand Prix,FP3,LEC,,,14,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 14
+2023,Hungarian Grand Prix,Q,VER,11.0,0 days 00:01:17.296000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 12 
+2023,Hungarian Grand Prix,Q,NOR,8.0,0 days 00:01:18.209000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 9 
+2023,Hungarian Grand Prix,Q,PIA,2.0,0 days 00:01:19.233000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 3 
+2023,Hungarian Grand Prix,Q,ZHO,4.0,0 days 00:01:19.412000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 5 
+2023,Hungarian Grand Prix,Q,ZHO,9.0,0 days 00:01:19.933000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 10 
+2023,Hungarian Grand Prix,Q,ZHO,18.0,0 days 00:01:17.548000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 19 
+2023,Hungarian Grand Prix,Q,PER,16.0,0 days 00:01:20.346000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 17 
+2023,Hungarian Grand Prix,Q,STR,12.0,0 days 00:01:17.861000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 13 
+2023,Hungarian Grand Prix,Q,GAS,15.0,0 days 00:01:18.045000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 16 
+2023,Hungarian Grand Prix,Q,ALB,2.0,0 days 00:01:19.358000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 3 
+2023,Hungarian Grand Prix,Q,MAG,2.0,0 days 00:01:20.063000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 3 
+2023,Hungarian Grand Prix,Q,SAR,2.0,0 days 00:01:19.472000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 3 
+2023,Hungarian Grand Prix,R,NOR,31.0,0 days 00:01:24.289000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 31 
+2023,Hungarian Grand Prix,R,NOR,62.0,0 days 00:01:23.878000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 62 
+2023,Hungarian Grand Prix,R,PER,6.0,0 days 00:01:25.650000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 27 
+2023,Hungarian Grand Prix,R,PER,27.0,0 days 00:01:25.650000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 27 
+2023,Hungarian Grand Prix,R,HAM,11.0,0 days 00:01:25.153000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 11 
+2023,Hungarian Grand Prix,R,PIA,21.0,0 days 00:01:23.972000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 21 
+2023,Hungarian Grand Prix,R,PIA,33.0,0 days 00:01:24.768000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 33 
+2023,Hungarian Grand Prix,R,PIA,46.0,0 days 00:01:23.212000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 46 
+2023,Hungarian Grand Prix,R,RUS,43.0,0 days 00:01:23.697000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 43 
+2023,Hungarian Grand Prix,R,LEC,32.0,0 days 00:01:24.565000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 32 
+2023,Hungarian Grand Prix,R,SAI,15.0,0 days 00:01:28.509000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 15 
+2023,Hungarian Grand Prix,R,STR,26.0,0 days 00:01:25.128000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 26 
+2023,Hungarian Grand Prix,R,ALB,8.0,0 days 00:01:28.053000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 8 
+2023,Hungarian Grand Prix,R,RIC,7.0,0 days 00:01:26.073000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 7 
+2023,Hungarian Grand Prix,R,HUL,12.0,0 days 00:01:26.188000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 12 
+2023,Hungarian Grand Prix,R,MAG,22.0,0 days 00:01:26.014000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 22 
+2023,Hungarian Grand Prix,R,MAG,60.0,0 days 00:01:27.626000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 60 
+2023,Hungarian Grand Prix,R,SAR,22.0,0 days 00:01:25.999000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 22 
+2023,Belgian Grand Prix,Q,VER,13.0,0 days 00:02:03.027000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 14 
+2023,Belgian Grand Prix,Q,NOR,3.0,0 days 00:02:07.059000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 4 
+2023,Belgian Grand Prix,Q,MAG,2.0,0 days 00:02:03.925000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 3 
+2023,Belgian Grand Prix,Q,MAG,15.0,0 days 00:02:06.560000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 16 
+2023,Belgian Grand Prix,Q,RIC,7.0,0 days 00:01:59.483000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 8 
+2023,Belgian Grand Prix,Q,ALB,,,8,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 8
+2023,Belgian Grand Prix,R,VER,21.0,0 days 00:01:54.915000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 21 
+2023,Belgian Grand Prix,R,PER,22.0,0 days 00:01:56.286000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 22 
+2023,Belgian Grand Prix,R,HAM,37.0,0 days 00:01:51.428000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 37 
+2023,Belgian Grand Prix,R,NOR,36.0,0 days 00:01:52.433000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 36 
+2023,Belgian Grand Prix,R,TSU,13.0,0 days 00:01:52.504000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 13 
+2023,Belgian Grand Prix,R,TSU,14.0,0 days 00:01:52.963000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 14 
+2023,Belgian Grand Prix,R,ALB,28.0,0 days 00:01:52.076000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 28 
+2023,Belgian Grand Prix,R,RIC,37.0,0 days 00:01:53.131000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 37 
+2023,Belgian Grand Prix,R,SAR,9.0,0 days 00:02:07.068000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 9 
+2023,Belgian Grand Prix,R,SAR,33.0,0 days 00:01:53.556000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 33 
+2023,Belgian Grand Prix,R,SAR,36.0,0 days 00:01:50.236000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 36 
+2023,Belgian Grand Prix,R,HUL,10.0,0 days 00:01:54.655000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 10 
+2023,Belgian Grand Prix,R,SAI,10.0,0 days 00:01:53.893000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 10 
+2023,Belgian Grand Prix,R,SAI,21.0,0 days 00:02:00.162000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 21 
+2023,Dutch Grand Prix,FP1,ALO,,,12,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 12
+2023,Dutch Grand Prix,FP1,VER,,,11,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 11
+2023,Dutch Grand Prix,FP2,SAI,,,11,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 11
+2023,Dutch Grand Prix,FP2,STR,,,11,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 11
+2023,Dutch Grand Prix,FP2,SAI,,,13,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 13
+2023,Dutch Grand Prix,FP3,NOR,,,11,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 11
+2023,Dutch Grand Prix,FP3,VER,,,3,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 3
+2023,Dutch Grand Prix,FP3,PER,,,11,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 11
+2023,Dutch Grand Prix,FP3,LEC,,,1,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 1
+2023,Dutch Grand Prix,FP3,SAI,,,1,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 1
+2023,Dutch Grand Prix,FP3,ALO,,,1,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 1
+2023,Dutch Grand Prix,FP3,OCO,,,1,no_advantage,CAR 31 (OCO) OFF TRACK AND CONTINUED AT TURN 1
+2023,Dutch Grand Prix,FP3,LEC,,,1,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 1
+2023,Dutch Grand Prix,FP3,LEC,,,1,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 1
+2023,Dutch Grand Prix,FP3,PER,,,11,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 11
+2023,Dutch Grand Prix,FP3,VER,,,11,no_advantage,CORRECTION: CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 11
+2023,Dutch Grand Prix,Q,VER,2.0,0 days 00:01:48.525000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 3 
+2023,Dutch Grand Prix,Q,VER,21.0,0 days 00:01:55.059000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 22 
+2023,Dutch Grand Prix,Q,ALB,2.0,0 days 00:01:31.315000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 3 
+2023,Dutch Grand Prix,Q,LEC,2.0,0 days 00:01:28.133000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 3 
+2023,Dutch Grand Prix,Q,LEC,5.0,0 days 00:01:40.877000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 6 
+2023,Dutch Grand Prix,Q,LEC,6.0,0 days 00:01:33.914000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 7 
+2023,Dutch Grand Prix,Q,LEC,20.0,0 days 00:01:31.504000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 21 
+2023,Dutch Grand Prix,Q,STR,19.0,0 days 00:01:30.684000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 20 
+2023,Dutch Grand Prix,Q,GAS,5.0,0 days 00:01:47.621000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 6 
+2023,Dutch Grand Prix,Q,GAS,13.0,0 days 00:01:33.650000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 14 
+2023,Dutch Grand Prix,Q,TSU,3.0,0 days 00:01:31.572000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 4 
+2023,Dutch Grand Prix,Q,HUL,2.0,0 days 00:01:35.302000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 3 
+2023,Dutch Grand Prix,Q,MAG,10.0,0 days 00:01:56.175000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 11 
+2023,Dutch Grand Prix,Q,ALB,,,11,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 11
+2023,Dutch Grand Prix,Q,HUL,,,1,no_advantage,CAR 27 (HUL) OFF TRACK AND CONTINUED AT TURN 1
+2023,Dutch Grand Prix,Q,VER,,,1,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 1
+2023,Dutch Grand Prix,Q,LEC,,,1,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 1
+2023,Dutch Grand Prix,Q,GAS,,,1,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 1
+2023,Dutch Grand Prix,Q,LEC,,,1,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 1
+2023,Dutch Grand Prix,Q,GAS,,,1,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 1
+2023,Dutch Grand Prix,Q,LEC,,,1,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 1
+2023,Dutch Grand Prix,R,GAS,6.0,0 days 00:01:24.920000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 6 
+2023,Dutch Grand Prix,R,LEC,,,11,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 11
+2023,Dutch Grand Prix,R,ALB,,,11,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 11
+2023,Dutch Grand Prix,R,GAS,,,3,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 3
+2023,Italian Grand Prix,FP1,SAR,,,10,no_advantage,CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 10
+2023,Italian Grand Prix,FP1,ALB,,,10,no_advantage,CORRECTION: CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 10
+2023,Italian Grand Prix,FP1,OCO,,,10,no_advantage,CAR 31 (OCO) OFF TRACK AND CONTINUED AT TURN 10
+2023,Italian Grand Prix,FP1,LAW,,,9,no_advantage,CAR 40 (LAW) OFF TRACK AND CONTINUED AT TURN 9
+2023,Italian Grand Prix,FP3,PIA,,,5,no_advantage,CAR 81 (PIA) OFF TRACK AND CONTINUED AT TURN 5
+2023,Italian Grand Prix,FP3,NOR,,,4,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 4
+2023,Italian Grand Prix,FP3,HUL,,,4,no_advantage,CAR 27 (HUL) OFF TRACK AND CONTINUED AT TURN 4
+2023,Italian Grand Prix,FP3,BOT,,,8,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 8
+2023,Italian Grand Prix,FP3,SAI,,,4,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 4
+2023,Italian Grand Prix,FP3,HAM,,,4,no_advantage,CORRECTION: CAR 44 (HAM) OFF TRACK AND CONTINUED TURN 4 - LAP 21
+2023,Italian Grand Prix,Q,VER,2.0,0 days 00:01:22.047000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 3 
+2023,Italian Grand Prix,Q,PIA,7.0,0 days 00:01:22.235000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 8 
+2023,Italian Grand Prix,Q,ALO,2.0,0 days 00:01:22.480000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 3 
+2023,Italian Grand Prix,Q,ZHO,7.0,0 days 00:01:22.429000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 8 
+2023,Italian Grand Prix,Q,OCO,4.0,0 days 00:01:23.248000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 5 
+2023,Italian Grand Prix,Q,STR,2.0,0 days 00:01:37.255000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 3 
+2023,Italian Grand Prix,R,PER,14.0,0 days 00:01:27.451000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 14 
+2023,Italian Grand Prix,R,PER,43.0,0 days 00:01:26.624000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 43 
+2023,Italian Grand Prix,R,PER,45.0,0 days 00:01:26.573000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 45 
+2023,Italian Grand Prix,R,ALO,3.0,0 days 00:01:27.546000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 3 
+2023,Italian Grand Prix,R,LEC,47.0,0 days 00:01:27.371000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 47 
+2023,Italian Grand Prix,R,SAR,43.0,0 days 00:01:29.385000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 43 
+2023,Italian Grand Prix,R,NOR,5.0,0 days 00:01:27.142000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 5 
+2023,Italian Grand Prix,R,NOR,38.0,0 days 00:01:27.567000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 38 
+2023,Italian Grand Prix,R,HAM,40.0,0 days 00:01:26.658000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 40 
+2023,Italian Grand Prix,R,HAM,41.0,0 days 00:01:27.501000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 41 
+2023,Italian Grand Prix,R,SAI,47.0,0 days 00:01:27.096000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 47 
+2023,Italian Grand Prix,R,RUS,14.0,0 days 00:01:27.285000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 14 
+2023,Italian Grand Prix,R,BOT,43.0,0 days 00:01:27.753000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 43 
+2023,Italian Grand Prix,R,PIA,40.0,0 days 00:01:26.853000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 40 
+2023,Singapore Grand Prix,FP2,SAR,,,19,no_advantage,CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 19
+2023,Singapore Grand Prix,FP3,VER,,,14,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 14
+2023,Singapore Grand Prix,FP3,ALB,,,14,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 14
+2023,Singapore Grand Prix,Q,ALB,11.0,0 days 00:01:33.147000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 12 
+2023,Singapore Grand Prix,R,GAS,6.0,0 days 00:01:41.829000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 6 
+2023,Singapore Grand Prix,R,PER,60.0,0 days 00:01:39.147000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 60 
+2023,Singapore Grand Prix,R,ALO,29.0,0 days 00:01:41.292000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 29 
+2023,Singapore Grand Prix,R,LEC,23.0,0 days 00:01:43.955000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 23 
+2023,Singapore Grand Prix,R,MAG,35.0,0 days 00:01:42.612000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 35 
+2023,Singapore Grand Prix,R,MAG,36.0,0 days 00:01:48.130000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 36 
+2023,Singapore Grand Prix,R,HUL,39.0,0 days 00:01:42.010000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 39 
+2023,Singapore Grand Prix,R,HUL,53.0,0 days 00:01:43.808000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 53 
+2023,Singapore Grand Prix,R,HAM,24.0,0 days 00:01:40.957000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 24 
+2023,Singapore Grand Prix,R,RUS,51.0,0 days 00:01:36.757000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 51 
+2023,Singapore Grand Prix,R,ALO,,,14,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 14
+2023,Japanese Grand Prix,FP1,SAR,,,17,no_advantage,CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 17
+2023,Japanese Grand Prix,FP1,SAR,,,9,no_advantage,CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 9
+2023,Japanese Grand Prix,FP1,ZHO,,,13,no_advantage,CAR 24 (ZHO) OFF TRACK AND CONTINUED AT TURN 13
+2023,Japanese Grand Prix,FP1,PER,,,17,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 17
+2023,Japanese Grand Prix,FP1,LEC,,,11,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 11
+2023,Japanese Grand Prix,Q,GAS,2.0,0 days 00:01:31.483000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 3 
+2023,Japanese Grand Prix,Q,ALB,2.0,0 days 00:01:31.424000,8,clear_violation,TRACK LIMITS AT TURN 8 LAP 3 
+2023,Japanese Grand Prix,Q,HUL,2.0,0 days 00:01:31.736000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 3 
+2023,Japanese Grand Prix,Q,ZHO,5.0,0 days 00:01:31.379000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 6 
+2023,Japanese Grand Prix,R,NOR,28.0,0 days 00:01:38.019000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 28 
+2023,Japanese Grand Prix,R,PIA,31.0,0 days 00:01:38.621000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 31 
+2023,Japanese Grand Prix,R,PIA,44.0,0 days 00:01:37.843000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 44 
+2023,Japanese Grand Prix,R,LEC,45.0,0 days 00:01:37.234000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 45 
+2023,Japanese Grand Prix,R,HAM,16.0,0 days 00:01:43.793000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 16 
+2023,Japanese Grand Prix,R,HAM,53.0,0 days 00:01:37.353000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 53 
+2023,Japanese Grand Prix,R,RUS,16.0,0 days 00:01:40.500000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 16 
+2023,Japanese Grand Prix,R,RUS,28.0,0 days 00:01:37.678000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 28 
+2023,Japanese Grand Prix,R,RUS,33.0,0 days 00:01:38.129000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 33 
+2023,Japanese Grand Prix,R,ALO,9.0,0 days 00:01:39.884000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 9 
+2023,Japanese Grand Prix,R,TSU,46.0,0 days 00:01:38.683000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 46 
+2023,Japanese Grand Prix,R,MAG,10.0,0 days 00:01:40.956000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 10 
+2023,Japanese Grand Prix,R,ALB,21.0,0 days 00:01:40.421000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 21 
+2023,Japanese Grand Prix,R,PER,11.0,0 days 00:01:40.896000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 11 
+2023,Japanese Grand Prix,R,BOT,,,11,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 11
+2023,Qatar Grand Prix,Q,LEC,4.0,0 days 00:01:26.098000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 5 
+2023,Qatar Grand Prix,Q,LEC,15.0,0 days 00:01:43.094000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 16 
+2023,Qatar Grand Prix,Q,LEC,21.0,0 days 00:01:52.292000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 22 
+2023,Qatar Grand Prix,Q,PIA,22.0,0 days 00:01:24.228000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 23 
+2023,Qatar Grand Prix,Q,GAS,4.0,0 days 00:01:29.275000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 5 
+2023,Qatar Grand Prix,Q,OCO,12.0,0 days 00:01:26.854000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 13 
+2023,Qatar Grand Prix,Q,NOR,2.0,0 days 00:01:26.043000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 3 
+2023,Qatar Grand Prix,Q,NOR,17.0,0 days 00:01:24.088000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 18 
+2023,Qatar Grand Prix,Q,NOR,20.0,0 days 00:01:24.074000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 21 
+2023,Qatar Grand Prix,Q,SAI,7.0,0 days 00:01:42.934000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 8 
+2023,Qatar Grand Prix,Q,SAI,15.0,0 days 00:01:45.890000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 16 
+2023,Qatar Grand Prix,Q,SAI,16.0,0 days 00:02:01.519000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 17 
+2023,Qatar Grand Prix,Q,PER,15.0,0 days 00:01:25.275000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 16 
+2023,Qatar Grand Prix,Q,ALB,2.0,0 days 00:01:26.974000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 3 
+2023,Qatar Grand Prix,Q,HUL,11.0,0 days 00:01:25.547000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 12 
+2023,Qatar Grand Prix,Q,STR,2.0,0 days 00:01:27.928000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 3 
+2023,Qatar Grand Prix,Q,STR,7.0,0 days 00:01:48.482000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 8 
+2023,Qatar Grand Prix,Q,MAG,5.0,0 days 00:01:27.504000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 6 
+2023,Qatar Grand Prix,S,GAS,7.0,0 days 00:01:30.366000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 7 
+2023,Qatar Grand Prix,S,ALO,3.0,0 days 00:01:43.688000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 3 
+2023,Qatar Grand Prix,S,ALO,7.0,0 days 00:01:29.571000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 7 
+2023,Qatar Grand Prix,S,LEC,19.0,0 days 00:01:30.632000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 19 
+2023,Qatar Grand Prix,S,STR,8.0,0 days 00:01:30.040000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 8 
+2023,Qatar Grand Prix,S,STR,15.0,0 days 00:01:31.350000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 15 
+2023,Qatar Grand Prix,S,STR,18.0,0 days 00:01:29.952000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 18 
+2023,Qatar Grand Prix,S,STR,19.0,0 days 00:01:30.259000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 19 
+2023,Qatar Grand Prix,S,MAG,3.0,0 days 00:01:51.180000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 3 
+2023,Qatar Grand Prix,S,MAG,19.0,0 days 00:01:29.900000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 19 
+2023,Qatar Grand Prix,S,TSU,9.0,0 days 00:01:30.692000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 9 
+2023,Qatar Grand Prix,S,ALB,19.0,0 days 00:01:28.748000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 19 
+2023,Qatar Grand Prix,S,ZHO,18.0,0 days 00:01:30.019000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 18 
+2023,Qatar Grand Prix,S,ZHO,19.0,0 days 00:01:32.079000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 19 
+2023,Qatar Grand Prix,S,HUL,3.0,0 days 00:01:44.336000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 3 
+2023,Qatar Grand Prix,S,NOR,9.0,0 days 00:01:28.901000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 9 
+2023,Qatar Grand Prix,S,HAM,7.0,0 days 00:01:31.056000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 7 
+2023,Qatar Grand Prix,S,SAI,8.0,0 days 00:01:28.742000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 8 
+2023,Qatar Grand Prix,S,BOT,15.0,0 days 00:01:31.020000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 15 
+2023,Qatar Grand Prix,R,PIA,16.0,0 days 00:01:29.100000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 16 
+2023,Qatar Grand Prix,R,PIA,21.0,0 days 00:01:28.208000,16,clear_violation,TRACK LIMITS AT TURN 16 LAP 21 
+2023,Qatar Grand Prix,R,PIA,22.0,0 days 00:01:28.290000,16,clear_violation,TRACK LIMITS AT TURN 16 (NEXT LAP)
+2023,Qatar Grand Prix,R,NOR,30.0,0 days 00:01:26.216000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 30 
+2023,Qatar Grand Prix,R,NOR,50.0,0 days 00:01:25.384000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 50 
+2023,Qatar Grand Prix,R,RUS,8.0,0 days 00:01:30.052000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 8 
+2023,Qatar Grand Prix,R,RUS,10.0,0 days 00:01:30.090000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 10 
+2023,Qatar Grand Prix,R,RUS,55.0,0 days 00:01:27.050000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 55 
+2023,Qatar Grand Prix,R,LEC,18.0,0 days 00:01:29.989000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 18 
+2023,Qatar Grand Prix,R,ALO,7.0,0 days 00:01:30.540000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 7 
+2023,Qatar Grand Prix,R,ALO,17.0,0 days 00:01:28.923000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 17 
+2023,Qatar Grand Prix,R,ALO,33.0,0 days 00:01:35.885000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 33 
+2023,Qatar Grand Prix,R,OCO,5.0,0 days 00:01:31.865000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 5 
+2023,Qatar Grand Prix,R,BOT,9.0,0 days 00:01:31.277000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 9 
+2023,Qatar Grand Prix,R,BOT,10.0,0 days 00:01:30.958000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 10 
+2023,Qatar Grand Prix,R,BOT,13.0,0 days 00:01:31.142000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 13 
+2023,Qatar Grand Prix,R,ZHO,5.0,0 days 00:01:33.411000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 5 
+2023,Qatar Grand Prix,R,ZHO,15.0,0 days 00:01:31.165000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 15 
+2023,Qatar Grand Prix,R,PER,14.0,0 days 00:01:30.196000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 14 
+2023,Qatar Grand Prix,R,PER,22.0,0 days 00:01:27.412000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 22 
+2023,Qatar Grand Prix,R,PER,23.0,0 days 00:01:27.687000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 23 
+2023,Qatar Grand Prix,R,PER,25.0,0 days 00:01:28.552000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 25 
+2023,Qatar Grand Prix,R,PER,36.0,0 days 00:01:27.574000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 36 
+2023,Qatar Grand Prix,R,PER,55.0,0 days 00:01:28.008000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 55 
+2023,Qatar Grand Prix,R,STR,20.0,0 days 00:01:30.350000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 20 
+2023,Qatar Grand Prix,R,STR,36.0,0 days 00:01:29.596000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 36 
+2023,Qatar Grand Prix,R,STR,39.0,0 days 00:01:31.946000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 39 
+2023,Qatar Grand Prix,R,STR,52.0,0 days 00:01:30.052000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 52 
+2023,Qatar Grand Prix,R,GAS,5.0,0 days 00:01:32.599000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 5 
+2023,Qatar Grand Prix,R,GAS,16.0,0 days 00:01:29.441000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 16 
+2023,Qatar Grand Prix,R,GAS,28.0,0 days 00:01:27.586000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 28 
+2023,Qatar Grand Prix,R,GAS,42.0,0 days 00:01:26.634000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 42 
+2023,Qatar Grand Prix,R,GAS,43.0,0 days 00:01:27.357000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 43 
+2023,Qatar Grand Prix,R,GAS,52.0,0 days 00:01:29.058000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 52 
+2023,Qatar Grand Prix,R,GAS,55.0,0 days 00:01:25.793000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 55 
+2023,Qatar Grand Prix,R,ALB,11.0,0 days 00:01:30.521000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 11 
+2023,Qatar Grand Prix,R,ALB,12.0,0 days 00:01:31.693000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 12 
+2023,Qatar Grand Prix,R,ALB,21.0,0 days 00:01:29.204000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 21 
+2023,Qatar Grand Prix,R,ALB,45.0,0 days 00:01:51.580000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 45 
+2023,Qatar Grand Prix,R,ALB,46.0,0 days 00:01:26.778000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 46 
+2023,Qatar Grand Prix,R,MAG,5.0,0 days 00:01:33.919000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 5 
+2023,Qatar Grand Prix,R,TSU,29.0,0 days 00:01:28.669000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 29 
+2023,Qatar Grand Prix,R,HUL,18.0,0 days 00:01:28.224000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 18 
+2023,Qatar Grand Prix,R,HUL,56.0,0 days 00:01:26.444000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 56 
+2023,Qatar Grand Prix,R,LAW,9.0,0 days 00:01:31.125000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 9 
+2023,Qatar Grand Prix,R,LAW,10.0,0 days 00:01:31.231000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 10 
+2023,Qatar Grand Prix,R,LAW,11.0,0 days 00:01:31.106000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 11 
+2023,Qatar Grand Prix,R,SAR,9.0,0 days 00:01:31.699000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 9 
+2023,Qatar Grand Prix,R,SAR,38.0,0 days 00:01:28.976000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 38 
+2023,Qatar Grand Prix,R,ALO,,,2,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 2
+2023,United States Grand Prix,Q,NOR,10.0,0 days 00:01:35.981000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 11 
+2023,United States Grand Prix,Q,RUS,14.0,0 days 00:01:35.682000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 15 
+2023,United States Grand Prix,Q,VER,17.0,0 days 00:01:34.718000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 18 
+2023,United States Grand Prix,Q,ZHO,5.0,0 days 00:01:37.525000,20,clear_violation,TRACK LIMITS AT TURN 20 LAP 6 
+2023,United States Grand Prix,Q,RIC,11.0,0 days 00:01:36.437000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 12 
+2023,United States Grand Prix,Q,HUL,5.0,0 days 00:01:36.379000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 6 
+2023,United States Grand Prix,Q,SAR,4.0,0 days 00:01:38.203000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 5 
+2023,United States Grand Prix,S,NOR,18.0,0 days 00:01:40.309000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 18 
+2023,United States Grand Prix,S,NOR,19.0,0 days 00:01:40.492000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 19 
+2023,United States Grand Prix,S,PER,2.0,0 days 00:01:41.841000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 2 
+2023,United States Grand Prix,S,RUS,3.0,0 days 00:01:41.327000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 3 
+2023,United States Grand Prix,S,ALB,7.0,0 days 00:01:41.185000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 7 
+2023,United States Grand Prix,S,ALB,19.0,0 days 00:01:40.067000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 19 
+2023,United States Grand Prix,S,PIA,3.0,0 days 00:01:42.870000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 3 
+2023,United States Grand Prix,S,PIA,6.0,0 days 00:01:42.360000,20,clear_violation,TRACK LIMITS AT TURN 20 LAP 6 
+2023,United States Grand Prix,S,PIA,7.0,0 days 00:01:42.072000,20,clear_violation,TRACK LIMITS AT TURN 20 (NEXT LAP)
+2023,United States Grand Prix,S,RIC,4.0,0 days 00:01:41.832000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 4 
+2023,United States Grand Prix,S,ZHO,13.0,0 days 00:01:42.116000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 13 
+2023,United States Grand Prix,S,MAG,8.0,0 days 00:01:43.529000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 8 
+2023,United States Grand Prix,S,MAG,9.0,0 days 00:01:43.169000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 9 
+2023,United States Grand Prix,S,MAG,12.0,0 days 00:01:43.371000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 12 
+2023,United States Grand Prix,S,MAG,13.0,0 days 00:01:43.970000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 13 
+2023,United States Grand Prix,S,SAR,12.0,0 days 00:01:43.815000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 12 
+2023,United States Grand Prix,R,NOR,16.0,0 days 00:01:42.725000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 16 
+2023,United States Grand Prix,R,NOR,26.0,0 days 00:01:42.115000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 26 
+2023,United States Grand Prix,R,SAI,41.0,0 days 00:01:40.907000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 41 
+2023,United States Grand Prix,R,PER,41.0,0 days 00:01:40.837000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 41 
+2023,United States Grand Prix,R,RUS,11.0,0 days 00:01:43.172000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 11 
+2023,United States Grand Prix,R,GAS,22.0,0 days 00:01:42.598000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 22 
+2023,United States Grand Prix,R,STR,26.0,0 days 00:01:42.273000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 26 
+2023,United States Grand Prix,R,TSU,3.0,0 days 00:01:45.158000,20,clear_violation,TRACK LIMITS AT TURN 20 LAP 3 
+2023,United States Grand Prix,R,ALB,20.0,0 days 00:01:43.029000,20,clear_violation,TRACK LIMITS AT TURN 20 LAP 20 
+2023,United States Grand Prix,R,ALB,21.0,0 days 00:01:42.679000,20,clear_violation,TRACK LIMITS AT TURN 20 (NEXT LAP)
+2023,United States Grand Prix,R,ALB,45.0,0 days 00:01:41.517000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 45 
+2023,United States Grand Prix,R,ALB,47.0,0 days 00:01:41.675000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 47 
+2023,United States Grand Prix,R,ALB,48.0,0 days 00:01:41.318000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 48 
+2023,United States Grand Prix,R,ALB,49.0,0 days 00:01:41.596000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 49 
+2023,United States Grand Prix,R,SAR,12.0,0 days 00:02:04.136000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 12 
+2023,United States Grand Prix,R,SAR,32.0,0 days 00:01:43.953000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 32 
+2023,United States Grand Prix,R,SAR,41.0,0 days 00:01:41.432000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 41 
+2023,United States Grand Prix,R,HUL,5.0,0 days 00:01:44.648000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 5 
+2023,United States Grand Prix,R,HUL,13.0,0 days 00:01:43.771000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 13 
+2023,United States Grand Prix,R,MAG,2.0,0 days 00:01:45.395000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 2 
+2023,United States Grand Prix,R,MAG,5.0,0 days 00:01:43.618000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 5 
+2023,United States Grand Prix,R,MAG,10.0,0 days 00:01:44.749000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 10 
+2023,United States Grand Prix,R,MAG,22.0,0 days 00:01:43.838000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 22 
+2023,United States Grand Prix,R,MAG,55.0,0 days 00:01:43.838000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 22 
+2023,United States Grand Prix,R,ALO,2.0,0 days 00:01:45.424000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 2 
+2023,United States Grand Prix,R,ALO,18.0,0 days 00:01:44.156000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 18 
+2023,United States Grand Prix,R,OCO,5.0,0 days 00:01:48.938000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 5 
+2023,United States Grand Prix,R,HAM,6.0,0 days 00:01:42.189000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 6 
+2023,United States Grand Prix,R,HAM,16.0,0 days 00:01:42.540000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 16 
+2023,United States Grand Prix,R,HAM,56.0,0 days 00:01:40.743000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 56 
+2023,United States Grand Prix,R,LEC,11.0,0 days 00:01:44.450000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 11 
+2023,United States Grand Prix,R,LEC,49.0,0 days 00:01:41.400000,20,clear_violation,TRACK LIMITS AT TURN 20 LAP 49 
+2023,United States Grand Prix,R,LEC,50.0,0 days 00:01:42.085000,20,clear_violation,TRACK LIMITS AT TURN 20 (NEXT LAP)
+2023,United States Grand Prix,R,LEC,52.0,0 days 00:01:42.190000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 52 
+2023,Mexico City Grand Prix,FP1,SAI,,,1,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 1
+2023,Mexico City Grand Prix,FP1,NOR,,,12,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 12
+2023,Mexico City Grand Prix,FP3,OCO,,,1,no_advantage,CAR 31 (OCO) OFF TRACK AND CONTINUED AT TURN 1
+2023,Mexico City Grand Prix,FP3,STR,,,9,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 9
+2023,Mexico City Grand Prix,Q,ALB,11.0,0 days 00:01:18.302000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 12 
+2023,Mexico City Grand Prix,Q,SAR,2.0,0 days 00:01:20.439000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 3 
+2023,Mexico City Grand Prix,Q,SAR,5.0,0 days 00:01:19.965000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 6 
+2023,Mexico City Grand Prix,R,SAR,54.0,0 days 00:01:23.916000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 54 
+2023,Mexico City Grand Prix,R,SAR,65.0,0 days 00:01:23.751000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 65 
+2023,Mexico City Grand Prix,R,MAG,24.0,0 days 00:01:43.471000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 24 
+2023,Mexico City Grand Prix,R,MAG,29.0,0 days 00:01:24.579000,17,clear_violation,TRACK LIMITS AT TURN 17 LAP 29 
+2023,Mexico City Grand Prix,R,TSU,8.0,0 days 00:01:25.565000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 8 
+2023,Mexico City Grand Prix,R,TSU,49.0,0 days 00:01:40.130000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 49 
+2023,Mexico City Grand Prix,R,TSU,53.0,0 days 00:01:24.328000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 53 
+2023,Mexico City Grand Prix,R,SAI,28.0,0 days 00:01:24.158000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 28 
+2023,Mexico City Grand Prix,R,RUS,16.0,0 days 00:01:25.192000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 16 
+2023,Mexico City Grand Prix,R,TSU,,,1,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 1
+2023,São Paulo Grand Prix,FP1,SAR,,,1,no_advantage,CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 1
+2023,São Paulo Grand Prix,FP1,BOT,,,1,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 1
+2023,São Paulo Grand Prix,Q,ALB,14.0,0 days 00:01:10.773000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 15 
+2023,São Paulo Grand Prix,S,SAR,5.0,0 days 00:01:18.311000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 5 
+2023,São Paulo Grand Prix,S,SAR,,,1,no_advantage,CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 1
+2023,Las Vegas Grand Prix,FP2,PER,,,12,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 12
+2023,Las Vegas Grand Prix,FP2,MAG,,,12,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 12
+2023,Las Vegas Grand Prix,FP2,STR,,,14,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 14
+2023,Las Vegas Grand Prix,FP2,VER,,,12,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 12
+2023,Las Vegas Grand Prix,FP2,HUL,,,12,no_advantage,CAR 27 (HUL) OFF TRACK AND CONTINUED AT TURN 12
+2023,Las Vegas Grand Prix,FP2,GAS,,,12,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 12
+2023,Las Vegas Grand Prix,FP2,ALB,,,14,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 14
+2023,Las Vegas Grand Prix,FP2,RUS,,,5,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 5
+2023,Las Vegas Grand Prix,FP2,SAR,,,12,no_advantage,CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 12
+2023,Las Vegas Grand Prix,FP2,RUS,,,14,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 14
+2023,Las Vegas Grand Prix,FP2,SAR,,,5,no_advantage,CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 5
+2023,Las Vegas Grand Prix,FP2,VER,,,5,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 5
+2023,Las Vegas Grand Prix,FP3,MAG,,,5,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 5
+2023,Las Vegas Grand Prix,FP3,BOT,,,14,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 14
+2023,Las Vegas Grand Prix,FP3,SAR,,,5,no_advantage,CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 5
+2023,Las Vegas Grand Prix,FP3,ZHO,,,1,no_advantage,CAR 24 (ZHO) OFF TRACK AND CONTINUED AT TURN 1
+2023,Las Vegas Grand Prix,FP3,RUS,,,12,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 12
+2023,Las Vegas Grand Prix,FP3,RIC,,,12,no_advantage,CAR 3 (RIC) OFF TRACK AND CONTINUED AT TURN 12
+2023,Las Vegas Grand Prix,FP3,VER,,,12,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 12
+2023,Las Vegas Grand Prix,FP3,ALB,,,5,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 5
+2023,Las Vegas Grand Prix,Q,RUS,3.0,0 days 00:01:46.859000,8,clear_violation,TRACK LIMITS AT TURN 8 LAP 4 0:09:47
+2023,Las Vegas Grand Prix,Q,RUS,6.0,0 days 00:01:59.869000,8,clear_violation,TRACK LIMITS AT TURN 8 LAP 7 0:15:37
+2023,Las Vegas Grand Prix,Q,HAM,5.0,0 days 00:02:00.864000,8,clear_violation,TRACK LIMITS AT TURN 8 LAP 6 0:13:15
+2023,Las Vegas Grand Prix,Q,NOR,7.0,0 days 00:01:52.414000,8,clear_violation,TRACK LIMITS AT TURN 8 LAP 8 0:12:47
+2023,Las Vegas Grand Prix,Q,TSU,5.0,0 days 00:01:36.976000,8,clear_violation,TRACK LIMITS AT TURN 8 LAP 6 0:08:49
+2023,Las Vegas Grand Prix,Q,TSU,,,5,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 5
+2023,Las Vegas Grand Prix,R,GAS,29.0,0 days 00:01:41.251000,17,clear_violation,TRACK LIMITS AT TURN 17 (NEXT LAP)
+2023,Las Vegas Grand Prix,R,ALO,47.0,0 days 00:01:36.718000,8,clear_violation,TRACK LIMITS AT TURN 8 LAP 47 
+2023,Las Vegas Grand Prix,R,LEC,43.0,0 days 00:01:38.449000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 43 
+2023,Las Vegas Grand Prix,R,STR,20.0,0 days 00:01:39.953000,8,clear_violation,TRACK LIMITS AT TURN 8 LAP 20 
+2023,Las Vegas Grand Prix,R,SAR,40.0,0 days 00:01:39.781000,8,clear_violation,TRACK LIMITS AT TURN 8 LAP 40 
+2023,Las Vegas Grand Prix,R,MAG,13.0,0 days 00:01:39.792000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 13 
+2023,Las Vegas Grand Prix,R,ALB,40.0,0 days 00:01:41.170000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 40 
+2023,Las Vegas Grand Prix,R,OCO,8.0,0 days 00:01:41.013000,17,clear_violation,TRACK LIMITS AT TURN 17 LAP 8 
+2023,Las Vegas Grand Prix,R,OCO,9.0,0 days 00:01:40.316000,17,clear_violation,TRACK LIMITS AT TURN 17 (NEXT LAP)
+2023,Las Vegas Grand Prix,R,HAM,17.0,0 days 00:01:58.137000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 17 
+2023,Las Vegas Grand Prix,R,HAM,47.0,0 days 00:01:36.425000,8,clear_violation,TRACK LIMITS AT TURN 8 LAP 47 
+2023,Las Vegas Grand Prix,R,BOT,2.0,0 days 00:02:27.981000,8,clear_violation,TRACK LIMITS AT TURN 8 LAP 2 
+2023,Las Vegas Grand Prix,R,BOT,14.0,0 days 00:01:43.971000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 14 
+2023,Abu Dhabi Grand Prix,Q,VER,5.0,0 days 00:01:24.554000,16,clear_violation,TRACK LIMITS AT TURN 16 LAP 6 
+2023,Abu Dhabi Grand Prix,Q,HUL,2.0,0 days 00:01:25.054000,16,clear_violation,TRACK LIMITS AT TURN 16 LAP 3 
+2023,Abu Dhabi Grand Prix,Q,HUL,8.0,0 days 00:01:25.003000,16,clear_violation,TRACK LIMITS AT TURN 16 LAP 9 
+2023,Abu Dhabi Grand Prix,Q,PER,16.0,0 days 00:01:23.868000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 17 
+2023,Abu Dhabi Grand Prix,Q,GAS,17.0,0 days 00:01:24.533000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 18 
+2023,Abu Dhabi Grand Prix,Q,ZHO,2.0,0 days 00:01:25.114000,16,clear_violation,TRACK LIMITS AT TURN 16 LAP 3 
+2023,Abu Dhabi Grand Prix,Q,SAR,2.0,0 days 00:01:24.722000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 3 
+2023,Abu Dhabi Grand Prix,Q,SAR,5.0,0 days 00:01:24.532000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 6 
+2023,Abu Dhabi Grand Prix,R,VER,23.0,0 days 00:01:29.634000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 23 
+2023,Abu Dhabi Grand Prix,R,LEC,10.0,0 days 00:01:30.609000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 10 
+2023,Abu Dhabi Grand Prix,R,LEC,28.0,0 days 00:01:29.556000,16,clear_violation,TRACK LIMITS AT TURN 16 LAP 29 
+2023,Abu Dhabi Grand Prix,R,LEC,29.0,0 days 00:01:29.556000,16,clear_violation,TRACK LIMITS AT TURN 16 LAP 29 
+2023,Abu Dhabi Grand Prix,R,RUS,54.0,0 days 00:01:30.038000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 54 
+2023,Abu Dhabi Grand Prix,R,PER,41.0,0 days 00:01:29.195000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 41 
+2023,Abu Dhabi Grand Prix,R,NOR,9.0,0 days 00:01:30.613000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 9 
+2023,Abu Dhabi Grand Prix,R,NOR,31.0,0 days 00:01:30.010000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 31 
+2023,Abu Dhabi Grand Prix,R,NOR,47.0,0 days 00:01:28.568000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 47 
+2023,Abu Dhabi Grand Prix,R,PIA,15.0,0 days 00:01:30.649000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 15 
+2023,Abu Dhabi Grand Prix,R,PIA,31.0,0 days 00:01:30.082000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 31 
+2023,Abu Dhabi Grand Prix,R,ALO,33.0,0 days 00:01:30.426000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 33 
+2023,Abu Dhabi Grand Prix,R,TSU,15.0,0 days 00:01:30.901000,16,clear_violation,TRACK LIMITS AT TURN 16 LAP 15 
+2023,Abu Dhabi Grand Prix,R,TSU,16.0,0 days 00:01:31.081000,16,clear_violation,TRACK LIMITS AT TURN 16 (NEXT LAP)
+2023,Abu Dhabi Grand Prix,R,TSU,17.0,0 days 00:01:31.228000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 17 
+2023,Abu Dhabi Grand Prix,R,HAM,14.0,0 days 00:01:31.432000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 14 
+2023,Abu Dhabi Grand Prix,R,STR,14.0,0 days 00:01:31.693000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 14 
+2023,Abu Dhabi Grand Prix,R,STR,32.0,0 days 00:01:29.831000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 32 
+2023,Abu Dhabi Grand Prix,R,RIC,5.0,0 days 00:01:31.326000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 5 
+2023,Abu Dhabi Grand Prix,R,RIC,31.0,0 days 00:01:32.484000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 31 
+2023,Abu Dhabi Grand Prix,R,GAS,41.0,0 days 00:01:29.621000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 41 
+2023,Abu Dhabi Grand Prix,R,GAS,43.0,0 days 00:01:29.717000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 43 
+2023,Abu Dhabi Grand Prix,R,ALB,2.0,0 days 00:01:33.560000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 2 
+2023,Abu Dhabi Grand Prix,R,ALB,14.0,0 days 00:01:31.655000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 14 
+2023,Abu Dhabi Grand Prix,R,ALB,31.0,0 days 00:01:30.555000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 31 
+2023,Abu Dhabi Grand Prix,R,ALB,32.0,0 days 00:01:30.350000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 32 
+2023,Abu Dhabi Grand Prix,R,HUL,11.0,0 days 00:01:32.002000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 11 
+2023,Abu Dhabi Grand Prix,R,SAR,2.0,0 days 00:01:33.582000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 2 
+2023,Abu Dhabi Grand Prix,R,SAR,10.0,0 days 00:01:32.038000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 10 
+2023,Abu Dhabi Grand Prix,R,ZHO,12.0,0 days 00:01:32.298000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 12 
+2023,Abu Dhabi Grand Prix,R,SAI,6.0,0 days 00:01:31.175000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 6 
+2023,Abu Dhabi Grand Prix,R,SAI,30.0,0 days 00:01:29.700000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 30 
+2023,Abu Dhabi Grand Prix,R,MAG,23.0,0 days 00:01:51.422000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 23 

@@ -1,0 +1,708 @@
+﻿year,race,session,driver,lap,lap_time,turn,label,reason
+2022,Pre-Season Track Session,FP2,BOT,,,3,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 3
+2022,Pre-Season Track Session,FP2,ZHO,,,3,no_advantage,CAR 24 (ZHO) OFF TRACK AND CONTINUED AT TURN 3
+2022,Pre-Season Track Session,FP2,MSC,,,9,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 9
+2022,Pre-Season Track Session,FP2,PER,,,3,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 3
+2022,Pre-Season Track Session,FP3,VET,,,3,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 3
+2022,Pre-Season Track Session,FP3,PER,,,3,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 3
+2022,Pre-Season Track Session,FP3,SAI,,,3,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 3
+2022,Pre-Season Track Session,Q,LAT,18.0,0 days 00:02:05.637000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 19 
+2022,Pre-Season Track Session,Q,VER,,,13,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 13
+2022,Pre-Season Track Session,Q,LAT,,,3,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 3
+2022,Pre-Season Track Session,Q,LAT,,,1,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 1
+2022,Pre-Season Track Session,R,VER,45.0,0 days 00:01:32.135000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 45 
+2022,Pre-Season Track Session,R,GAS,10.0,0 days 00:01:36.250000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 10 
+2022,Pre-Season Track Session,R,LEC,45.0,0 days 00:01:33.088000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 45 
+2022,Pre-Season Track Session,R,STR,50.0,0 days 00:01:32.812000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 50 
+2022,Pre-Season Track Session,R,MAG,8.0,0 days 00:01:35.611000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 8 
+2022,Pre-Season Track Session,R,MAG,49.0,0 days 00:01:32.813000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 49 
+2022,Pre-Season Track Session,R,LAT,26.0,0 days 00:01:34.684000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 26 
+2022,Pre-Season Track Session,R,LAT,31.0,0 days 00:01:34.309000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 31 
+2022,Pre-Season Track Session,R,TSU,,,3,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 3
+2022,Pre-Season Test,Q,HAM,5.0,0 days 00:01:35.878000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 6 
+2022,Pre-Season Test,Q,VET,8.0,0 days 00:01:37.131000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 9 
+2022,Pre-Season Test,Q,ZHO,5.0,0 days 00:01:36.908000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 6 
+2022,Pre-Season Test,Q,ZHO,14.0,0 days 00:01:36.196000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 15 
+2022,Pre-Season Test,Q,TSU,11.0,0 days 00:01:36.439000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 12 
+2022,Pre-Season Test,R,VER,48.0,0 days 00:01:40.271000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 48 
+2022,Pre-Season Test,R,VER,51.0,0 days 00:01:40.152000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 51 
+2022,Pre-Season Test,R,GAS,9.0,0 days 00:01:45.019000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 9 
+2022,Pre-Season Test,R,GAS,31.0,0 days 00:01:43.032000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 31 
+2022,Pre-Season Test,R,GAS,34.0,0 days 00:01:42.542000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 34 
+2022,Pre-Season Test,R,PER,8.0,0 days 00:01:43.075000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 8 
+2022,Pre-Season Test,R,PER,47.0,0 days 00:01:39.936000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 47 
+2022,Pre-Season Test,R,PER,54.0,0 days 00:01:40.724000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 54 
+2022,Pre-Season Test,R,ALO,3.0,0 days 00:01:44.501000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 3 
+2022,Pre-Season Test,R,MAG,26.0,0 days 00:01:44.296000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 26 
+2022,Pre-Season Test,R,TSU,15.0,0 days 00:01:44.402000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 15 
+2022,Pre-Season Test,R,ALB,6.0,0 days 00:01:44.688000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 6 
+2022,Pre-Season Test,R,ALB,8.0,0 days 00:01:45.814000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 8 
+2022,Pre-Season Test,R,ALB,12.0,0 days 00:01:43.462000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 12 
+2022,Pre-Season Test,R,ZHO,32.0,0 days 00:01:45.053000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 32 
+2022,Pre-Season Test,R,ZHO,33.0,0 days 00:01:43.747000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 33 
+2022,Pre-Season Test,R,ZHO,36.0,0 days 00:01:43.212000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 36 
+2022,Pre-Season Test,R,RIC,7.0,0 days 00:01:44.578000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 7 
+2022,Pre-Season Test,R,RIC,33.0,0 days 00:01:44.857000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 33 
+2022,Pre-Season Test,R,NOR,15.0,0 days 00:02:03.849000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 15 
+2022,Pre-Season Test,R,NOR,51.0,0 days 00:01:41.908000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 51 
+2022,Pre-Season Test,R,HAM,13.0,0 days 00:02:02.611000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 13 
+2022,Pre-Season Test,R,HAM,43.0,0 days 00:01:40.309000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 43 
+2022,Pre-Season Test,R,HAM,52.0,0 days 00:01:40.422000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 52 
+2022,Pre-Season Test,R,MSC,3.0,0 days 00:01:44.896000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 3 
+2022,Pre-Season Test,R,MSC,10.0,0 days 00:01:45.900000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 10 
+2022,Pre-Season Test,R,MSC,39.0,0 days 00:01:42.899000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 39 
+2022,Pre-Season Test,R,MSC,53.0,0 days 00:01:43.321000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 53 
+2022,Pre-Season Test,R,RUS,35.0,0 days 00:01:41.827000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 35 
+2022,Bahrain Grand Prix,FP1,LEC,,,11,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 11
+2022,Bahrain Grand Prix,FP1,ALB,,,4,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 4
+2022,Bahrain Grand Prix,Q,ZHO,11.0,0 days 00:01:32.387000,5,clear_violation,TRACK LIMITS AT TURN 5
+2022,Bahrain Grand Prix,R,ALO,41.0,0 days 00:01:39.854000,4,clear_violation,TRACK LIMITS AT TURN 4
+2022,Bahrain Grand Prix,R,TSU,25.0,0 days 00:01:40.376000,4,clear_violation,TRACK LIMITS AT TURN 4
+2022,Bahrain Grand Prix,R,NOR,2.0,0 days 00:01:42.279000,4,clear_violation,TRACK LIMITS AT TURN 4
+2022,Bahrain Grand Prix,R,HAM,34.0,0 days 00:01:37.593000,4,clear_violation,TRACK LIMITS AT TURN 4
+2022,Bahrain Grand Prix,R,HUL,,,1,no_advantage,CAR 27 (HUL) OFF TRACK AND CONTINUED AT TURN 1
+2022,Bahrain Grand Prix,R,ALB,,,10,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 10
+2022,Saudi Arabian Grand Prix,FP1,VER,,,8,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 8
+2022,Saudi Arabian Grand Prix,FP1,TSU,,,8,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 8
+2022,Saudi Arabian Grand Prix,R,PER,35.0,0 days 00:01:33.529000,2,clear_violation,TRACK LIMITS AT TURN 2
+2022,Saudi Arabian Grand Prix,R,LEC,47.0,0 days 00:01:32.587000,2,clear_violation,TRACK LIMITS AT TURN 2
+2022,Saudi Arabian Grand Prix,R,MAG,11.0,0 days 00:01:37.700000,2,clear_violation,TRACK LIMITS AT TURN 2
+2022,Saudi Arabian Grand Prix,R,ALB,4.0,0 days 00:01:38.264000,2,clear_violation,TRACK LIMITS AT TURN 2
+2022,Saudi Arabian Grand Prix,R,ALB,8.0,0 days 00:01:38.257000,2,clear_violation,TRACK LIMITS AT TURN 2
+2022,Saudi Arabian Grand Prix,R,ZHO,5.0,0 days 00:01:38.409000,2,clear_violation,TRACK LIMITS AT TURN 2
+2022,Saudi Arabian Grand Prix,R,ZHO,48.0,0 days 00:01:36.051000,2,clear_violation,TRACK LIMITS AT TURN 2
+2022,Saudi Arabian Grand Prix,R,OCO,8.0,0 days 00:01:38.419000,2,clear_violation,TRACK LIMITS AT TURN 2
+2022,Saudi Arabian Grand Prix,R,OCO,12.0,0 days 00:01:36.516000,2,clear_violation,TRACK LIMITS AT TURN 2
+2022,Saudi Arabian Grand Prix,R,NOR,4.0,0 days 00:01:38.326000,2,clear_violation,TRACK LIMITS AT TURN 2
+2022,Saudi Arabian Grand Prix,R,LAT,5.0,0 days 00:01:38.662000,2,clear_violation,TRACK LIMITS AT TURN 2
+2022,Australian Grand Prix,FP1,MAG,,,3,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 3
+2022,Australian Grand Prix,FP2,RUS,,,1,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 1
+2022,Australian Grand Prix,FP2,HAM,,,12,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 12
+2022,Australian Grand Prix,FP2,MSC,,,11,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 11
+2022,Australian Grand Prix,FP2,SAI,,,6,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 6
+2022,Australian Grand Prix,FP2,BOT,,,1,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 1
+2022,Australian Grand Prix,FP2,LAT,,,6,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 6
+2022,Australian Grand Prix,FP2,HAM,,,8,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 8
+2022,Australian Grand Prix,FP2,OCO,,,10,no_advantage,CAR 31 (OCO) OFF TRACK AND CONTINUED AT TURN 10
+2022,Australian Grand Prix,FP2,SAI,,,13,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 13
+2022,Australian Grand Prix,FP3,VER,,,6,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 6
+2022,Australian Grand Prix,FP3,HAM,,,9,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 9
+2022,Australian Grand Prix,FP3,SAI,,,10,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 10
+2022,Australian Grand Prix,FP3,NOR,,,10,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 10
+2022,Australian Grand Prix,Q,TSU,14.0,0 days 00:01:37.188000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 15 
+2022,Australian Grand Prix,Q,TSU,,,11,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 11
+2022,Australian Grand Prix,Q,TSU,,,10,no_advantage,CORRECTION CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 10
+2022,Australian Grand Prix,Q,RUS,,,11,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 11
+2022,Australian Grand Prix,Q,TSU,,,11,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 11
+2022,Australian Grand Prix,Q,SAI,,,6,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 6
+2022,Australian Grand Prix,R,LAT,,,4,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 4
+2022,Australian Grand Prix,R,VET,,,11,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 11
+2022,Australian Grand Prix,R,MSC,,,11,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 11
+2022,Australian Grand Prix,R,MAG,,,9,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 9
+2022,Australian Grand Prix,R,BOT,,,10,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 10
+2022,Australian Grand Prix,R,MAG,,,2,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 2
+2022,Australian Grand Prix,R,PER,,,13,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 13
+2022,Australian Grand Prix,R,GAS,,,13,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 13
+2022,Emilia Romagna Grand Prix,FP1,MAG,,,12,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 12
+2022,Emilia Romagna Grand Prix,FP1,LAT,,,7,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 7
+2022,Emilia Romagna Grand Prix,FP1,STR,,,12,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 12
+2022,Emilia Romagna Grand Prix,FP1,NOR,,,17,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 17
+2022,Emilia Romagna Grand Prix,FP1,OCO,,,17,no_advantage,CAR 31 (OCO) OFF TRACK AND CONTINUED AT TURN 17
+2022,Emilia Romagna Grand Prix,FP1,STR,,,13,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 13
+2022,Emilia Romagna Grand Prix,FP1,STR,,,18,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 18
+2022,Emilia Romagna Grand Prix,FP1,MAG,,,17,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 17
+2022,Emilia Romagna Grand Prix,FP1,SAI,,,13,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 13
+2022,Emilia Romagna Grand Prix,FP1,MAG,,,18,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 18
+2022,Emilia Romagna Grand Prix,FP1,VET,,,2,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 2
+2022,Emilia Romagna Grand Prix,FP1,VER,,,13,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 13
+2022,Emilia Romagna Grand Prix,FP1,GAS,,,4,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 4
+2022,Emilia Romagna Grand Prix,FP1,VET,,,13,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 13
+2022,Emilia Romagna Grand Prix,FP1,RUS,,,13,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 13
+2022,Emilia Romagna Grand Prix,FP1,GAS,,,13,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 13
+2022,Emilia Romagna Grand Prix,FP2,MAG,,,13,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 13
+2022,Emilia Romagna Grand Prix,Q,ALO,22.0,0 days 00:01:41.547000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 23 
+2022,Emilia Romagna Grand Prix,Q,PER,21.0,0 days 00:01:32.056000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 22 
+2022,Emilia Romagna Grand Prix,Q,VET,23.0,0 days 00:01:39.741000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 24 
+2022,Emilia Romagna Grand Prix,Q,MSC,6.0,0 days 00:01:32.381000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 7 
+2022,Emilia Romagna Grand Prix,Q,VER,,,2,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 2
+2022,Emilia Romagna Grand Prix,Q,PER,,,2,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 2
+2022,Emilia Romagna Grand Prix,Q,ALO,,,11,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 11
+2022,Emilia Romagna Grand Prix,Q,VET,,,2,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 2
+2022,Emilia Romagna Grand Prix,Q,BOT,,,12,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 12
+2022,Emilia Romagna Grand Prix,R,PER,28.0,0 days 00:01:22.805000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 28 
+2022,Emilia Romagna Grand Prix,R,LEC,14.0,0 days 00:01:31.846000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 14 
+2022,Emilia Romagna Grand Prix,R,VET,13.0,0 days 00:01:34.132000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 13 
+2022,Emilia Romagna Grand Prix,R,LAT,13.0,0 days 00:01:35.501000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 13 
+2022,Emilia Romagna Grand Prix,R,MSC,16.0,0 days 00:01:36.287000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 16 
+2022,Emilia Romagna Grand Prix,R,MSC,24.0,0 days 00:01:33.860000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 24 
+2022,Emilia Romagna Grand Prix,R,MSC,27.0,0 days 00:01:22.785000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 27 
+2022,Emilia Romagna Grand Prix,R,RIC,54.0,0 days 00:01:22.177000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 54 
+2022,Miami Grand Prix,FP1,PER,,,1,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 1
+2022,Miami Grand Prix,FP2,STR,,,17,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 17
+2022,Miami Grand Prix,FP3,MAG,,,17,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 17
+2022,Miami Grand Prix,Q,VER,16.0,0 days 00:02:03.565000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 17 
+2022,Miami Grand Prix,Q,HAM,5.0,0 days 00:01:39.347000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 6 
+2022,Miami Grand Prix,Q,GAS,2.0,0 days 00:01:33.831000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 3 
+2022,Miami Grand Prix,R,GAS,24.0,0 days 00:01:36.593000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 24 
+2022,Miami Grand Prix,R,ALO,3.0,0 days 00:01:36.848000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 3 
+2022,Miami Grand Prix,R,ALO,56.0,0 days 00:01:33.344000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 56 
+2022,Miami Grand Prix,R,MAG,20.0,0 days 00:01:35.090000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 20 
+2022,Miami Grand Prix,R,VET,5.0,0 days 00:01:37.541000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 5 
+2022,Miami Grand Prix,R,LAT,34.0,0 days 00:01:40.889000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 34 
+2022,Miami Grand Prix,R,MAG,,,11,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 11
+2022,Spanish Grand Prix,FP1,DEV,24.0,0 days 00:02:22.970000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 25 
+2022,Spanish Grand Prix,FP2,NOR,,,7,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 7
+2022,Spanish Grand Prix,FP2,PER,,,8,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 8
+2022,Spanish Grand Prix,Q,PER,10.0,0 days 00:01:20.171000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 11 
+2022,Spanish Grand Prix,Q,NOR,11.0,0 days 00:01:19.977000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 12 
+2022,Spanish Grand Prix,Q,TSU,2.0,0 days 00:01:21.836000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 3 
+2022,Spanish Grand Prix,Q,PER,,,8,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 8
+2022,Spanish Grand Prix,R,VER,24.0,0 days 00:01:29.602000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 24 
+2022,Spanish Grand Prix,R,PER,50.0,0 days 00:01:27.390000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 50 
+2022,Spanish Grand Prix,R,HAM,12.0,0 days 00:01:28.746000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 12 
+2022,Spanish Grand Prix,R,HAM,35.0,0 days 00:01:27.310000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 35 
+2022,Spanish Grand Prix,R,HAM,41.0,0 days 00:01:27.360000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 41 
+2022,Spanish Grand Prix,R,ALO,25.0,0 days 00:01:29.732000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 25 
+2022,Spanish Grand Prix,R,ALO,26.0,0 days 00:01:30.135000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 26 
+2022,Spanish Grand Prix,R,TSU,8.0,0 days 00:01:30.237000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 8 
+2022,Spanish Grand Prix,R,VET,14.0,0 days 00:01:30.653000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 14 
+2022,Spanish Grand Prix,R,VET,38.0,0 days 00:01:28.876000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 38 
+2022,Spanish Grand Prix,R,MSC,31.0,0 days 00:01:46.912000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 31 
+2022,Spanish Grand Prix,R,MAG,30.0,0 days 00:01:50.257000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 30 
+2022,Spanish Grand Prix,R,ALB,16.0,0 days 00:01:31.254000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 16 
+2022,Spanish Grand Prix,R,ALB,36.0,0 days 00:01:29.988000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 36 
+2022,Spanish Grand Prix,R,ALB,39.0,0 days 00:01:30.624000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 39 
+2022,Spanish Grand Prix,R,ALB,62.0,0 days 00:01:30.496000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 62 
+2022,Spanish Grand Prix,R,MAG,,,4,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 4
+2022,Spanish Grand Prix,R,SAI,,,4,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 4
+2022,Spanish Grand Prix,R,VER,,,4,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 4
+2022,Monaco Grand Prix,FP1,LEC,,,1,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 1
+2022,Monaco Grand Prix,Q,SAI,1.0,0 days 00:01:57.457000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 2 
+2022,Monaco Grand Prix,Q,SAI,4.0,0 days 00:01:38.231000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 5 
+2022,Monaco Grand Prix,Q,PER,7.0,0 days 00:01:33.426000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 8 
+2022,Monaco Grand Prix,Q,RUS,13.0,0 days 00:01:34.333000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 14 
+2022,Monaco Grand Prix,Q,RUS,22.0,0 days 00:01:29.304000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 23 
+2022,Monaco Grand Prix,R,GAS,4.0,0 days 00:01:42.417000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 4 
+2022,Monaco Grand Prix,R,GAS,63.0,0 days 00:01:18.478000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 63 
+2022,Monaco Grand Prix,R,STR,11.0,0 days 00:01:36.129000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 11 
+2022,Monaco Grand Prix,R,MAG,19.0,0 days 00:01:37.629000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 19 
+2022,Monaco Grand Prix,R,TSU,44.0,0 days 00:01:19.880000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 44 
+2022,Monaco Grand Prix,R,ALB,15.0,0 days 00:01:36.171000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 15 
+2022,Monaco Grand Prix,R,ALB,17.0,0 days 00:01:35.701000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 17 
+2022,Monaco Grand Prix,R,ALB,22.0,0 days 00:02:10.065000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 22 
+2022,Monaco Grand Prix,R,ZHO,11.0,0 days 00:01:38.623000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 11 
+2022,Monaco Grand Prix,R,ZHO,49.0,0 days 00:01:24.257000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 49 
+2022,Monaco Grand Prix,R,HAM,13.0,0 days 00:01:36.750000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 13 
+2022,Monaco Grand Prix,R,SAI,48.0,0 days 00:01:17.439000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 48 
+2022,Monaco Grand Prix,R,RUS,8.0,0 days 00:01:38.944000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 8 
+2022,Monaco Grand Prix,R,RUS,12.0,0 days 00:01:36.456000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 12 
+2022,Azerbaijan Grand Prix,FP1,GAS,,,16,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 16
+2022,Azerbaijan Grand Prix,FP1,STR,,,4,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 4
+2022,Azerbaijan Grand Prix,FP1,GAS,,,15,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 15
+2022,Azerbaijan Grand Prix,FP1,OCO,,,17,no_advantage,CAR 31 (OCO) OFF TRACK AND CONTINUED AT TURN 17
+2022,Azerbaijan Grand Prix,FP1,VER,,,15,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 15
+2022,Azerbaijan Grand Prix,FP2,NOR,,,3,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 3
+2022,Azerbaijan Grand Prix,FP2,MSC,,,4,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 4
+2022,Azerbaijan Grand Prix,FP2,PER,,,1,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 1
+2022,Azerbaijan Grand Prix,FP2,GAS,,,1,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 1
+2022,Azerbaijan Grand Prix,FP2,LEC,,,7,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 7
+2022,Azerbaijan Grand Prix,FP2,PER,,,15,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 15
+2022,Azerbaijan Grand Prix,FP2,STR,,,15,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 15
+2022,Azerbaijan Grand Prix,FP2,SAI,,,15,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 15
+2022,Azerbaijan Grand Prix,FP3,BOT,,,1,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 1
+2022,Azerbaijan Grand Prix,FP3,BOT,,,3,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 3
+2022,Azerbaijan Grand Prix,FP3,LEC,,,15,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 15
+2022,Azerbaijan Grand Prix,FP3,BOT,,,2,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 2
+2022,Azerbaijan Grand Prix,Q,RUS,6.0,0 days 00:01:52.090000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 7 
+2022,Azerbaijan Grand Prix,Q,BOT,,,3,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 3
+2022,Azerbaijan Grand Prix,Q,VET,,,3,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 3
+2022,Azerbaijan Grand Prix,Q,STR,,,7,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 7
+2022,Azerbaijan Grand Prix,Q,VET,,,15,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 15
+2022,Azerbaijan Grand Prix,Q,TSU,,,2,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 2
+2022,Azerbaijan Grand Prix,Q,NOR,,,15,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 15
+2022,Azerbaijan Grand Prix,R,VET,,,3,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 3
+2022,Canadian Grand Prix,FP1,VET,,,1,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,FP1,RUS,,,10,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 10
+2022,Canadian Grand Prix,FP2,VER,,,1,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,FP2,PER,,,1,no_advantage,CORRECTION - CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,FP2,VET,,,1,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,FP2,GAS,,,1,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,FP3,MAG,,,3,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 3
+2022,Canadian Grand Prix,FP3,MSC,,,10,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 10
+2022,Canadian Grand Prix,FP3,VET,,,10,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 10
+2022,Canadian Grand Prix,FP3,VET,,,1,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,FP3,RIC,,,10,no_advantage,CAR 3 (RIC) OFF TRACK AND CONTINUED AT TURN 10
+2022,Canadian Grand Prix,FP3,TSU,,,10,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 10
+2022,Canadian Grand Prix,FP3,TSU,,,1,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,FP3,TSU,,,1,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,FP3,TSU,,,10,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 10
+2022,Canadian Grand Prix,FP3,TSU,,,1,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,FP3,OCO,,,1,no_advantage,CAR 31 (OCO) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,FP3,ALB,,,1,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,FP3,GAS,,,3,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 3
+2022,Canadian Grand Prix,FP3,ALB,,,1,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,FP3,TSU,,,1,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,FP3,MAG,,,10,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 10
+2022,Canadian Grand Prix,FP3,TSU,,,1,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,FP3,GAS,,,1,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,FP3,BOT,,,1,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,FP3,SAI,,,3,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 3
+2022,Canadian Grand Prix,FP3,MAG,,,1,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,FP3,VER,,,10,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 10
+2022,Canadian Grand Prix,FP3,VER,,,4,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 4
+2022,Canadian Grand Prix,FP3,ALB,,,10,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 10
+2022,Canadian Grand Prix,FP3,ZHO,,,1,no_advantage,CAR 24 (ZHO) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,FP3,GAS,,,1,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,FP3,MSC,,,10,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 10
+2022,Canadian Grand Prix,Q,VER,5.0,0 days 00:01:40.429000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 6 
+2022,Canadian Grand Prix,Q,VER,9.0,0 days 00:01:36.728000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 10 
+2022,Canadian Grand Prix,Q,ALO,8.0,0 days 00:01:37.659000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 9 
+2022,Canadian Grand Prix,Q,ALO,27.0,0 days 00:01:41.026000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 28 
+2022,Canadian Grand Prix,Q,SAI,18.0,0 days 00:01:32.789000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 19 
+2022,Canadian Grand Prix,Q,HAM,2.0,0 days 00:01:39.260000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 3 
+2022,Canadian Grand Prix,Q,HAM,5.0,0 days 00:01:39.897000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 6 
+2022,Canadian Grand Prix,Q,MAG,3.0,0 days 00:01:36.658000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 4 
+2022,Canadian Grand Prix,Q,MAG,8.0,0 days 00:01:41.221000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 9 
+2022,Canadian Grand Prix,Q,RUS,29.0,0 days 00:02:05.186000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 30 
+2022,Canadian Grand Prix,Q,RIC,23.0,0 days 00:01:31.373000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 24 
+2022,Canadian Grand Prix,Q,BOT,2.0,0 days 00:01:38.932000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 3 
+2022,Canadian Grand Prix,Q,ALB,2.0,0 days 00:01:43.768000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 3 
+2022,Canadian Grand Prix,Q,PER,3.0,0 days 00:01:39.032000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 4 
+2022,Canadian Grand Prix,Q,NOR,4.0,0 days 00:01:38.405000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 5 
+2022,Canadian Grand Prix,Q,NOR,7.0,0 days 00:01:38.588000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 8 
+2022,Canadian Grand Prix,Q,LEC,8.0,0 days 00:01:41.013000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 9 
+2022,Canadian Grand Prix,Q,GAS,9.0,0 days 00:01:38.535000,8,clear_violation,TRACK LIMITS AT TURN 8 LAP 10 
+2022,Canadian Grand Prix,Q,VET,5.0,0 days 00:01:41.824000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 6 
+2022,Canadian Grand Prix,Q,ALB,,,10,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 10
+2022,Canadian Grand Prix,Q,PER,,,1,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,Q,MAG,,,10,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 10
+2022,Canadian Grand Prix,Q,VET,,,1,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,Q,HAM,,,2,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 2
+2022,Canadian Grand Prix,Q,VER,,,1,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,Q,TSU,,,10,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 10
+2022,Canadian Grand Prix,Q,VET,,,10,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 10
+2022,Canadian Grand Prix,Q,LAT,,,1,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,Q,OCO,,,3,no_advantage,CAR 31 (OCO) OFF TRACK AND CONTINUED AT TURN 3
+2022,Canadian Grand Prix,Q,NOR,,,7,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 7
+2022,Canadian Grand Prix,Q,NOR,,,1,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,Q,MAG,,,1,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,Q,ALO,,,1,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,Q,LEC,,,1,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,Q,VER,,,1,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,Q,MSC,,,1,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,Q,OCO,,,10,no_advantage,CAR 31 (OCO) OFF TRACK AND CONTINUED AT TURN 10
+2022,Canadian Grand Prix,Q,RUS,,,1,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,Q,ZHO,,,1,no_advantage,CAR 24 (ZHO) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,Q,SAI,,,1,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 1
+2022,Canadian Grand Prix,Q,RIC,,,6,no_advantage,CAR 3 (RIC) OFF TRACK AND CONTINUED AT TURN 6
+2022,Canadian Grand Prix,Q,RUS,,,2,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 2
+2022,Canadian Grand Prix,Q,ALO,,,10,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 10
+2022,Canadian Grand Prix,R,GAS,32.0,0 days 00:01:20.165000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 32 
+2022,Canadian Grand Prix,R,GAS,67.0,0 days 00:01:18.806000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 67 
+2022,Canadian Grand Prix,R,LEC,59.0,0 days 00:01:17.795000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 59 
+2022,Canadian Grand Prix,R,MAG,47.0,0 days 00:01:19.869000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 47 
+2022,Canadian Grand Prix,R,TSU,10.0,0 days 00:01:36.651000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 10 
+2022,Canadian Grand Prix,R,NOR,47.0,0 days 00:01:18.084000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 47 
+2022,Canadian Grand Prix,R,LAT,7.0,0 days 00:01:21.099000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 7 
+2022,Canadian Grand Prix,R,RUS,8.0,0 days 00:01:18.987000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 8 
+2022,Canadian Grand Prix,R,BOT,,,14,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 14
+2022,British Grand Prix,FP2,BOT,,,3,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 3
+2022,British Grand Prix,FP2,ZHO,,,3,no_advantage,CAR 24 (ZHO) OFF TRACK AND CONTINUED AT TURN 3
+2022,British Grand Prix,FP2,MSC,,,9,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 9
+2022,British Grand Prix,FP2,PER,,,3,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 3
+2022,British Grand Prix,FP3,VET,,,3,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 3
+2022,British Grand Prix,FP3,PER,,,3,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 3
+2022,British Grand Prix,FP3,SAI,,,3,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 3
+2022,British Grand Prix,Q,LAT,18.0,0 days 00:02:05.637000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 19 
+2022,British Grand Prix,Q,VER,,,13,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 13
+2022,British Grand Prix,Q,LAT,,,3,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 3
+2022,British Grand Prix,Q,LAT,,,1,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 1
+2022,British Grand Prix,R,VER,45.0,0 days 00:01:32.135000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 45 
+2022,British Grand Prix,R,GAS,10.0,0 days 00:01:36.250000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 10 
+2022,British Grand Prix,R,LEC,45.0,0 days 00:01:33.088000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 45 
+2022,British Grand Prix,R,STR,50.0,0 days 00:01:32.812000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 50 
+2022,British Grand Prix,R,MAG,8.0,0 days 00:01:35.611000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 8 
+2022,British Grand Prix,R,MAG,49.0,0 days 00:01:32.813000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 49 
+2022,British Grand Prix,R,LAT,26.0,0 days 00:01:34.684000,15,clear_violation,TRACK LIMITS AT TURN 15 LAP 26 
+2022,British Grand Prix,R,LAT,31.0,0 days 00:01:34.309000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 31 
+2022,British Grand Prix,R,TSU,,,3,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 3
+2022,Austrian Grand Prix,FP1,BOT,,,9,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 9
+2022,Austrian Grand Prix,FP1,HAM,,,1,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 1
+2022,Austrian Grand Prix,FP2,LEC,,,3,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 3
+2022,Austrian Grand Prix,FP2,HAM,,,1,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 1
+2022,Austrian Grand Prix,Q,VER,2.0,0 days 00:01:06.097000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 3 
+2022,Austrian Grand Prix,Q,VER,3.0,0 days 00:01:55.194000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,Q,SAI,2.0,0 days 00:01:06.363000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 3 
+2022,Austrian Grand Prix,Q,SAI,3.0,0 days 00:02:04.763000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,Q,SAI,12.0,0 days 00:01:06.032000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 13 
+2022,Austrian Grand Prix,Q,RUS,7.0,0 days 00:01:06.364000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 8 
+2022,Austrian Grand Prix,Q,MAG,5.0,0 days 00:01:06.388000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 6 
+2022,Austrian Grand Prix,Q,MSC,17.0,0 days 00:01:06.662000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 18 
+2022,Austrian Grand Prix,Q,ALO,13.0,0 days 00:01:06.100000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 14 
+2022,Austrian Grand Prix,Q,HAM,15.0,0 days 00:01:05.567000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 16 
+2022,Austrian Grand Prix,Q,ALB,5.0,0 days 00:01:06.511000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 6 
+2022,Austrian Grand Prix,Q,PER,14.0,0 days 00:01:06.273000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 15 
+2022,Austrian Grand Prix,Q,TSU,13.0,0 days 00:01:07.007000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 14 
+2022,Austrian Grand Prix,Q,NOR,17.0,0 days 00:01:06.625000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 18 
+2022,Austrian Grand Prix,Q,STR,2.0,0 days 00:01:07.618000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 3 
+2022,Austrian Grand Prix,Q,STR,3.0,0 days 00:01:48.832000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,Q,STR,8.0,0 days 00:01:37.187000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 9 
+2022,Austrian Grand Prix,Q,LAT,2.0,0 days 00:01:08.366000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 3 
+2022,Austrian Grand Prix,Q,VET,11.0,0 days 00:01:06.652000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 12 
+2022,Austrian Grand Prix,Q,NOR,,,1,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 1
+2022,Austrian Grand Prix,Q,NOR,,,1,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 1
+2022,Austrian Grand Prix,Q,TSU,,,1,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 1
+2022,Austrian Grand Prix,SQ,VER,15.0,0 days 00:01:09.082000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 15 
+2022,Austrian Grand Prix,SQ,VER,16.0,0 days 00:01:09.048000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,SQ,LEC,14.0,0 days 00:01:09.034000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 14 
+2022,Austrian Grand Prix,SQ,SAI,9.0,0 days 00:01:09.242000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 9 
+2022,Austrian Grand Prix,SQ,SAI,16.0,0 days 00:01:08.996000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 16 
+2022,Austrian Grand Prix,SQ,PER,16.0,0 days 00:01:09.085000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 16 
+2022,Austrian Grand Prix,SQ,PER,17.0,0 days 00:01:09.219000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 17 
+2022,Austrian Grand Prix,SQ,MAG,5.0,0 days 00:01:10.071000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 5 
+2022,Austrian Grand Prix,SQ,MAG,6.0,0 days 00:01:09.857000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,SQ,MAG,11.0,0 days 00:01:10.043000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 11 
+2022,Austrian Grand Prix,SQ,HAM,15.0,0 days 00:01:10.617000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 15 
+2022,Austrian Grand Prix,SQ,HAM,17.0,0 days 00:01:10.642000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 17 
+2022,Austrian Grand Prix,SQ,MSC,18.0,0 days 00:01:10.762000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 18 
+2022,Austrian Grand Prix,SQ,MSC,19.0,0 days 00:01:11.270000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,SQ,NOR,23.0,0 days 00:01:10.682000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 23 
+2022,Austrian Grand Prix,SQ,RIC,21.0,0 days 00:01:10.498000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 21 
+2022,Austrian Grand Prix,SQ,RIC,22.0,0 days 00:01:10.681000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 22 
+2022,Austrian Grand Prix,SQ,RIC,23.0,0 days 00:01:10.927000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,SQ,STR,17.0,0 days 00:01:10.905000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 17 
+2022,Austrian Grand Prix,SQ,STR,18.0,0 days 00:01:10.778000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,SQ,ZHO,19.0,0 days 00:01:10.593000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 19 
+2022,Austrian Grand Prix,SQ,ZHO,21.0,0 days 00:01:10.568000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 21 
+2022,Austrian Grand Prix,SQ,GAS,14.0,0 days 00:01:10.421000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 14 
+2022,Austrian Grand Prix,SQ,GAS,16.0,0 days 00:01:10.419000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 16 
+2022,Austrian Grand Prix,SQ,GAS,17.0,0 days 00:01:10.944000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,SQ,GAS,21.0,0 days 00:01:11.886000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 21 
+2022,Austrian Grand Prix,SQ,ALB,9.0,0 days 00:01:10.898000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 9 
+2022,Austrian Grand Prix,SQ,ALB,12.0,0 days 00:01:10.759000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 12 
+2022,Austrian Grand Prix,SQ,TSU,13.0,0 days 00:01:10.607000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 13 
+2022,Austrian Grand Prix,SQ,TSU,17.0,0 days 00:01:11.197000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 17 
+2022,Austrian Grand Prix,SQ,TSU,19.0,0 days 00:01:11.315000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 19 
+2022,Austrian Grand Prix,SQ,VET,19.0,0 days 00:01:14.648000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 19 
+2022,Austrian Grand Prix,SQ,VET,20.0,0 days 00:01:12.969000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,SQ,ALB,,,3,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 3
+2022,Austrian Grand Prix,S,VER,15.0,0 days 00:01:09.082000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 15 
+2022,Austrian Grand Prix,S,VER,16.0,0 days 00:01:09.048000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,S,LEC,14.0,0 days 00:01:09.034000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 14 
+2022,Austrian Grand Prix,S,SAI,9.0,0 days 00:01:09.242000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 9 
+2022,Austrian Grand Prix,S,SAI,16.0,0 days 00:01:08.996000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 16 
+2022,Austrian Grand Prix,S,PER,16.0,0 days 00:01:09.085000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 16 
+2022,Austrian Grand Prix,S,PER,17.0,0 days 00:01:09.219000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 17 
+2022,Austrian Grand Prix,S,MAG,5.0,0 days 00:01:10.071000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 5 
+2022,Austrian Grand Prix,S,MAG,6.0,0 days 00:01:09.857000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,S,MAG,11.0,0 days 00:01:10.043000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 11 
+2022,Austrian Grand Prix,S,HAM,15.0,0 days 00:01:10.617000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 15 
+2022,Austrian Grand Prix,S,HAM,17.0,0 days 00:01:10.642000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 17 
+2022,Austrian Grand Prix,S,MSC,18.0,0 days 00:01:10.762000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 18 
+2022,Austrian Grand Prix,S,MSC,19.0,0 days 00:01:11.270000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,S,NOR,23.0,0 days 00:01:10.682000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 23 
+2022,Austrian Grand Prix,S,RIC,21.0,0 days 00:01:10.498000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 21 
+2022,Austrian Grand Prix,S,RIC,22.0,0 days 00:01:10.681000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 22 
+2022,Austrian Grand Prix,S,RIC,23.0,0 days 00:01:10.927000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,S,STR,17.0,0 days 00:01:10.905000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 17 
+2022,Austrian Grand Prix,S,STR,18.0,0 days 00:01:10.778000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,S,ZHO,19.0,0 days 00:01:10.593000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 19 
+2022,Austrian Grand Prix,S,ZHO,21.0,0 days 00:01:10.568000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 21 
+2022,Austrian Grand Prix,S,GAS,14.0,0 days 00:01:10.421000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 14 
+2022,Austrian Grand Prix,S,GAS,16.0,0 days 00:01:10.419000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 16 
+2022,Austrian Grand Prix,S,GAS,17.0,0 days 00:01:10.944000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,S,GAS,21.0,0 days 00:01:11.886000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 21 
+2022,Austrian Grand Prix,S,ALB,9.0,0 days 00:01:10.898000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 9 
+2022,Austrian Grand Prix,S,ALB,12.0,0 days 00:01:10.759000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 12 
+2022,Austrian Grand Prix,S,TSU,13.0,0 days 00:01:10.607000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 13 
+2022,Austrian Grand Prix,S,TSU,17.0,0 days 00:01:11.197000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 17 
+2022,Austrian Grand Prix,S,TSU,19.0,0 days 00:01:11.315000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 19 
+2022,Austrian Grand Prix,S,VET,19.0,0 days 00:01:14.648000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 19 
+2022,Austrian Grand Prix,S,VET,20.0,0 days 00:01:12.969000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,S,ALB,,,3,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 3
+2022,Austrian Grand Prix,R,VER,12.0,0 days 00:01:11.912000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 12 
+2022,Austrian Grand Prix,R,VER,24.0,0 days 00:01:10.457000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 24 
+2022,Austrian Grand Prix,R,VER,25.0,0 days 00:01:10.715000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,GAS,6.0,0 days 00:01:12.001000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 6 
+2022,Austrian Grand Prix,R,GAS,18.0,0 days 00:01:10.858000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 18 
+2022,Austrian Grand Prix,R,GAS,19.0,0 days 00:01:11.265000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,GAS,22.0,0 days 00:01:11.537000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 22 
+2022,Austrian Grand Prix,R,GAS,23.0,0 days 00:01:12.233000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,GAS,31.0,0 days 00:01:11.905000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 31 
+2022,Austrian Grand Prix,R,PER,14.0,0 days 00:01:12.437000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 14 
+2022,Austrian Grand Prix,R,PER,15.0,0 days 00:01:12.686000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 15 
+2022,Austrian Grand Prix,R,LEC,9.0,0 days 00:01:10.883000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 9 
+2022,Austrian Grand Prix,R,LEC,10.0,0 days 00:01:11.403000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 10 
+2022,Austrian Grand Prix,R,LEC,11.0,0 days 00:01:10.934000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,STR,17.0,0 days 00:01:11.864000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 17 
+2022,Austrian Grand Prix,R,STR,18.0,0 days 00:01:11.962000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,STR,54.0,0 days 00:01:10.126000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 54 
+2022,Austrian Grand Prix,R,STR,55.0,0 days 00:01:10.004000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,STR,60.0,0 days 00:01:10.019000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 60 
+2022,Austrian Grand Prix,R,MAG,23.0,0 days 00:01:12.151000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 23 
+2022,Austrian Grand Prix,R,MAG,38.0,0 days 00:01:11.913000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 38 
+2022,Austrian Grand Prix,R,MAG,39.0,0 days 00:01:11.736000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,TSU,13.0,0 days 00:01:12.841000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 13 
+2022,Austrian Grand Prix,R,TSU,14.0,0 days 00:01:12.133000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,TSU,20.0,0 days 00:01:12.178000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 20 
+2022,Austrian Grand Prix,R,ALB,22.0,0 days 00:01:12.062000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 22 
+2022,Austrian Grand Prix,R,ALB,23.0,0 days 00:01:12.174000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,ALB,65.0,0 days 00:01:10.845000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 65 
+2022,Austrian Grand Prix,R,ZHO,10.0,0 days 00:01:12.505000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 10 
+2022,Austrian Grand Prix,R,ZHO,11.0,0 days 00:01:12.175000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,ZHO,13.0,0 days 00:01:13.015000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 13 
+2022,Austrian Grand Prix,R,ZHO,14.0,0 days 00:01:12.225000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,ZHO,35.0,0 days 00:01:11.476000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 35 
+2022,Austrian Grand Prix,R,ZHO,37.0,0 days 00:01:11.746000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 37 
+2022,Austrian Grand Prix,R,RIC,20.0,0 days 00:01:10.915000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 20 
+2022,Austrian Grand Prix,R,RIC,21.0,0 days 00:01:11.617000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,RIC,47.0,0 days 00:01:10.622000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 47 
+2022,Austrian Grand Prix,R,NOR,7.0,0 days 00:01:11.648000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 7 
+2022,Austrian Grand Prix,R,NOR,8.0,0 days 00:01:11.615000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,NOR,9.0,0 days 00:01:11.332000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 9 
+2022,Austrian Grand Prix,R,NOR,10.0,0 days 00:01:11.560000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,NOR,31.0,0 days 00:01:11.489000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 31 
+2022,Austrian Grand Prix,R,NOR,38.0,0 days 00:01:11.560000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,NOR,39.0,0 days 00:01:11.648000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 7 
+2022,Austrian Grand Prix,R,HAM,4.0,0 days 00:01:11.802000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 4 
+2022,Austrian Grand Prix,R,HAM,22.0,0 days 00:01:10.730000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 22 
+2022,Austrian Grand Prix,R,HAM,23.0,0 days 00:01:11.034000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,HAM,41.0,0 days 00:01:10.491000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 41 
+2022,Austrian Grand Prix,R,HAM,42.0,0 days 00:01:10.731000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,MSC,12.0,0 days 00:01:11.709000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 12 
+2022,Austrian Grand Prix,R,MSC,13.0,0 days 00:01:12.390000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 13 
+2022,Austrian Grand Prix,R,MSC,14.0,0 days 00:01:12.905000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,MSC,52.0,0 days 00:01:10.132000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 52 
+2022,Austrian Grand Prix,R,VET,13.0,0 days 00:01:12.895000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 13 
+2022,Austrian Grand Prix,R,VET,14.0,0 days 00:01:12.168000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,VET,37.0,0 days 00:01:11.360000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 37 
+2022,Austrian Grand Prix,R,VET,38.0,0 days 00:01:11.866000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,VET,65.0,0 days 00:01:11.241000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 65 
+2022,Austrian Grand Prix,R,VET,70.0,0 days 00:01:10,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 70 
+2022,Austrian Grand Prix,R,SAI,11.0,0 days 00:01:10.976000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 11 
+2022,Austrian Grand Prix,R,SAI,13.0,0 days 00:01:11.100000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 13 
+2022,Austrian Grand Prix,R,SAI,14.0,0 days 00:01:10.867000,10,clear_violation,TRACK LIMITS AT TURN 10 (NEXT LAP)
+2022,Austrian Grand Prix,R,SAI,32.0,0 days 00:01:09.743000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 32 
+2022,Austrian Grand Prix,R,LAT,10.0,0 days 00:01:12.611000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 10 
+2022,Austrian Grand Prix,R,LAT,37.0,0 days 00:01:11.543000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 37 
+2022,French Grand Prix,FP1,VER,,,10,no_advantage,CAR 1 (VER) OFF TRACK AND CONTINUED AT TURN 10
+2022,French Grand Prix,FP1,GAS,,,11,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 11
+2022,French Grand Prix,FP1,VET,,,11,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 11
+2022,French Grand Prix,FP2,MSC,,,11,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 11
+2022,French Grand Prix,FP2,RUS,,,11,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 11
+2022,French Grand Prix,FP2,MAG,,,2,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 2
+2022,French Grand Prix,FP3,MAG,,,11,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 11
+2022,French Grand Prix,FP3,LEC,,,12,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 12
+2022,French Grand Prix,FP3,PER,,,11,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 11
+2022,French Grand Prix,FP3,NOR,,,3,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 3
+2022,French Grand Prix,FP3,SAI,,,11,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 11
+2022,French Grand Prix,FP3,ALB,,,3,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 3
+2022,French Grand Prix,FP3,PER,,,3,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 3
+2022,French Grand Prix,FP3,PER,,,3,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 3
+2022,French Grand Prix,FP3,ALB,,,3,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 3
+2022,French Grand Prix,FP3,BOT,,,9,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 9
+2022,French Grand Prix,FP3,TSU,,,1,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 1
+2022,French Grand Prix,Q,TSU,7.0,0 days 00:01:33.739000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 8 
+2022,French Grand Prix,Q,RIC,5.0,0 days 00:01:33.410000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 6 
+2022,French Grand Prix,Q,MSC,8.0,0 days 00:01:33.114000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 9 
+2022,French Grand Prix,Q,ALB,,,8,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 8
+2022,French Grand Prix,R,VER,9.0,0 days 00:01:39.130000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 9 
+2022,French Grand Prix,R,GAS,44.0,0 days 00:01:39.541000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 44 
+2022,French Grand Prix,R,PER,5.0,0 days 00:01:39.683000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 5 
+2022,French Grand Prix,R,PER,6.0,0 days 00:01:39.774000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 6 
+2022,French Grand Prix,R,STR,3.0,0 days 00:01:40.451000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 3 
+2022,French Grand Prix,R,ALB,44.0,0 days 00:01:39.638000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 44 
+2022,French Grand Prix,R,NOR,28.0,0 days 00:01:38.985000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 28 
+2022,French Grand Prix,R,NOR,29.0,0 days 00:01:39.536000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 29 
+2022,French Grand Prix,R,SAI,30.0,0 days 00:01:38.211000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 30 
+2022,French Grand Prix,R,LAT,36.0,0 days 00:01:40.768000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 36 
+2022,French Grand Prix,R,HAM,,,2,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 2
+2022,Hungarian Grand Prix,FP1,MSC,,,12,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 12
+2022,Hungarian Grand Prix,FP1,MSC,,,3,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 3
+2022,Hungarian Grand Prix,FP1,HAM,,,12,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 12
+2022,Hungarian Grand Prix,FP1,TSU,,,1,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 1
+2022,Hungarian Grand Prix,FP1,ALO,,,11,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 11
+2022,Hungarian Grand Prix,FP2,MSC,,,12,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 12
+2022,Hungarian Grand Prix,FP2,HAM,,,4,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 4
+2022,Hungarian Grand Prix,FP2,LEC,,,4,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 4
+2022,Hungarian Grand Prix,FP2,OCO,,,4,no_advantage,CAR 31 (OCO) OFF TRACK AND CONTINUED AT TURN 4
+2022,Hungarian Grand Prix,FP3,GAS,,,4,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 4
+2022,Hungarian Grand Prix,FP3,GAS,,,4,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 4
+2022,Hungarian Grand Prix,FP3,LAT,,,4,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 4
+2022,Hungarian Grand Prix,FP3,ZHO,,,4,no_advantage,CAR 24 (ZHO) OFF TRACK AND CONTINUED AT TURN 4
+2022,Hungarian Grand Prix,FP3,ALB,,,4,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 4
+2022,Hungarian Grand Prix,FP3,MAG,,,4,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 4
+2022,Hungarian Grand Prix,FP3,GAS,,,12,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 12
+2022,Hungarian Grand Prix,FP3,VET,,,11,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 11
+2022,Hungarian Grand Prix,FP3,VET,,,11,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 11
+2022,Hungarian Grand Prix,FP3,VET,,,11,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 11
+2022,Hungarian Grand Prix,FP3,MSC,,,12,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 12
+2022,Hungarian Grand Prix,FP3,RUS,,,12,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 12
+2022,Hungarian Grand Prix,FP3,PER,,,2,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 2
+2022,Hungarian Grand Prix,Q,VER,9.0,0 days 00:01:18.668000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 10 
+2022,Hungarian Grand Prix,Q,MSC,2.0,0 days 00:01:20.905000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 3 
+2022,Hungarian Grand Prix,Q,TSU,5.0,0 days 00:01:19.904000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 6 
+2022,Hungarian Grand Prix,Q,GAS,8.0,0 days 00:01:19.116000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 9 
+2022,Hungarian Grand Prix,R,MAG,4.0,0 days 00:01:25.178000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 4 
+2022,Hungarian Grand Prix,R,MAG,52.0,0 days 00:01:27.854000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 52 
+2022,Hungarian Grand Prix,R,MAG,55.0,0 days 00:01:24.380000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 55 
+2022,Hungarian Grand Prix,R,TSU,52.0,0 days 00:01:51.006000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 52 
+2022,Hungarian Grand Prix,R,ALB,57.0,0 days 00:01:25.166000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 57 
+2022,Hungarian Grand Prix,R,ZHO,65.0,0 days 00:01:22.832000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 65 
+2022,Hungarian Grand Prix,R,ZHO,69.0,0 days 00:01:27.967000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 69 
+2022,Hungarian Grand Prix,R,RIC,64.0,0 days 00:01:23.590000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 64 
+2022,Hungarian Grand Prix,R,HAM,15.0,0 days 00:01:25.186000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 15 
+2022,Hungarian Grand Prix,R,HAM,24.0,0 days 00:01:23.831000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 24 
+2022,Hungarian Grand Prix,R,VET,35.0,0 days 00:01:25.639000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 35 
+2022,Hungarian Grand Prix,R,LAT,52.0,0 days 00:01:26.786000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 52 
+2022,Hungarian Grand Prix,R,LAT,58.0,0 days 00:01:24.330000,13,clear_violation,TRACK LIMITS AT TURN 13 LAP 58 
+2022,Hungarian Grand Prix,R,LAT,62.0,0 days 00:01:24.048000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 62 
+2022,Hungarian Grand Prix,R,HAM,,,12,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 12
+2022,Hungarian Grand Prix,R,HAM,,,12,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 12
+2022,Hungarian Grand Prix,R,MAG,,,4,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 4
+2022,Hungarian Grand Prix,R,LAT,,,13,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 13
+2022,Belgian Grand Prix,FP2,SAI,,,13,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 13
+2022,Belgian Grand Prix,FP2,GAS,,,8,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 8
+2022,Belgian Grand Prix,FP2,SAI,,,9,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 9
+2022,Belgian Grand Prix,FP2,MSC,,,7,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 7
+2022,Belgian Grand Prix,FP3,GAS,,,17,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 17
+2022,Belgian Grand Prix,Q,RIC,5.0,0 days 00:01:46.033000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 6 
+2022,Belgian Grand Prix,Q,TSU,5.0,0 days 00:01:48,18,clear_violation,TRACK LIMITS AT TURN 18 LAP 6 
+2022,Belgian Grand Prix,R,GAS,8.0,0 days 00:01:57.112000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 8 
+2022,Belgian Grand Prix,R,ALB,9.0,0 days 00:01:56.420000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 9 
+2022,Belgian Grand Prix,R,MSC,32.0,0 days 00:01:52.212000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 32 
+2022,Belgian Grand Prix,R,VET,39.0,0 days 00:01:52.773000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 39 
+2022,Belgian Grand Prix,R,LAT,7.0,0 days 00:01:55.404000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 7 
+2022,Dutch Grand Prix,FP1,ALO,,,11,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 11
+2022,Dutch Grand Prix,FP1,MAG,,,11,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 11
+2022,Dutch Grand Prix,FP1,PER,,,9,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 9
+2022,Dutch Grand Prix,Q,TSU,2.0,0 days 00:01:12.964000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 3 
+2022,Dutch Grand Prix,Q,MAG,8.0,0 days 00:01:12.041000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 9 
+2022,Dutch Grand Prix,Q,VET,,,13,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 13
+2022,Dutch Grand Prix,R,VER,41.0,0 days 00:01:16.097000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 41 
+2022,Dutch Grand Prix,R,GAS,12.0,0 days 00:01:36.059000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 12 
+2022,Dutch Grand Prix,R,LEC,27.0,0 days 00:01:16.523000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 27 
+2022,Dutch Grand Prix,R,LEC,36.0,0 days 00:01:16.523000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 27 
+2022,Dutch Grand Prix,R,OCO,20.0,0 days 00:01:17.461000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 20 
+2022,Dutch Grand Prix,R,MSC,30.0,0 days 00:01:17.886000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 30 
+2022,Dutch Grand Prix,R,VET,11.0,0 days 00:01:17.175000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 11 
+2022,Dutch Grand Prix,R,LAT,17.0,0 days 00:01:18.547000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 17 
+2022,Dutch Grand Prix,R,MAG,,,2,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 2
+2022,Italian Grand Prix,Q,LEC,5.0,0 days 00:02:00.809000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 6 
+2022,Italian Grand Prix,Q,NOR,4.0,0 days 00:01:22.277000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 5 
+2022,Italian Grand Prix,Q,GAS,17.0,0 days 00:01:21.910000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 18 
+2022,Italian Grand Prix,Q,ALO,16.0,0 days 00:01:21.829000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 17 
+2022,Italian Grand Prix,Q,DEV,7.0,0 days 00:01:22.176000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 8 
+2022,Italian Grand Prix,Q,MAG,7.0,0 days 00:01:22.399000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 8 
+2022,Italian Grand Prix,Q,MAG,9.0,0 days 00:01:22.640000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 10 
+2022,Italian Grand Prix,R,VER,15.0,0 days 00:01:25.794000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 15 
+2022,Italian Grand Prix,R,GAS,14.0,0 days 00:01:28.309000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 14 
+2022,Italian Grand Prix,R,PER,24.0,0 days 00:01:26.742000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 24 
+2022,Italian Grand Prix,R,ALO,21.0,0 days 00:01:27.668000,5,clear_violation,TRACK LIMITS AT TURN 5 LAP 21 
+2022,Italian Grand Prix,R,STR,22.0,0 days 00:01:27.815000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 22 
+2022,Italian Grand Prix,R,MAG,17.0,0 days 00:01:28.144000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 17 
+2022,Italian Grand Prix,R,MAG,18.0,0 days 00:01:28.771000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 18 
+2022,Italian Grand Prix,R,RIC,41.0,0 days 00:01:26.751000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 43 
+2022,Italian Grand Prix,R,RIC,43.0,0 days 00:01:26.751000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 43 
+2022,Italian Grand Prix,R,NOR,13.0,0 days 00:01:28.568000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 13 
+2022,Italian Grand Prix,R,DEV,11.0,0 days 00:01:27.798000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 11 
+2022,Italian Grand Prix,R,DEV,16.0,0 days 00:01:27.554000,10,clear_violation,TRACK LIMITS AT TURN 10 LAP 16 
+2022,Italian Grand Prix,R,DEV,18.0,0 days 00:01:27.836000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 18 
+2022,Italian Grand Prix,R,MSC,16.0,0 days 00:01:27.322000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 16 
+2022,Italian Grand Prix,R,SAI,39.0,0 days 00:01:24.420000,7,clear_violation,TRACK LIMITS AT TURN 7 LAP 39 
+2022,Singapore Grand Prix,FP1,RUS,,,11,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 11
+2022,Singapore Grand Prix,FP2,VET,,,13,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 13
+2022,Singapore Grand Prix,FP2,RUS,,,11,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 11
+2022,Singapore Grand Prix,FP2,GAS,,,18,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 18
+2022,Singapore Grand Prix,FP2,BOT,,,16,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 16
+2022,Singapore Grand Prix,FP3,LAT,,,7,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 7
+2022,Singapore Grand Prix,FP3,GAS,,,18,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 18
+2022,Singapore Grand Prix,Q,MSC,,,16,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 16
+2022,Singapore Grand Prix,Q,LEC,,,8,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 8
+2022,Singapore Grand Prix,Q,ALB,,,18,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 18
+2022,Singapore Grand Prix,Q,MAG,,,8,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 8
+2022,Singapore Grand Prix,Q,GAS,,,18,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 18
+2022,Japanese Grand Prix,FP1,LAT,,,11,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 11
+2022,Japanese Grand Prix,FP2,LAT,,,16,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 16
+2022,Japanese Grand Prix,FP2,TSU,,,9,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 9
+2022,Japanese Grand Prix,FP2,LEC,,,11,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 11
+2022,Japanese Grand Prix,Q,ALB,2.0,0 days 00:01:31.588000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 3 
+2022,United States Grand Prix,Q,HAM,5.0,0 days 00:01:35.878000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 6 
+2022,United States Grand Prix,Q,VET,8.0,0 days 00:01:37.131000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 9 
+2022,United States Grand Prix,Q,ZHO,5.0,0 days 00:01:36.908000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 6 
+2022,United States Grand Prix,Q,ZHO,14.0,0 days 00:01:36.196000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 15 
+2022,United States Grand Prix,Q,TSU,11.0,0 days 00:01:36.439000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 12 
+2022,United States Grand Prix,R,VER,48.0,0 days 00:01:40.271000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 48 
+2022,United States Grand Prix,R,VER,51.0,0 days 00:01:40.152000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 51 
+2022,United States Grand Prix,R,GAS,9.0,0 days 00:01:45.019000,11,clear_violation,TRACK LIMITS AT TURN 11 LAP 9 
+2022,United States Grand Prix,R,GAS,31.0,0 days 00:01:43.032000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 31 
+2022,United States Grand Prix,R,GAS,34.0,0 days 00:01:42.542000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 34 
+2022,United States Grand Prix,R,PER,8.0,0 days 00:01:43.075000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 8 
+2022,United States Grand Prix,R,PER,47.0,0 days 00:01:39.936000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 47 
+2022,United States Grand Prix,R,PER,54.0,0 days 00:01:40.724000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 54 
+2022,United States Grand Prix,R,ALO,3.0,0 days 00:01:44.501000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 3 
+2022,United States Grand Prix,R,MAG,26.0,0 days 00:01:44.296000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 26 
+2022,United States Grand Prix,R,TSU,15.0,0 days 00:01:44.402000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 15 
+2022,United States Grand Prix,R,ALB,6.0,0 days 00:01:44.688000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 6 
+2022,United States Grand Prix,R,ALB,8.0,0 days 00:01:45.814000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 8 
+2022,United States Grand Prix,R,ALB,12.0,0 days 00:01:43.462000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 12 
+2022,United States Grand Prix,R,ZHO,32.0,0 days 00:01:45.053000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 32 
+2022,United States Grand Prix,R,ZHO,33.0,0 days 00:01:43.747000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 33 
+2022,United States Grand Prix,R,ZHO,36.0,0 days 00:01:43.212000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 36 
+2022,United States Grand Prix,R,RIC,7.0,0 days 00:01:44.578000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 7 
+2022,United States Grand Prix,R,RIC,33.0,0 days 00:01:44.857000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 33 
+2022,United States Grand Prix,R,NOR,15.0,0 days 00:02:03.849000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 15 
+2022,United States Grand Prix,R,NOR,51.0,0 days 00:01:41.908000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 51 
+2022,United States Grand Prix,R,HAM,13.0,0 days 00:02:02.611000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 13 
+2022,United States Grand Prix,R,HAM,43.0,0 days 00:01:40.309000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 43 
+2022,United States Grand Prix,R,HAM,52.0,0 days 00:01:40.422000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 52 
+2022,United States Grand Prix,R,MSC,3.0,0 days 00:01:44.896000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 3 
+2022,United States Grand Prix,R,MSC,10.0,0 days 00:01:45.900000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 10 
+2022,United States Grand Prix,R,MSC,39.0,0 days 00:01:42.899000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 39 
+2022,United States Grand Prix,R,MSC,53.0,0 days 00:01:43.321000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 53 
+2022,United States Grand Prix,R,RUS,35.0,0 days 00:01:41.827000,19,clear_violation,TRACK LIMITS AT TURN 19 LAP 35 
+2022,Mexico City Grand Prix,FP1,LAW,,,4,no_advantage,CAR 40 (LAW) OFF TRACK AND CONTINUED AT TURN 4
+2022,Mexico City Grand Prix,FP3,MSC,,,4,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 4
+2022,Mexico City Grand Prix,FP3,TSU,,,1,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 1
+2022,Mexico City Grand Prix,Q,RUS,17.0,0 days 00:01:19.376000,12,clear_violation,TRACK LIMITS AT TURN 12 LAP 18 
+2022,Mexico City Grand Prix,Q,HAM,15.0,0 days 00:01:18.094000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 16 
+2022,Mexico City Grand Prix,Q,MSC,8.0,0 days 00:01:19.695000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 9 
+2022,Mexico City Grand Prix,Q,ALB,9.0,0 days 00:01:21.473000,8,clear_violation,TRACK LIMITS AT TURN 8 LAP 10 
+2022,Mexico City Grand Prix,R,ALO,58.0,0 days 00:01:25.028000,14,clear_violation,TRACK LIMITS AT TURN 14 LAP 58 
+2022,Mexico City Grand Prix,R,LEC,11.0,0 days 00:01:24.238000,2,clear_violation,TRACK LIMITS AT TURN 2 LAP 11 
+2022,São Paulo Grand Prix,Q,MAG,6.0,0 days 00:01:18.423000,8,clear_violation,TRACK LIMITS AT TURN 8 LAP 7 
+2022,São Paulo Grand Prix,SQ,VER,7.0,0 days 00:01:14.839000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 7 
+2022,São Paulo Grand Prix,S,VER,7.0,0 days 00:01:14.839000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 7 
+2022,São Paulo Grand Prix,R,STR,23.0,0 days 00:01:18.269000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 24 
+2022,São Paulo Grand Prix,R,STR,24.0,0 days 00:01:18.269000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 24 
+2022,São Paulo Grand Prix,R,STR,42.0,0 days 00:01:17.340000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 42 
+2022,São Paulo Grand Prix,R,STR,60.0,0 days 00:01:17.438000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 60 
+2022,São Paulo Grand Prix,R,HAM,7.0,0 days 00:01:22.132000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 7 
+2022,São Paulo Grand Prix,R,VET,70.0,0 days 00:01:15.852000,4,clear_violation,TRACK LIMITS AT TURN 4 LAP 70 
+2022,Abu Dhabi Grand Prix,Q,PER,11.0,0 days 00:01:24.985000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 12 
+2022,Abu Dhabi Grand Prix,Q,ALB,5.0,0 days 00:01:26.440000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 6 
+2022,Abu Dhabi Grand Prix,R,LEC,6.0,0 days 00:01:31.087000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 6 
+2022,Abu Dhabi Grand Prix,R,PER,14.0,0 days 00:01:31.990000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 14 
+2022,Abu Dhabi Grand Prix,R,PER,38.0,0 days 00:01:29.153000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 38 
+2022,Abu Dhabi Grand Prix,R,SAI,5.0,0 days 00:01:31.980000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 5 
+2022,Abu Dhabi Grand Prix,R,SAI,25.0,0 days 00:01:30.470000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 25 
+2022,Abu Dhabi Grand Prix,R,RUS,28.0,0 days 00:01:30.502000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 28 
+2022,Abu Dhabi Grand Prix,R,NOR,5.0,0 days 00:01:32.208000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 5 
+2022,Abu Dhabi Grand Prix,R,NOR,42.0,0 days 00:01:33.097000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 42 
+2022,Abu Dhabi Grand Prix,R,STR,15.0,0 days 00:01:31.850000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 15 
+2022,Abu Dhabi Grand Prix,R,STR,43.0,0 days 00:01:32.867000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 43 
+2022,Abu Dhabi Grand Prix,R,VET,8.0,0 days 00:01:32.654000,9,clear_violation,TRACK LIMITS AT TURN 9 LAP 8 
+2022,Abu Dhabi Grand Prix,R,VET,15.0,0 days 00:01:32.279000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 15 
+2022,Abu Dhabi Grand Prix,R,ZHO,38.0,0 days 00:01:31.273000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 38 
+2022,Abu Dhabi Grand Prix,R,ALB,33.0,0 days 00:01:31.550000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 33 
+2022,Abu Dhabi Grand Prix,R,GAS,17.0,0 days 00:01:31.018000,16,clear_violation,TRACK LIMITS AT TURN 16 LAP 17 
+2022,Abu Dhabi Grand Prix,R,GAS,18.0,0 days 00:01:31.227000,16,clear_violation,TRACK LIMITS AT TURN 16 (NEXT LAP)
+2022,Abu Dhabi Grand Prix,R,GAS,22.0,0 days 00:01:31.228000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 22 
+2022,Abu Dhabi Grand Prix,R,GAS,57.0,0 days 00:01:32.845000,6,clear_violation,TRACK LIMITS AT TURN 6 LAP 57 
+2022,Abu Dhabi Grand Prix,R,MSC,2.0,0 days 00:01:33.725000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 2 
+2022,Abu Dhabi Grand Prix,R,MAG,19.0,0 days 00:01:34.170000,3,clear_violation,TRACK LIMITS AT TURN 3 LAP 19 
+2022,Abu Dhabi Grand Prix,R,MAG,53.0,0 days 00:01:32.669000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 53 
+2022,Abu Dhabi Grand Prix,R,HAM,7.0,0 days 00:01:31.532000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 7 
+2022,Abu Dhabi Grand Prix,R,HAM,12.0,0 days 00:01:32.023000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 12 
+2022,Abu Dhabi Grand Prix,R,HAM,51.0,0 days 00:01:30.455000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 51 
+2022,Abu Dhabi Grand Prix,R,ALO,15.0,0 days 00:01:32.227000,1,clear_violation,TRACK LIMITS AT TURN 1 LAP 15 

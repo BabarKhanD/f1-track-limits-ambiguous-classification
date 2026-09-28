@@ -1,0 +1,720 @@
+﻿year,race,session,driver,lap,lap_time,turn,label,reason
+2020,Pre-Season Test 1,FP1,STR,5.0,0 days 00:01:06.692000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 1,FP1,STR,,,9,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 9
+2020,Pre-Season Test 1,FP1,STR,,,9,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 9
+2020,Pre-Season Test 1,FP1,STR,,,9,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 9
+2020,Pre-Season Test 1,FP1,STR,,,9,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 9
+2020,Pre-Season Test 1,FP1,STR,,,9,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 9
+2020,Pre-Season Test 1,FP2,RAI,12.0,0 days 00:01:06.195000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 1,FP2,RAI,13.0,0 days 00:01:33.595000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 1,FP2,RAI,29.0,0 days 00:01:10.485000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 1,FP2,RAI,30.0,0 days 00:01:14.233000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 1,FP2,STR,30.0,0 days 00:01:10.078000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 1,FP2,MAG,2.0,0 days 00:01:07.158000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Pre-Season Test 1,FP2,HAM,23.0,0 days 00:01:16.208000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 1,FP2,LAT,,,3,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 3
+2020,Pre-Season Test 1,FP2,RAI,,,6,no_advantage,CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 6
+2020,Pre-Season Test 1,FP2,VER,,,6,no_advantage,CAR 33 (VER) OFF TRACK AND CONTINUED AT TURN 6
+2020,Pre-Season Test 1,FP3,RAI,16.0,0 days 00:01:09.853000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Pre-Season Test 1,FP3,BOT,,,1,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 1
+2020,Pre-Season Test 1,Q,BOT,,,5,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 5
+2020,Pre-Season Test 1,R,KVY,39.0,0 days 00:01:09.375000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 1,R,KVY,40.0,0 days 00:01:09.829000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 1,R,KVY,60.0,0 days 00:01:10.378000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Pre-Season Test 1,R,KVY,63.0,0 days 00:01:10.456000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 1,R,KVY,64.0,0 days 00:01:11.794000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 1,R,OCO,65.0,0 days 00:01:08.912000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 1,R,VET,39.0,0 days 00:01:10.485000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 1,R,VET,40.0,0 days 00:01:10.875000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 1,R,VET,58.0,0 days 00:01:10.387000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 1,R,VET,59.0,0 days 00:01:10.415000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 1,R,GRO,16.0,0 days 00:01:32.297000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Pre-Season Test 1,R,GRO,27.0,0 days 00:01:10.909000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 1,R,GRO,28.0,0 days 00:01:11.264000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 1,R,,,,1,no_advantage,"LAP 1, TURN 1 - TRACK LIMITS, NO INVESTIGATION NECESSARY"
+2020,Pre-Season Test 1,R,GRO,,,5,no_advantage,CAR 8 (GRO) OFF TRACK AND CONTINUED AT TURN 5
+2020,Pre-Season Test 1,R,VET,,,3,no_advantage,TURN 3 INCIDENT INVOLVING CARS 5 (VET) AND 55 (SAI) - NO INVESTIGATION NECESSARY
+2020,Pre-Season Test 1,R,PER,,,,no_advantage,PIT LANE INCIDENT INVOLVING CARS 11 (PER) AND 4 (NOR) NOTED - NO INVESTIGATION NECESSARY
+2020,Pre-Season Test 1,R,GRO,,,4,no_advantage,CAR 8 (GRO) OFF TRACK AND CONTINUED AT TURN 4
+2020,Pre-Season Test 2,FP1,STR,5.0,0 days 00:01:06.692000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 2,FP1,STR,,,9,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 9
+2020,Pre-Season Test 2,FP1,STR,,,9,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 9
+2020,Pre-Season Test 2,FP1,STR,,,9,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 9
+2020,Pre-Season Test 2,FP1,STR,,,9,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 9
+2020,Pre-Season Test 2,FP1,STR,,,9,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 9
+2020,Pre-Season Test 2,FP2,RAI,12.0,0 days 00:01:06.195000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 2,FP2,RAI,13.0,0 days 00:01:33.595000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 2,FP2,RAI,29.0,0 days 00:01:10.485000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 2,FP2,RAI,30.0,0 days 00:01:14.233000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 2,FP2,STR,30.0,0 days 00:01:10.078000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 2,FP2,MAG,2.0,0 days 00:01:07.158000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Pre-Season Test 2,FP2,HAM,23.0,0 days 00:01:16.208000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 2,FP2,LAT,,,3,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 3
+2020,Pre-Season Test 2,FP2,RAI,,,6,no_advantage,CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 6
+2020,Pre-Season Test 2,FP2,VER,,,6,no_advantage,CAR 33 (VER) OFF TRACK AND CONTINUED AT TURN 6
+2020,Pre-Season Test 2,FP3,RAI,16.0,0 days 00:01:09.853000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Pre-Season Test 2,FP3,BOT,,,1,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 1
+2020,Pre-Season Test 2,Q,BOT,,,5,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 5
+2020,Pre-Season Test 2,R,KVY,39.0,0 days 00:01:09.375000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 2,R,KVY,40.0,0 days 00:01:09.829000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 2,R,KVY,60.0,0 days 00:01:10.378000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Pre-Season Test 2,R,KVY,63.0,0 days 00:01:10.456000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 2,R,KVY,64.0,0 days 00:01:11.794000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 2,R,OCO,65.0,0 days 00:01:08.912000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 2,R,VET,39.0,0 days 00:01:10.485000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 2,R,VET,40.0,0 days 00:01:10.875000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 2,R,VET,58.0,0 days 00:01:10.387000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 2,R,VET,59.0,0 days 00:01:10.415000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 2,R,GRO,16.0,0 days 00:01:32.297000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Pre-Season Test 2,R,GRO,27.0,0 days 00:01:10.909000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 2,R,GRO,28.0,0 days 00:01:11.264000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Pre-Season Test 2,R,,,,1,no_advantage,"LAP 1, TURN 1 - TRACK LIMITS, NO INVESTIGATION NECESSARY"
+2020,Pre-Season Test 2,R,GRO,,,5,no_advantage,CAR 8 (GRO) OFF TRACK AND CONTINUED AT TURN 5
+2020,Pre-Season Test 2,R,VET,,,3,no_advantage,TURN 3 INCIDENT INVOLVING CARS 5 (VET) AND 55 (SAI) - NO INVESTIGATION NECESSARY
+2020,Pre-Season Test 2,R,PER,,,,no_advantage,PIT LANE INCIDENT INVOLVING CARS 11 (PER) AND 4 (NOR) NOTED - NO INVESTIGATION NECESSARY
+2020,Pre-Season Test 2,R,GRO,,,4,no_advantage,CAR 8 (GRO) OFF TRACK AND CONTINUED AT TURN 4
+2020,Austrian Grand Prix,FP1,STR,5.0,0 days 00:01:06.692000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Austrian Grand Prix,FP1,STR,,,9,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 9
+2020,Austrian Grand Prix,FP1,STR,,,9,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 9
+2020,Austrian Grand Prix,FP1,STR,,,9,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 9
+2020,Austrian Grand Prix,FP1,STR,,,9,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 9
+2020,Austrian Grand Prix,FP1,STR,,,9,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 9
+2020,Austrian Grand Prix,FP2,RAI,12.0,0 days 00:01:06.195000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Austrian Grand Prix,FP2,RAI,13.0,0 days 00:01:33.595000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Austrian Grand Prix,FP2,RAI,29.0,0 days 00:01:10.485000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Austrian Grand Prix,FP2,RAI,30.0,0 days 00:01:14.233000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Austrian Grand Prix,FP2,STR,30.0,0 days 00:01:10.078000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Austrian Grand Prix,FP2,MAG,2.0,0 days 00:01:07.158000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Austrian Grand Prix,FP2,HAM,23.0,0 days 00:01:16.208000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Austrian Grand Prix,FP2,LAT,,,3,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 3
+2020,Austrian Grand Prix,FP2,RAI,,,6,no_advantage,CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 6
+2020,Austrian Grand Prix,FP2,VER,,,6,no_advantage,CAR 33 (VER) OFF TRACK AND CONTINUED AT TURN 6
+2020,Austrian Grand Prix,FP3,RAI,16.0,0 days 00:01:09.853000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Austrian Grand Prix,FP3,BOT,,,1,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 1
+2020,Austrian Grand Prix,Q,BOT,,,5,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 5
+2020,Austrian Grand Prix,R,KVY,39.0,0 days 00:01:09.375000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Austrian Grand Prix,R,KVY,40.0,0 days 00:01:09.829000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Austrian Grand Prix,R,KVY,60.0,0 days 00:01:10.378000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Austrian Grand Prix,R,KVY,63.0,0 days 00:01:10.456000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Austrian Grand Prix,R,KVY,64.0,0 days 00:01:11.794000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Austrian Grand Prix,R,OCO,65.0,0 days 00:01:08.912000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Austrian Grand Prix,R,VET,39.0,0 days 00:01:10.485000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Austrian Grand Prix,R,VET,40.0,0 days 00:01:10.875000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Austrian Grand Prix,R,VET,58.0,0 days 00:01:10.387000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Austrian Grand Prix,R,VET,59.0,0 days 00:01:10.415000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Austrian Grand Prix,R,GRO,16.0,0 days 00:01:32.297000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Austrian Grand Prix,R,GRO,27.0,0 days 00:01:10.909000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Austrian Grand Prix,R,GRO,28.0,0 days 00:01:11.264000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Austrian Grand Prix,R,,,,1,no_advantage,"LAP 1, TURN 1 - TRACK LIMITS, NO INVESTIGATION NECESSARY"
+2020,Austrian Grand Prix,R,GRO,,,5,no_advantage,CAR 8 (GRO) OFF TRACK AND CONTINUED AT TURN 5
+2020,Austrian Grand Prix,R,VET,,,3,no_advantage,TURN 3 INCIDENT INVOLVING CARS 5 (VET) AND 55 (SAI) - NO INVESTIGATION NECESSARY
+2020,Austrian Grand Prix,R,PER,,,,no_advantage,PIT LANE INCIDENT INVOLVING CARS 11 (PER) AND 4 (NOR) NOTED - NO INVESTIGATION NECESSARY
+2020,Austrian Grand Prix,R,GRO,,,4,no_advantage,CAR 8 (GRO) OFF TRACK AND CONTINUED AT TURN 4
+2020,Styrian Grand Prix,FP1,GRO,3.0,0 days 00:01:08.517000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,FP1,GAS,11.0,0 days 00:01:06.535000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,FP1,STR,14.0,0 days 00:01:05.211000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,FP1,STR,15.0,0 days 00:01:41.510000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,FP1,ALB,24.0,0 days 00:01:08.375000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,FP1,OCO,9.0,0 days 00:01:06.568000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,FP2,VET,15.0,0 days 00:01:04.772000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,FP2,VET,34.0,0 days 00:01:09.722000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,FP2,GRO,23.0,0 days 00:01:10.492000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,FP2,GRO,30.0,0 days 00:01:13.310000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,FP2,GAS,34.0,0 days 00:01:09.986000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,FP2,GAS,35.0,0 days 00:01:10.025000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,FP2,PER,20.0,0 days 00:01:10.433000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,FP2,STR,6.0,0 days 00:01:04.486000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,FP2,MAG,21.0,0 days 00:01:10.292000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,FP2,MAG,22.0,0 days 00:01:10.528000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,FP2,MAG,28.0,0 days 00:01:10.847000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,FP2,ALB,8.0,0 days 00:01:04.978000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,FP2,KVY,14.0,0 days 00:01:04.967000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,FP2,VER,3.0,0 days 00:01:04.695000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,FP2,VER,9.0,0 days 00:01:03.991000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,FP2,HAM,2.0,0 days 00:01:05.681000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,FP2,ALB,,,8,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 8
+2020,Styrian Grand Prix,Q,NOR,29.0,0 days 00:01:27.358000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,Q,ALB,17.0,0 days 00:01:20.124000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,Q,KVY,19.0,0 days 00:01:19.889000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,Q,MAG,17.0,0 days 00:01:21.072000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,R,VER,66.0,0 days 00:01:08.956000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,R,VER,67.0,0 days 00:01:10.794000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,R,ALB,68.0,0 days 00:01:07.109000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,R,ALB,69.0,0 days 00:01:08.175000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,R,STR,7.0,0 days 00:01:10.268000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,R,STR,57.0,0 days 00:01:08.509000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,R,RIC,44.0,0 days 00:01:08.765000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,R,RIC,45.0,0 days 00:01:08.987000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,R,KVY,31.0,0 days 00:01:09.850000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,R,RAI,22.0,0 days 00:01:11.027000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,R,MAG,47.0,0 days 00:01:11.243000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,R,GRO,47.0,0 days 00:01:09.433000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,R,GRO,48.0,0 days 00:01:09.486000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,R,GIO,35.0,0 days 00:01:09.874000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,R,GIO,36.0,0 days 00:01:10.076000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,R,GIO,42.0,0 days 00:01:08.731000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,R,GIO,52.0,0 days 00:01:09.015000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,R,GIO,53.0,0 days 00:01:08.813000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,R,GAS,47.0,0 days 00:01:12.273000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,R,GAS,48.0,0 days 00:01:11.118000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Styrian Grand Prix,R,LAT,60.0,0 days 00:01:08.898000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Styrian Grand Prix,R,VET,,,,no_advantage,INCIDENT INVOLVING CARS 5 (VET) AND 16 (LEC) - NO INVESTIGATION NECESSARY
+2020,Hungarian Grand Prix,FP1,MAG,24.0,0 days 00:01:23.355000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Hungarian Grand Prix,FP1,ALB,13.0,0 days 00:01:17.948000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Hungarian Grand Prix,FP1,ALB,22.0,0 days 00:01:23.657000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Hungarian Grand Prix,FP1,OCO,9.0,0 days 00:01:22.226000,12,clear_violation,TRACK LIMITS AT TURN 12
+2020,Hungarian Grand Prix,FP1,BOT,36.0,0 days 00:01:23.375000,12,clear_violation,TRACK LIMITS AT TURN 12
+2020,Hungarian Grand Prix,FP2,VET,9.0,0 days 00:01:44.632000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Hungarian Grand Prix,FP2,RAI,7.0,0 days 00:01:49.355000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Hungarian Grand Prix,FP2,RAI,,,11,no_advantage,CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 11
+2020,Hungarian Grand Prix,FP3,RIC,9.0,0 days 00:01:16.591000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Hungarian Grand Prix,FP3,LAT,15.0,0 days 00:01:27.963000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Hungarian Grand Prix,FP3,ALB,9.0,0 days 00:01:22.693000,12,clear_violation,TRACK LIMITS AT TURN 12
+2020,Hungarian Grand Prix,FP3,HAM,6.0,0 days 00:01:21.230000,12,clear_violation,TRACK LIMITS AT TURN 12
+2020,Hungarian Grand Prix,Q,PER,18.0,0 days 00:01:15.088000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Hungarian Grand Prix,Q,GIO,2.0,0 days 00:01:17.912000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Hungarian Grand Prix,R,VET,11.0,0 days 00:01:25.775000,12,clear_violation,TRACK LIMITS AT TURN 12
+2020,Hungarian Grand Prix,R,GRO,41.0,0 days 00:01:22.391000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Hungarian Grand Prix,R,GRO,46.0,0 days 00:01:22.114000,12,clear_violation,TRACK LIMITS AT TURN 12
+2020,British Grand Prix,FP1,RIC,9.0,0 days 00:01:28.968000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,British Grand Prix,FP1,NOR,10.0,0 days 00:01:33.153000,5,clear_violation,TRACK LIMITS AT TURN 5
+2020,British Grand Prix,FP1,ALB,14.0,0 days 00:01:28.912000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,British Grand Prix,FP1,OCO,11.0,0 days 00:01:28.240000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,British Grand Prix,FP1,RAI,,,7,no_advantage,CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 7
+2020,British Grand Prix,FP2,NOR,5.0,0 days 00:01:40.254000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,British Grand Prix,FP2,GAS,4.0,0 days 00:01:33.839000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,British Grand Prix,FP2,MAG,25.0,0 days 00:01:35.453000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,British Grand Prix,FP3,RAI,15.0,0 days 00:01:28.184000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,British Grand Prix,FP3,MAG,12.0,0 days 00:01:46.092000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,British Grand Prix,FP3,ALB,2.0,0 days 00:01:28.398000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,British Grand Prix,Q,VET,19.0,0 days 00:01:26.077000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,British Grand Prix,Q,GRO,5.0,0 days 00:01:27.317000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,British Grand Prix,R,GAS,37.0,0 days 00:01:31.084000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,British Grand Prix,R,ALB,6.0,0 days 00:01:35.837000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,British Grand Prix,R,ALB,19.0,0 days 00:01:36.213000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,British Grand Prix,R,NOR,19.0,0 days 00:01:34.515000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,British Grand Prix,R,VET,47.0,0 days 00:01:30.601000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,British Grand Prix,R,SAI,19.0,0 days 00:01:34.463000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,British Grand Prix,R,SAI,43.0,0 days 00:01:30.619000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,British Grand Prix,R,RAI,47.0,0 days 00:01:54.836000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,British Grand Prix,R,GRO,9.0,0 days 00:01:33.467000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,British Grand Prix,R,GAS,,,15,no_advantage,TURN 15 INCIDENT INVOLVING CARS 10 (GAS) AND 5 (VET) - NO INVESTIGATION NECESSARY
+2020,70th Anniversary Grand Prix,FP1,VET,8.0,0 days 00:01:28.467000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,70th Anniversary Grand Prix,FP1,RAI,9.0,0 days 00:01:29.265000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,70th Anniversary Grand Prix,FP1,MAG,10.0,0 days 00:01:30.798000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,70th Anniversary Grand Prix,FP1,ALB,20.0,0 days 00:01:29.464000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,70th Anniversary Grand Prix,FP1,KUB,12.0,0 days 00:01:29.589000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,70th Anniversary Grand Prix,FP2,RIC,9.0,0 days 00:01:27.113000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,70th Anniversary Grand Prix,FP2,ALB,15.0,0 days 00:01:33.539000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,70th Anniversary Grand Prix,FP2,SAI,22.0,0 days 00:01:38.367000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,70th Anniversary Grand Prix,FP2,STR,,,14,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 14
+2020,70th Anniversary Grand Prix,FP2,RAI,,,13,no_advantage,CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 13
+2020,70th Anniversary Grand Prix,FP3,VER,8.0,0 days 00:02:03.257000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,70th Anniversary Grand Prix,FP3,RUS,5.0,0 days 00:01:38.866000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,70th Anniversary Grand Prix,Q,KVY,5.0,0 days 00:01:28.133000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,70th Anniversary Grand Prix,R,ALB,10.0,0 days 00:01:34.107000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,70th Anniversary Grand Prix,R,ALB,33.0,0 days 00:01:31.852000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,70th Anniversary Grand Prix,R,KVY,30.0,0 days 00:01:32.858000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,70th Anniversary Grand Prix,R,VET,36.0,0 days 00:01:31.494000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,70th Anniversary Grand Prix,R,VET,37.0,0 days 00:01:31.864000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,70th Anniversary Grand Prix,R,GRO,29.0,0 days 00:01:34.258000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,70th Anniversary Grand Prix,R,LAT,16.0,0 days 00:01:33.686000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,70th Anniversary Grand Prix,R,LAT,51.0,0 days 00:01:32.110000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,70th Anniversary Grand Prix,R,MAG,17.0,0 days 00:01:33.976000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Spanish Grand Prix,R,GRO,59.0,0 days 00:01:26.454000,2,clear_violation,TRACK LIMITS AT TURN 2
+2020,Belgian Grand Prix,FP1,GAS,5.0,0 days 00:02:00.079000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Belgian Grand Prix,FP1,GAS,15.0,0 days 00:01:47.850000,19,clear_violation,TRACK LIMITS AT TURN 19
+2020,Belgian Grand Prix,FP1,GAS,16.0,0 days 00:01:56.607000,19,clear_violation,TRACK LIMITS AT TURN 19
+2020,Belgian Grand Prix,FP1,VER,9.0,0 days 00:01:45.648000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Belgian Grand Prix,FP1,SAI,19.0,0 days 00:01:50.775000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Belgian Grand Prix,FP2,VET,20.0,0 days 00:01:51.571000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Belgian Grand Prix,FP2,GAS,19.0,0 days 00:01:51.067000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Belgian Grand Prix,FP2,GAS,20.0,0 days 00:01:50.734000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Belgian Grand Prix,FP2,GAS,23.0,0 days 00:01:49.974000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Belgian Grand Prix,FP2,STR,15.0,0 days 00:01:50.025000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Belgian Grand Prix,FP3,RAI,4.0,0 days 00:01:45.425000,19,clear_violation,TRACK LIMITS AT TURN 19
+2020,Belgian Grand Prix,Q,MAG,,,14,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 14
+2020,Belgian Grand Prix,R,GAS,5.0,0 days 00:01:51.803000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Belgian Grand Prix,R,STR,7.0,0 days 00:01:51.826000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Belgian Grand Prix,R,NOR,34.0,0 days 00:01:49.077000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Belgian Grand Prix,R,GRO,36.0,0 days 00:01:50.636000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Italian Grand Prix,FP1,NOR,4.0,0 days 00:01:23.756000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP1,NOR,9.0,0 days 00:01:22.550000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP1,NOR,10.0,0 days 00:01:47.997000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP1,NOR,22.0,0 days 00:02:21.172000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP1,NOR,23.0,0 days 00:01:25.178000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Italian Grand Prix,FP1,VET,5.0,0 days 00:01:40.526000,5,clear_violation,TRACK LIMITS AT TURN 5
+2020,Italian Grand Prix,FP1,VET,11.0,0 days 00:01:22.557000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP1,GRO,11.0,0 days 00:01:37.970000,5,clear_violation,TRACK LIMITS AT TURN 5
+2020,Italian Grand Prix,FP1,GAS,16.0,0 days 00:01:22.382000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP1,LEC,14.0,0 days 00:01:52.253000,5,clear_violation,TRACK LIMITS AT TURN 5
+2020,Italian Grand Prix,FP1,LEC,21.0,0 days 00:01:28,5,clear_violation,TRACK LIMITS AT TURN 5
+2020,Italian Grand Prix,FP1,MAG,4.0,0 days 00:01:45.259000,5,clear_violation,TRACK LIMITS AT TURN 5
+2020,Italian Grand Prix,FP1,MAG,5.0,0 days 00:01:40.636000,2,clear_violation,TRACK LIMITS AT TURN 2
+2020,Italian Grand Prix,FP1,ALB,2.0,0 days 00:01:24.088000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP1,ALB,3.0,0 days 00:01:53.212000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP1,ALB,23.0,0 days 00:01:25.820000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP1,ALB,24.0,0 days 00:01:25.442000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP1,BOT,7.0,0 days 00:01:21.876000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP1,BOT,8.0,0 days 00:01:51.690000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP1,STR,,,6,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 6
+2020,Italian Grand Prix,FP1,VET,,,6,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 6
+2020,Italian Grand Prix,FP2,RIC,8.0,0 days 00:01:20.905000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,NOR,17.0,0 days 00:01:21.532000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,NOR,18.0,0 days 00:01:54.292000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,VET,7.0,0 days 00:01:46.155000,5,clear_violation,TRACK LIMITS AT TURN 5
+2020,Italian Grand Prix,FP2,VET,12.0,0 days 00:01:22.518000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,VET,13.0,0 days 00:01:47.495000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,GRO,10.0,0 days 00:01:21.729000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,GRO,11.0,0 days 00:02:28.844000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,GRO,19.0,0 days 00:01:25.601000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,GRO,20.0,0 days 00:01:25.809000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,LEC,4.0,0 days 00:01:22.011000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,LEC,5.0,0 days 00:01:51.770000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,MAG,15.0,0 days 00:01:23.042000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,ALB,14.0,0 days 00:01:21.531000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,ALB,15.0,0 days 00:02:14.643000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,ALB,19.0,0 days 00:01:25.835000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,ALB,20.0,0 days 00:01:26.687000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,VER,20.0,0 days 00:01:24.837000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,VER,24.0,0 days 00:01:24.452000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,VER,25.0,0 days 00:01:24.452000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,VER,26.0,0 days 00:01:24.689000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,SAI,19.0,0 days 00:01:25.202000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,SAI,20.0,0 days 00:01:26.279000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,SAI,29.0,0 days 00:01:24.379000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,RUS,15.0,0 days 00:01:28.798000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,RUS,16.0,0 days 00:01:26.671000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,RUS,17.0,0 days 00:01:27.143000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP2,RAI,,,5,no_advantage,CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 5
+2020,Italian Grand Prix,FP2,SAI,,,6,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 6
+2020,Italian Grand Prix,FP2,LEC,,,6,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 6
+2020,Italian Grand Prix,FP3,LEC,3.0,0 days 00:01:55.117000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP3,LEC,4.0,0 days 00:01:21.883000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP3,ALB,4.0,0 days 00:01:21.168000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP3,ALB,5.0,0 days 00:01:49.699000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP3,ALB,6.0,0 days 00:01:20.952000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP3,ALB,7.0,0 days 00:01:47.616000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP3,ALB,14.0,0 days 00:01:20.675000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP3,VET,4.0,0 days 00:01:21.995000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,FP3,GIO,6.0,0 days 00:01:57.588000,5,clear_violation,TRACK LIMITS AT TURN 5
+2020,Italian Grand Prix,Q,STR,2.0,0 days 00:01:20.402000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,Q,STR,3.0,0 days 00:01:40.268000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,Q,ALB,4.0,0 days 00:01:20.618000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,Q,ALB,15.0,0 days 00:01:20.079000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,Q,GAS,2.0,0 days 00:01:20.171000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,Q,GAS,3.0,0 days 00:01:41.641000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,Q,LEC,2.0,0 days 00:01:20.970000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,Q,MAG,2.0,0 days 00:01:21.618000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,Q,RIC,,,5,no_advantage,CAR 3 (RIC) OFF TRACK AND CONTINUED AT TURN 5
+2020,Italian Grand Prix,Q,MAG,,,7,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 7
+2020,Italian Grand Prix,R,GAS,16.0,0 days 00:01:26.266000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,R,GAS,17.0,0 days 00:01:26.281000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,R,STR,28.0,0 days 00:02:24.316000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Italian Grand Prix,R,NOR,14.0,0 days 00:01:25.913000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,R,NOR,15.0,0 days 00:01:25.807000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,R,BOT,15.0,0 days 00:01:26.388000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,R,BOT,16.0,0 days 00:01:25.792000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,R,KVY,24.0,0 days 00:01:27.579000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,R,KVY,25.0,0 days 00:02:03.764000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,R,KVY,28.0,0 days 00:02:02.677000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,R,KVY,29.0,0 days 00:01:26.469000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,R,KVY,30.0,0 days 00:01:25.480000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,R,RAI,33.0,0 days 00:01:24.926000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,R,RAI,34.0,0 days 00:01:26.295000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,R,RAI,42.0,0 days 00:01:25.312000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,R,RAI,43.0,0 days 00:01:27.247000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,R,RUS,43.0,0 days 00:01:25.492000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,R,RUS,44.0,0 days 00:01:25.360000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,R,ALB,39.0,0 days 00:01:24.888000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,R,ALB,40.0,0 days 00:01:26.464000,11,clear_violation,TRACK LIMITS AT TURN 11
+2020,Italian Grand Prix,R,GAS,,,1,no_advantage,TURN 1 INCIDENT INVOLVING CARS 10 (GAS) AND 23 (ALB) - NO INVESTIGATION NECESSARY
+2020,Tuscan Grand Prix,FP2,LEC,,,12,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 12
+2020,Tuscan Grand Prix,FP2,VET,,,13,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 13
+2020,Tuscan Grand Prix,FP3,GAS,,,11,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 11
+2020,Tuscan Grand Prix,Q,KVY,,,7,no_advantage,CAR 26 (KVY) OFF TRACK AND CONTINUED AT TURN 7
+2020,Tuscan Grand Prix,R,SAI,,,2,no_advantage,TURN 2 INCIDENT INVOLVING CARS 55 (SAI) AND 18 (STR) - NO INVESTIGATION NECESSARY
+2020,Russian Grand Prix,FP1,GRO,23.0,0 days 00:01:45.737000,2,clear_violation,TRACK LIMITS AT TURN 2
+2020,Russian Grand Prix,FP1,STR,5.0,0 days 00:02:22.030000,2,clear_violation,TRACK LIMITS AT TURN 2
+2020,Russian Grand Prix,FP1,BOT,,,13,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 13
+2020,Russian Grand Prix,FP1,RUS,,,13,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 13
+2020,Russian Grand Prix,FP2,NOR,5.0,0 days 00:02:15.706000,2,clear_violation,TRACK LIMITS AT TURN 2
+2020,Russian Grand Prix,FP2,BOT,8.0,0 days 00:02:03.260000,2,clear_violation,TRACK LIMITS AT TURN 2
+2020,Russian Grand Prix,FP2,BOT,,,13,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 13
+2020,Russian Grand Prix,FP2,HAM,,,13,no_advantage,CORRECTION - CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 13
+2020,Russian Grand Prix,FP2,BOT,,,14,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 14
+2020,Russian Grand Prix,FP2,HAM,,,13,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 13
+2020,Russian Grand Prix,FP2,LEC,,,17,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 17
+2020,Russian Grand Prix,FP3,ALB,10.0,0 days 00:01:34.603000,2,clear_violation,TRACK LIMITS AT TURN 2
+2020,Russian Grand Prix,FP3,RUS,6.0,0 days 00:01:39.506000,2,clear_violation,TRACK LIMITS AT TURN 2
+2020,Russian Grand Prix,FP3,BOT,,,7,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 7
+2020,Russian Grand Prix,FP3,LEC,,,2,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 2
+2020,Russian Grand Prix,FP3,RUS,,,2,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 2
+2020,Russian Grand Prix,FP3,ALB,,,2,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 2
+2020,Russian Grand Prix,Q,HAM,2.0,0 days 00:01:34.265000,2,clear_violation,TRACK LIMITS AT TURN 2
+2020,Russian Grand Prix,Q,HAM,7.0,0 days 00:01:32.085000,18,clear_violation,TRACK LIMITS AT TURN 18
+2020,Russian Grand Prix,Q,GAS,2.0,0 days 00:02:22.558000,2,clear_violation,TRACK LIMITS AT TURN 2
+2020,Russian Grand Prix,Q,GRO,2.0,0 days 00:01:34.980000,2,clear_violation,TRACK LIMITS AT TURN 2
+2020,Russian Grand Prix,Q,MAG,2.0,0 days 00:01:55.588000,2,clear_violation,TRACK LIMITS AT TURN 2
+2020,Russian Grand Prix,Q,HAM,,,2,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 2
+2020,Russian Grand Prix,Q,GRO,,,2,no_advantage,CAR 8 (GRO) OFF TRACK AND CONTINUED AT TURN 2
+2020,Russian Grand Prix,Q,MAG,,,2,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 2
+2020,Russian Grand Prix,Q,GAS,,,2,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 2
+2020,Russian Grand Prix,Q,LAT,,,2,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 2
+2020,Russian Grand Prix,Q,HAM,,,18,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 18
+2020,Russian Grand Prix,Q,HAM,,,2,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 2
+2020,Russian Grand Prix,R,RIC,25.0,0 days 00:01:41.123000,2,clear_violation,TRACK LIMITS AT TURN 2
+2020,Russian Grand Prix,R,ALB,50.0,0 days 00:01:40.144000,2,clear_violation,TRACK LIMITS AT TURN 2
+2020,Russian Grand Prix,R,GRO,39.0,0 days 00:01:43.656000,2,clear_violation,TRACK LIMITS AT TURN 2
+2020,Russian Grand Prix,R,GRO,41.0,0 days 00:01:45.760000,2,clear_violation,TRACK LIMITS AT TURN 2
+2020,Russian Grand Prix,R,GRO,47.0,0 days 00:01:41.542000,2,clear_violation,TRACK LIMITS AT TURN 2
+2020,Russian Grand Prix,R,LEC,,,4,no_advantage,TURN 4 INCIDENT INVOLVING CARS 16 (LEC) AND 18 (STR) - NO INVESTIGATION NECESSARY
+2020,Russian Grand Prix,R,PER,,,2,no_advantage,TURN 2 INCIDENT INVOLVING CAR 11 (PER) - NO INVESTIGATION NECESSARY
+2020,Russian Grand Prix,R,RIC,,,2,no_advantage,CAR 3 (RIC) OFF TRACK AND CONTINUED AT TURN 2
+2020,Russian Grand Prix,R,GRO,,,2,no_advantage,CAR 8 (GRO) OFF TRACK AND CONTINUED AT TURN 2
+2020,Russian Grand Prix,R,GRO,,,2,no_advantage,CAR 8 (GRO) OFF TRACK AND CONTINUED AT TURN 2
+2020,Russian Grand Prix,R,GRO,,,2,no_advantage,CAR 8 (GRO) OFF TRACK AND CONTINUED AT TURN 2
+2020,Russian Grand Prix,R,ALB,,,2,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 2
+2020,Eifel Grand Prix,FP3,NOR,9.0,0 days 00:01:29.363000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,FP3,VET,5.0,0 days 00:01:35.129000,13,clear_violation,TRACK LIMITS AT TURN 13
+2020,Eifel Grand Prix,FP3,VET,7.0,0 days 00:01:33.876000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,FP3,RAI,8.0,0 days 00:01:33.354000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,FP3,RAI,22.0,0 days 00:01:28.748000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,FP3,GAS,5.0,0 days 00:01:32.596000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,FP3,PER,16.0,0 days 00:01:32.881000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,FP3,LEC,6.0,0 days 00:01:39.692000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,FP3,MAG,6.0,0 days 00:01:36.761000,13,clear_violation,TRACK LIMITS AT TURN 13
+2020,Eifel Grand Prix,FP3,ALB,14.0,0 days 00:01:28.228000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,FP3,OCO,2.0,0 days 00:01:36.121000,13,clear_violation,TRACK LIMITS AT TURN 13
+2020,Eifel Grand Prix,FP3,VER,2.0,0 days 00:01:31.739000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,FP3,SAI,7.0,0 days 00:01:33.842000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,FP3,SAI,8.0,0 days 00:01:30.758000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,FP3,VER,,,4,no_advantage,CAR 33 (VER) OFF TRACK AND CONTINUED AT TURN 4
+2020,Eifel Grand Prix,FP3,GAS,,,4,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 4
+2020,Eifel Grand Prix,FP3,SAI,,,4,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 4
+2020,Eifel Grand Prix,FP3,LEC,,,4,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 4
+2020,Eifel Grand Prix,FP3,RAI,,,4,no_advantage,CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 4
+2020,Eifel Grand Prix,FP3,NOR,,,4,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 4
+2020,Eifel Grand Prix,FP3,PER,,,4,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 4
+2020,Eifel Grand Prix,FP3,ALB,,,4,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 4
+2020,Eifel Grand Prix,FP3,RUS,,,4,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 4
+2020,Eifel Grand Prix,FP3,RAI,,,4,no_advantage,CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 4
+2020,Eifel Grand Prix,Q,GIO,2.0,0 days 00:01:28.817000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,Q,MAG,2.0,0 days 00:01:28.861000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,Q,GRO,7.0,0 days 00:01:27.118000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,Q,MAG,,,4,no_advantage,CAR 20 (MAG) OFF TRACK AND CONTINUED AT TURN 4
+2020,Eifel Grand Prix,Q,GIO,,,4,no_advantage,CAR 99 (GIO) OFF TRACK AND CONTINUED AT TURN 4
+2020,Eifel Grand Prix,Q,ALB,,,4,no_advantage,CAR 23 (ALB) OFF TRACK AND CONTINUED AT TURN 4
+2020,Eifel Grand Prix,Q,GRO,,,4,no_advantage,CAR 8 (GRO) OFF TRACK AND CONTINUED AT TURN 4
+2020,Eifel Grand Prix,R,GAS,11.0,0 days 00:01:35.552000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,GAS,52.0,0 days 00:01:30.522000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,PER,36.0,0 days 00:01:31.270000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,LEC,12.0,0 days 00:01:33.245000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,MAG,23.0,0 days 00:01:32.917000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,MAG,54.0,0 days 00:01:32.053000,14,clear_violation,TRACK LIMITS AT TURN 14
+2020,Eifel Grand Prix,R,KVY,13.0,0 days 00:01:34.186000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,KVY,27.0,0 days 00:01:32.306000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,HUL,35.0,0 days 00:01:32.130000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,RIC,50.0,0 days 00:01:31.905000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,HAM,3.0,0 days 00:01:32.165000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,VET,55.0,0 days 00:01:32.093000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,VET,60.0,0 days 00:01:31.883000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,SAI,7.0,0 days 00:01:34.853000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,LAT,57.0,0 days 00:01:34.099000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,RAI,17.0,0 days 00:01:36.215000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,RAI,37.0,0 days 00:01:32.994000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,GRO,5.0,0 days 00:01:34.634000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,GRO,32.0,0 days 00:01:32.694000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,GRO,33.0,0 days 00:01:32.028000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,GIO,53.0,0 days 00:01:32.017000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Eifel Grand Prix,R,RIC,,,1,no_advantage,TURN 1 INCIDENT INVOLVING CARS 3 (RIC) AND 16 (LEC) - NO INVESTIGATION NECESSARY
+2020,Eifel Grand Prix,R,RUS,,,2,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 2
+2020,Eifel Grand Prix,R,VET,,,1,no_advantage,TURN 1 INCIDENT INVOLVING CARS 5 (VET) AND 20 (MAG) NOTED - NO INVESTIGATION NECESSARY
+2020,Portuguese Grand Prix,FP1,RIC,25.0,0 days 00:01:29.304000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,NOR,23.0,0 days 00:01:21.930000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,NOR,28.0,0 days 00:01:53.687000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,VET,6.0,0 days 00:01:29.390000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,VET,14.0,0 days 00:01:20.030000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,VET,22.0,0 days 00:01:25.318000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,VET,25.0,0 days 00:01:20.427000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,VET,33.0,0 days 00:01:21.572000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,VET,36.0,0 days 00:01:47.794000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,LAT,31.0,0 days 00:01:24.212000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,RAI,6.0,0 days 00:01:24.815000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,RAI,7.0,0 days 00:01:23.389000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,RAI,33.0,0 days 00:01:21.264000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,GRO,13.0,0 days 00:01:26.091000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,GRO,18.0,0 days 00:01:21.625000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,GRO,25.0,0 days 00:01:24.963000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,GAS,10.0,0 days 00:01:23.661000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,GAS,11.0,0 days 00:01:20.365000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,GAS,22.0,0 days 00:01:22.902000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,PER,4.0,0 days 00:01:23.696000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,PER,11.0,0 days 00:01:21.759000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,PER,20.0,0 days 00:01:23.283000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,PER,21.0,0 days 00:01:22.579000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,PER,22.0,0 days 00:01:22.367000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,PER,25.0,0 days 00:01:23.196000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,LEC,6.0,0 days 00:01:20.816000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,LEC,9.0,0 days 00:01:26.317000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,LEC,31.0,0 days 00:01:24.527000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,STR,3.0,0 days 00:01:27.524000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,STR,5.0,0 days 00:01:34.043000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,STR,6.0,0 days 00:01:23.428000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,STR,7.0,0 days 00:01:23.004000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,STR,9.0,0 days 00:01:22.450000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,STR,10.0,0 days 00:01:29.776000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,STR,16.0,0 days 00:01:22.383000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,STR,22.0,0 days 00:01:25.775000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,STR,23.0,0 days 00:01:21.342000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,STR,24.0,0 days 00:01:20.602000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,STR,28.0,0 days 00:01:25.022000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,STR,30.0,0 days 00:01:26.811000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,ALB,5.0,0 days 00:01:23.564000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,ALB,19.0,0 days 00:01:27.779000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,ALB,27.0,0 days 00:01:25.709000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,ALB,32.0,0 days 00:01:24.154000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,ALB,33.0,0 days 00:01:48.362000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,KVY,20.0,0 days 00:01:25.425000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,KVY,24.0,0 days 00:01:23.396000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,KVY,29.0,0 days 00:01:23.982000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,OCO,8.0,0 days 00:01:22.457000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,OCO,11.0,0 days 00:01:21.269000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,VER,3.0,0 days 00:01:24.101000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,HAM,27.0,0 days 00:01:23.290000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,HAM,28.0,0 days 00:01:21.644000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,SAI,3.0,0 days 00:01:24.452000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,SAI,4.0,0 days 00:01:26.948000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,SAI,15.0,0 days 00:01:21.928000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,SAI,20.0,0 days 00:01:31.194000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,SAI,27.0,0 days 00:01:30.465000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,SAI,34.0,0 days 00:01:22.553000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,SAI,40.0,0 days 00:01:26.568000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,RUS,28.0,0 days 00:01:23.546000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,BOT,27.0,0 days 00:01:21.899000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP1,BOT,32.0,0 days 00:01:24.677000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,GIO,23.0,0 days 00:01:32.135000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP1,GIO,,,1,no_advantage,CAR 99 (GIO) OFF TRACK AND CONTINUED AT TURN 1
+2020,Portuguese Grand Prix,FP1,LAT,,,1,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 1
+2020,Portuguese Grand Prix,FP2,RIC,16.0,0 days 00:01:22.343000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,NOR,6.0,0 days 00:01:23.259000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,NOR,7.0,0 days 00:01:22.581000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,NOR,29.0,0 days 00:01:21.187000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,VET,7.0,0 days 00:01:23.839000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,VET,12.0,0 days 00:01:24.535000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP2,LAT,15.0,0 days 00:01:25.529000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP2,LAT,17.0,0 days 00:01:24.321000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,RAI,5.0,0 days 00:01:24.767000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,RAI,9.0,0 days 00:01:22.927000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,RAI,13.0,0 days 00:01:23.267000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,RAI,30.0,0 days 00:01:23.955000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,GRO,4.0,0 days 00:01:24.165000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,GRO,12.0,0 days 00:01:25.006000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP2,GRO,13.0,0 days 00:01:23.870000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,GRO,14.0,0 days 00:01:23.631000,2,clear_violation,TRACK LIMITS AT TURN 2
+2020,Portuguese Grand Prix,FP2,GRO,15.0,0 days 00:01:27.485000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP2,GRO,19.0,0 days 00:01:22.794000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,GRO,26.0,0 days 00:01:24.225000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,GRO,27.0,0 days 00:01:24.225000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,GAS,4.0,0 days 00:01:26.739000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,GAS,6.0,0 days 00:01:23.097000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,GAS,9.0,0 days 00:01:23.169000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,GAS,19.0,0 days 00:01:20.037000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,PER,20.0,0 days 00:01:22.895000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,PER,21.0,0 days 00:01:20.819000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,LEC,5.0,0 days 00:01:27.265000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,STR,10.0,0 days 00:01:23.203000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,STR,20.0,0 days 00:01:25.872000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,STR,22.0,0 days 00:01:20.531000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,MAG,5.0,0 days 00:01:23.777000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,MAG,26.0,0 days 00:01:25.361000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,ALB,2.0,0 days 00:01:24.781000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,ALB,3.0,0 days 00:01:24.280000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,ALB,4.0,0 days 00:01:23.849000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP2,ALB,12.0,0 days 00:01:23.006000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP2,ALB,15.0,0 days 00:01:23.281000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP2,ALB,19.0,0 days 00:01:35.083000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP2,ALB,20.0,0 days 00:01:19.992000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP2,ALB,28.0,0 days 00:01:32.736000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,ALB,31.0,0 days 00:01:29.841000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,ALB,32.0,0 days 00:01:20.473000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,KVY,8.0,0 days 00:01:23.070000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,KVY,12.0,0 days 00:01:23.420000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP2,KVY,15.0,0 days 00:01:22.858000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,KVY,29.0,0 days 00:01:19.940000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,OCO,14.0,0 days 00:01:23.072000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP2,VER,13.0,0 days 00:01:22.277000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP2,HAM,24.0,0 days 00:01:22.247000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,SAI,2.0,0 days 00:01:23.875000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP2,SAI,17.0,0 days 00:01:23.425000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,SAI,21.0,0 days 00:01:23.059000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,SAI,27.0,0 days 00:01:19.112000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,RUS,7.0,0 days 00:01:23.608000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,RUS,8.0,0 days 00:01:23.634000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,GIO,22.0,0 days 00:01:20.665000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,GIO,25.0,0 days 00:01:26.033000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,GIO,28.0,0 days 00:01:23.470000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,GIO,30.0,0 days 00:01:24.328000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,GIO,31.0,0 days 00:01:23.377000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP2,GIO,32.0,0 days 00:01:23.079000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP3,NOR,13.0,0 days 00:01:29.034000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,LAT,3.0,0 days 00:01:20.110000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,RAI,4.0,0 days 00:01:18.590000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,GRO,5.0,0 days 00:01:18.584000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,GRO,9.0,0 days 00:01:18.517000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,GRO,11.0,0 days 00:01:18.132000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP3,GRO,16.0,0 days 00:01:18.484000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,GRO,18.0,0 days 00:01:18.666000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,GAS,11.0,0 days 00:01:20.301000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,GAS,12.0,0 days 00:01:20.731000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP3,GAS,20.0,0 days 00:01:41.449000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,STR,14.0,0 days 00:01:18.090000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,MAG,10.0,0 days 00:01:44.758000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,ALB,7.0,0 days 00:01:17.179000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,ALB,12.0,0 days 00:01:16.949000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,KVY,16.0,0 days 00:01:19.739000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,KVY,19.0,0 days 00:01:21.438000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,FP3,OCO,16.0,0 days 00:01:18.129000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,VER,7.0,0 days 00:01:16.659000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,SAI,3.0,0 days 00:01:25.963000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,SAI,20.0,0 days 00:01:18.409000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,RUS,3.0,0 days 00:01:19.311000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,BOT,17.0,0 days 00:01:21.198000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,GIO,8.0,0 days 00:01:18.371000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,FP3,RUS,,,5,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 5
+2020,Portuguese Grand Prix,FP3,HAM,,,8,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 8
+2020,Portuguese Grand Prix,Q,VER,4.0,0 days 00:01:30.021000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,Q,STR,11.0,0 days 00:01:17.476000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,Q,KVY,9.0,0 days 00:01:17.878000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,Q,VET,5.0,0 days 00:01:17.914000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,Q,LAT,5.0,0 days 00:01:18.494000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,BOT,20.0,0 days 00:01:22.596000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,R,BOT,35.0,0 days 00:01:21.538000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,R,VER,7.0,0 days 00:01:24.232000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,R,GAS,11.0,0 days 00:01:22.551000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,GAS,15.0,0 days 00:01:23.016000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,SAI,32.0,0 days 00:01:23.907000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,OCO,2.0,0 days 00:01:29.961000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,VET,54.0,0 days 00:01:21.575000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,RAI,30.0,0 days 00:01:23.639000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,R,RAI,56.0,0 days 00:01:21.461000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,R,ALB,2.0,0 days 00:01:31.533000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,ALB,49.0,0 days 00:01:20.997000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,NOR,32.0,0 days 00:01:23.682000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,R,NOR,48.0,0 days 00:01:21.092000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,R,NOR,53.0,0 days 00:01:21.667000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,RUS,16.0,0 days 00:01:23.904000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,GIO,47.0,0 days 00:01:22.953000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,R,MAG,9.0,0 days 00:01:24.188000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,R,MAG,25.0,0 days 00:01:23.614000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,R,MAG,38.0,0 days 00:01:23.472000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,GRO,12.0,0 days 00:01:24.391000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,GRO,24.0,0 days 00:01:23.430000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,R,GRO,28.0,0 days 00:01:23.814000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,R,GRO,30.0,0 days 00:01:24.050000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,GRO,39.0,0 days 00:01:22.565000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,LAT,17.0,0 days 00:01:23.896000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,R,LAT,38.0,0 days 00:01:25.975000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,LAT,49.0,0 days 00:01:22.337000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,LAT,50.0,0 days 00:01:22.415000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,KVY,32.0,0 days 00:01:22.594000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,KVY,33.0,0 days 00:01:22.440000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,KVY,35.0,0 days 00:01:22.300000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,KVY,37.0,0 days 00:01:22.708000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,KVY,52.0,0 days 00:01:22.300000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,STR,2.0,0 days 00:01:29.459000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,STR,6.0,0 days 00:01:23.860000,4,clear_violation,TRACK LIMITS AT TURN 4
+2020,Portuguese Grand Prix,R,STR,27.0,0 days 00:01:23.935000,1,clear_violation,TRACK LIMITS AT TURN 1
+2020,Portuguese Grand Prix,R,PER,,,4,no_advantage,TURN 4 INCIDENT INVOLVING CARS 11 (PER) AND 33 (VER) - NO INVESTIGATION NECESSARY
+2020,Emilia Romagna Grand Prix,FP1,RIC,5.0,0 days 00:01:19.119000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,RIC,13.0,0 days 00:01:16.641000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,NOR,3.0,0 days 00:01:21.192000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,NOR,4.0,0 days 00:01:19.875000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,NOR,36.0,0 days 00:01:15.856000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,NOR,38.0,0 days 00:01:21.369000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,VET,15.0,0 days 00:01:17.271000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,VET,22.0,0 days 00:01:20.503000,10,clear_violation,TRACK LIMITS AT TURN 10
+2020,Emilia Romagna Grand Prix,FP1,VET,23.0,0 days 00:01:20.545000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,VET,28.0,0 days 00:01:20.444000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,LAT,3.0,0 days 00:01:21.702000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,RAI,22.0,0 days 00:01:21.123000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,GRO,17.0,0 days 00:01:16.998000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,GRO,28.0,0 days 00:01:21.040000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,GAS,3.0,0 days 00:01:18.827000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,GAS,4.0,0 days 00:01:26.642000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,GAS,5.0,0 days 00:01:18.162000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,GAS,7.0,0 days 00:01:17.069000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,GAS,9.0,0 days 00:01:16.761000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,GAS,32.0,0 days 00:01:18.531000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,PER,4.0,0 days 00:01:19.181000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,PER,6.0,0 days 00:01:18.769000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,LEC,5.0,0 days 00:01:18.503000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,LEC,9.0,0 days 00:01:17.580000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,LEC,18.0,0 days 00:01:16.720000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,LEC,29.0,0 days 00:01:21.117000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,STR,18.0,0 days 00:01:17.406000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,STR,35.0,0 days 00:01:22.571000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,MAG,13.0,0 days 00:01:18.370000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,MAG,14.0,0 days 00:01:17.840000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,MAG,30.0,0 days 00:01:21.239000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,MAG,38.0,0 days 00:01:24.385000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,ALB,8.0,0 days 00:01:17.558000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,ALB,10.0,0 days 00:01:17.383000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,ALB,14.0,0 days 00:01:17.102000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,ALB,19.0,0 days 00:01:16.118000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,ALB,26.0,0 days 00:01:15.953000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,KVY,2.0,0 days 00:01:19.521000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,KVY,4.0,0 days 00:01:17.815000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,KVY,11.0,0 days 00:01:16.913000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,KVY,23.0,0 days 00:01:18.637000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,KVY,30.0,0 days 00:01:16.782000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,OCO,16.0,0 days 00:01:16.417000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,VER,2.0,0 days 00:01:23.319000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,VER,4.0,0 days 00:01:17.841000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,VER,36.0,0 days 00:01:18.935000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,HAM,5.0,0 days 00:01:19.481000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,HAM,39.0,0 days 00:01:23.859000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,SAI,18.0,0 days 00:01:20.650000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,SAI,22.0,0 days 00:01:15.730000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,SAI,39.0,0 days 00:01:22.682000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,RUS,11.0,0 days 00:01:18.411000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,BOT,9.0,0 days 00:01:16.775000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,FP1,BOT,32.0,0 days 00:01:19.601000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,BOT,34.0,0 days 00:01:20.465000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,BOT,41.0,0 days 00:01:20.042000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,GIO,6.0,0 days 00:01:22.064000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,GIO,8.0,0 days 00:01:19.532000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,GIO,9.0,0 days 00:01:19.011000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,BOT,,,15,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,RAI,,,15,no_advantage,CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,SAI,,,15,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,GIO,,,15,no_advantage,CAR 99 (GIO) OFF TRACK AND CONTINUED AT TURN 15
+2020,Emilia Romagna Grand Prix,FP1,KVY,,,2,no_advantage,CAR 26 (KVY) OFF TRACK AND CONTINUED AT TURN 2
+2020,Emilia Romagna Grand Prix,FP1,RUS,,,13,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 13
+2020,Emilia Romagna Grand Prix,FP1,BOT,,,13,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 13
+2020,Emilia Romagna Grand Prix,Q,BOT,4.0,0 days 00:01:14.626000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,Q,HAM,9.0,0 days 00:01:14.321000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,Q,ALB,4.0,0 days 00:01:15.539000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,Q,ALB,17.0,0 days 00:01:14.655000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,Q,VET,19.0,0 days 00:01:15.274000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,Q,STR,15.0,0 days 00:01:16.152000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,Q,RAI,4.0,0 days 00:01:16.207000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,Q,RAI,9.0,0 days 00:01:15.758000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,R,LEC,58.0,0 days 00:01:22.164000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,R,MAG,12.0,0 days 00:01:20.267000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,R,MAG,23.0,0 days 00:01:19.908000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,R,ALB,33.0,0 days 00:01:19.292000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,R,VER,47.0,0 days 00:01:17.707000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,R,NOR,4.0,0 days 00:01:21.372000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,R,HAM,24.0,0 days 00:01:18.026000,15,clear_violation,TRACK LIMITS AT TURN 15
+2020,Emilia Romagna Grand Prix,R,VET,12.0,0 days 00:01:20.387000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,R,SAI,15.0,0 days 00:01:20.156000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,R,SAI,30.0,0 days 00:01:31.363000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,R,LAT,3.0,0 days 00:01:22.929000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,R,RUS,37.0,0 days 00:01:19.070000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,R,BOT,25.0,0 days 00:01:18.471000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,R,GRO,8.0,0 days 00:01:21.402000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,R,GRO,46.0,0 days 00:01:19.375000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,R,GRO,60.0,0 days 00:01:19.528000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,R,GRO,63.0,0 days 00:01:19.035000,9,clear_violation,TRACK LIMITS AT TURN 9
+2020,Emilia Romagna Grand Prix,R,LAT,,,4,no_advantage,TURN 4 INCIDENT INVOLVING CARS 6 (LAT) AND 8 (GRO) - NO INVESTIGATION NECESSARY

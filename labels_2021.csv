@@ -1,0 +1,1243 @@
+﻿year,race,session,driver,lap,lap_time,turn,label,reason
+2021,Pre-Season Test,FP1,RIC,3.0,0 days 00:01:37.856000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP1,RIC,4.0,0 days 00:02:13.394000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP1,RIC,11.0,0 days 00:01:36.220000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP1,NOR,10.0,0 days 00:01:38.199000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP1,VET,8.0,0 days 00:01:36.344000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP1,RAI,2.0,0 days 00:01:39.888000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP1,MAZ,6.0,0 days 00:01:42.476000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP1,MAZ,8.0,0 days 00:01:40.948000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP1,MAZ,14.0,0 days 00:01:45.405000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP1,GAS,3.0,0 days 00:01:38.116000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP1,PER,5.0,0 days 00:01:56.075000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP1,PER,6.0,0 days 00:01:41.209000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP1,PER,11.0,0 days 00:01:35.817000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP1,PER,14.0,0 days 00:01:41.714000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP1,PER,16.0,0 days 00:01:41.849000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP1,STR,4.0,0 days 00:01:38.342000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP1,STR,13.0,0 days 00:01:37.417000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP1,TSU,11.0,0 days 00:01:37.661000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP1,TSU,14.0,0 days 00:01:37.248000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP1,TSU,21.0,0 days 00:01:43.398000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP1,OCO,4.0,0 days 00:01:38.784000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP1,OCO,16.0,0 days 00:01:37.252000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP1,VER,13.0,0 days 00:01:43.143000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP1,SAI,7.0,0 days 00:01:37.483000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP1,MAZ,,,19,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 19
+2021,Pre-Season Test,FP2,VET,7.0,0 days 00:01:41.572000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP2,VET,25.0,0 days 00:01:42.073000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP2,LAT,2.0,0 days 00:01:38.478000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP2,RAI,20.0,0 days 00:01:42.389000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP2,RAI,22.0,0 days 00:01:42.784000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP2,RAI,24.0,0 days 00:01:42.697000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP2,MAZ,4.0,0 days 00:01:39.961000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP2,MAZ,6.0,0 days 00:01:39.474000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP2,MAZ,16.0,0 days 00:01:44.330000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP2,MAZ,19.0,0 days 00:01:45.205000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP2,GAS,22.0,0 days 00:01:43.287000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP2,PER,22.0,0 days 00:01:43.244000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP2,ALO,2.0,0 days 00:01:36.744000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP2,LEC,5.0,0 days 00:01:36.402000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP2,LEC,11.0,0 days 00:01:35.999000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP2,LEC,16.0,0 days 00:01:41.767000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP2,STR,15.0,0 days 00:01:42.714000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP2,TSU,10.0,0 days 00:01:36.690000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP2,TSU,18.0,0 days 00:01:42.882000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP2,TSU,19.0,0 days 00:01:43.241000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP2,OCO,19.0,0 days 00:01:42.757000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP2,HAM,7.0,0 days 00:01:34.842000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP2,MSC,2.0,0 days 00:01:38.268000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP2,BOT,20.0,0 days 00:01:43.539000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP2,VER,,,20,no_advantage,CAR 33 (VER) OFF TRACK AND CONTINUED AT TURN 20
+2021,Pre-Season Test,FP2,MSC,,,1,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 1
+2021,Pre-Season Test,FP2,OCO,,,1,no_advantage,CAR 31 (OCO) OFF TRACK AND CONTINUED AT TURN 1
+2021,Pre-Season Test,FP2,NOR,,,11,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 11
+2021,Pre-Season Test,FP3,RAI,10.0,0 days 00:01:36.758000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP3,RAI,19.0,0 days 00:01:37.066000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP3,MAZ,2.0,0 days 00:01:38.442000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP3,MAZ,9.0,0 days 00:01:37.414000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP3,MAZ,12.0,0 days 00:01:37.344000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP3,GAS,4.0,0 days 00:01:36.647000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP3,LEC,10.0,0 days 00:01:35.343000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP3,STR,2.0,0 days 00:01:37.015000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP3,TSU,2.0,0 days 00:01:38.124000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP3,VER,9.0,0 days 00:01:34.383000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP3,HAM,12.0,0 days 00:01:34.458000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,FP3,MSC,12.0,0 days 00:01:40.545000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,FP3,BOT,2.0,0 days 00:01:35.556000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,Q,PER,8.0,0 days 00:01:34.074000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,Q,RIC,5.0,0 days 00:01:34.248000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,Q,RUS,10.0,0 days 00:01:35.730000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,Q,STR,4.0,0 days 00:01:36.219000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,Q,RAI,3.0,0 days 00:01:36.336000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,Q,MAZ,2.0,0 days 00:01:37.894000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,Q,MAZ,,,3,no_advantage,TURN 3-5 INCIDENT INVOLVING CARS 9 (MAZ) AND 5 (VET) - NO INVESTIGATION NECESSARY
+2021,Pre-Season Test,Q,MAZ,,,15,no_advantage,TURN 15 INCIDENT INVOLVING CARS 9 (MAZ) AND 18 (STR) NO INVESTIGATION NECESSARY
+2021,Pre-Season Test,R,VER,4.0,0 days 00:01:41.125000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,R,PER,13.0,0 days 00:02:01.373000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,R,TSU,11.0,0 days 00:01:42.046000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,R,VET,51.0,0 days 00:01:41.439000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,R,VET,55.0,0 days 00:01:41.639000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,R,GIO,28.0,0 days 00:01:40.792000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,R,STR,21.0,0 days 00:01:43.098000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,R,STR,29.0,0 days 00:01:43.550000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,R,STR,47.0,0 days 00:01:41.381000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,R,RAI,13.0,0 days 00:02:02.425000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,R,RAI,16.0,0 days 00:01:43.605000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Pre-Season Test,R,RAI,33.0,0 days 00:01:42.505000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,R,RAI,40.0,0 days 00:01:41.585000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,R,RUS,14.0,0 days 00:01:43.719000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,R,RUS,40.0,0 days 00:01:42.221000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,R,LAT,55.0,0 days 00:01:43.709000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,R,MSC,46.0,0 days 00:01:42.189000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,R,MAZ,5.0,0 days 00:01:45.006000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,R,MAZ,30.0,0 days 00:01:48.426000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,Pre-Season Test,R,MAZ,39.0,0 days 00:01:46.284000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,R,OCO,6.0,0 days 00:01:45.194000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Pre-Season Test,R,GAS,11.0,0 days 00:02:02.604000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Pre-Season Test,R,,,,1,no_advantage,TURN 1 INCIDENT NO INVESTIGATION NECESSARY
+2021,Pre-Season Test,R,ALO,,,1,no_advantage,TURN 1 INCIDENT INVOLVING CARS 14 (ALO) AND 7 (RAI) NO INVESTIGATION NECESSARY
+2021,Pre-Season Test,R,GIO,,,12,no_advantage,TURN 12 INCIDENT INVOLVING CARS 99 (GIO) AND 14 (ALO) NO INVESTIGATION NECESSARY 
+2021,Bahrain Grand Prix,FP2,TSU,5.0,0 days 00:01:32.044000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Bahrain Grand Prix,FP2,OCO,9.0,0 days 00:01:32.451000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Bahrain Grand Prix,FP2,HAM,2.0,0 days 00:01:31.647000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Bahrain Grand Prix,FP2,MSC,12.0,0 days 00:01:35.332000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Bahrain Grand Prix,FP2,BOT,2.0,0 days 00:01:59.805000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Bahrain Grand Prix,FP2,BOT,15.0,0 days 00:01:37.505000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Bahrain Grand Prix,FP2,BOT,17.0,0 days 00:01:38.617000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Bahrain Grand Prix,FP2,BOT,18.0,0 days 00:01:38.032000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Bahrain Grand Prix,FP2,BOT,19.0,0 days 00:01:38.584000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Bahrain Grand Prix,FP2,RAI,,,3,no_advantage,CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 3
+2021,Bahrain Grand Prix,FP3,TSU,14.0,0 days 00:01:32.677000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Bahrain Grand Prix,FP3,BOT,3.0,0 days 00:01:33.372000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Bahrain Grand Prix,FP3,BOT,7.0,0 days 00:01:36.635000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Bahrain Grand Prix,FP3,BOT,9.0,0 days 00:01:36.885000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Bahrain Grand Prix,Q,RIC,8.0,0 days 00:01:30.877000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Bahrain Grand Prix,Q,PER,7.0,0 days 00:01:30.750000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Bahrain Grand Prix,R,GAS,,,4,no_advantage,TURN 4 INCIDENT INVOLVING CAR 10 (GAS) - NO INVESTIGATION NECESSARY
+2021,Bahrain Grand Prix,R,NOR,,,4,no_advantage,TURN 4 INCIDENT INVOLVING CARS 4 (NOR) AND 16 (LEC) NOTED - NO INVESTIGATION NECESSARY
+2021,Emilia Romagna Grand Prix,FP1,TSU,,,4,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 4
+2021,Emilia Romagna Grand Prix,FP1,HAM,,,15,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 15
+2021,Emilia Romagna Grand Prix,FP1,LAT,,,18,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 18
+2021,Emilia Romagna Grand Prix,FP2,RIC,12.0,0 days 00:01:16.782000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP2,NOR,5.0,0 days 00:01:34.869000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP2,NOR,17.0,0 days 00:01:21.343000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP2,VET,12.0,0 days 00:01:17.809000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP2,VET,20.0,0 days 00:01:20.731000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,Emilia Romagna Grand Prix,FP2,RAI,25.0,0 days 00:01:21.137000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,Emilia Romagna Grand Prix,FP2,GAS,7.0,0 days 00:01:16.117000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP2,GAS,29.0,0 days 00:01:20.443000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP2,PER,10.0,0 days 00:01:16.511000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP2,LEC,4.0,0 days 00:01:16.705000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP2,LEC,8.0,0 days 00:01:15.367000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP2,TSU,9.0,0 days 00:01:16.880000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP2,HAM,17.0,0 days 00:01:20.049000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP2,MSC,4.0,0 days 00:01:19.632000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP2,MSC,6.0,0 days 00:01:18.606000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP2,RUS,24.0,0 days 00:01:19.888000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,Emilia Romagna Grand Prix,FP2,GIO,12.0,0 days 00:01:16.978000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP2,GIO,24.0,0 days 00:01:20.029000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP3,RIC,10.0,0 days 00:01:16.389000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP3,NOR,2.0,0 days 00:01:16.938000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP3,NOR,4.0,0 days 00:01:17.267000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP3,VET,9.0,0 days 00:01:16.790000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP3,RAI,2.0,0 days 00:01:18.249000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP3,RAI,7.0,0 days 00:01:17.449000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP3,RAI,12.0,0 days 00:01:16.775000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP3,MAZ,2.0,0 days 00:01:19.127000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP3,MAZ,12.0,0 days 00:01:17.621000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,Emilia Romagna Grand Prix,FP3,MAZ,21.0,0 days 00:01:16.793000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,Emilia Romagna Grand Prix,FP3,GAS,18.0,0 days 00:01:16.360000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP3,PER,2.0,0 days 00:01:18.111000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP3,ALO,6.0,0 days 00:01:17.347000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,Emilia Romagna Grand Prix,FP3,LEC,7.0,0 days 00:01:16.332000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP3,STR,13.0,0 days 00:01:16.424000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP3,TSU,5.0,0 days 00:01:17.491000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP3,VER,4.0,0 days 00:01:16.251000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP3,HAM,6.0,0 days 00:01:16.158000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP3,MSC,2.0,0 days 00:01:18.660000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP3,MSC,6.0,0 days 00:01:17.540000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,FP3,BOT,3.0,0 days 00:01:16.402000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,Q,PER,3.0,0 days 00:01:15.744000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,Q,GAS,4.0,0 days 00:01:15.445000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,Emilia Romagna Grand Prix,Q,GAS,9.0,0 days 00:01:15.256000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,Q,NOR,14.0,0 days 00:01:14.454000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,Q,STR,16.0,0 days 00:01:16.791000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,Emilia Romagna Grand Prix,Q,STR,19.0,0 days 00:01:15.176000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,Q,VET,10.0,0 days 00:01:15.679000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,Emilia Romagna Grand Prix,Q,LAT,2.0,0 days 00:01:16.483000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,Emilia Romagna Grand Prix,Q,GIO,2.0,0 days 00:01:17.123000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,Q,MSC,9.0,0 days 00:01:16.503000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,Q,NOR,,,3,no_advantage,TURN 3 INCIDENT INVOLVING CARS 4 (NOR) AND 33 (VER) NOTED - NO INVESTIGATION NECESSARY
+2021,Emilia Romagna Grand Prix,Q,NOR,,,15,no_advantage,TURN 15 INCIDENT INVOLVING CARS 4 (NOR) AND 11 (PER) NOTED - NO INVESTIGATION NECESSARY
+2021,Emilia Romagna Grand Prix,R,ALO,47.0,0 days 00:01:20.029000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,R,TSU,40.0,0 days 00:01:20.001000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,R,TSU,43.0,0 days 00:01:19.660000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,R,TSU,44.0,0 days 00:01:19.890000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,Emilia Romagna Grand Prix,R,TSU,53.0,0 days 00:01:19.711000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,R,RIC,58.0,0 days 00:01:19.786000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,Emilia Romagna Grand Prix,R,MSC,37.0,0 days 00:01:23.893000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,R,GIO,54.0,0 days 00:01:19.707000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Emilia Romagna Grand Prix,R,VER,,,2,no_advantage,LAP 1 - TURN 2 INCIDENT INVOLVING CARS 33 (VER) AND 44 (HAM) - NO INVESTIGATION NECESSARY
+2021,Emilia Romagna Grand Prix,R,LAT,,,14,no_advantage,LAP 1 - TURN 14 INCIDENT INVOLVING CARS 6 (LAT) AND 9 (MAZ) - NO INVESTIGATION NECESSARY
+2021,Emilia Romagna Grand Prix,R,SAI,,,7,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 7
+2021,Portuguese Grand Prix,FP1,RIC,7.0,0 days 00:01:24.133000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP1,NOR,20.0,0 days 00:01:21.162000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP1,VET,25.0,0 days 00:01:24.664000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP1,VET,29.0,0 days 00:01:23.652000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP1,LAT,4.0,0 days 00:01:25.730000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP1,LAT,14.0,0 days 00:01:23.092000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP1,RAI,16.0,0 days 00:01:21.588000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP1,MAZ,15.0,0 days 00:01:28.947000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP1,MAZ,18.0,0 days 00:01:23.520000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP1,MAZ,22.0,0 days 00:01:27.721000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP1,MAZ,26.0,0 days 00:01:26.073000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP1,MAZ,27.0,0 days 00:01:25.588000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP1,MAZ,28.0,0 days 00:01:39.199000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP1,GAS,2.0,0 days 00:01:28.493000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP1,GAS,3.0,0 days 00:01:24.119000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP1,GAS,11.0,0 days 00:01:21.970000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP1,GAS,13.0,0 days 00:01:21.529000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP1,GAS,15.0,0 days 00:01:34.732000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP1,ALO,18.0,0 days 00:01:24.626000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP1,ALO,20.0,0 days 00:01:21.962000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP1,ALO,23.0,0 days 00:01:23.968000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP1,LEC,3.0,0 days 00:01:24.112000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP1,LEC,7.0,0 days 00:01:29.987000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP1,LEC,11.0,0 days 00:01:23.153000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP1,LEC,12.0,0 days 00:01:21.550000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP1,LEC,19.0,0 days 00:01:21.418000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP1,STR,4.0,0 days 00:01:24.186000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP1,TSU,11.0,0 days 00:01:22.377000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP1,MSC,22.0,0 days 00:01:26.644000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP1,SAI,2.0,0 days 00:01:27.625000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP1,SAI,4.0,0 days 00:01:23.128000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP1,SAI,25.0,0 days 00:01:26.235000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP1,RUS,24.0,0 days 00:01:23.674000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP1,BOT,27.0,0 days 00:01:22.851000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP1,ILO,17.0,0 days 00:01:22.899000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP2,RIC,18.0,0 days 00:01:27.438000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP2,NOR,20.0,0 days 00:01:25.009000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP2,VET,16.0,0 days 00:01:25.222000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP2,RAI,7.0,0 days 00:01:32.963000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP2,RAI,13.0,0 days 00:01:27.418000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP2,MAZ,11.0,0 days 00:01:28.243000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP2,MAZ,13.0,0 days 00:01:23.136000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP2,MAZ,17.0,0 days 00:01:30.087000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP2,MAZ,20.0,0 days 00:01:27.768000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP2,MAZ,21.0,0 days 00:01:26.355000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP2,MAZ,22.0,0 days 00:01:27.603000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP2,MAZ,26.0,0 days 00:01:26.388000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP2,ALO,28.0,0 days 00:01:26.040000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP2,LEC,21.0,0 days 00:01:24.298000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP2,STR,18.0,0 days 00:01:24.524000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP2,STR,20.0,0 days 00:01:25.531000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP2,TSU,9.0,0 days 00:01:21.716000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP2,TSU,31.0,0 days 00:01:26.650000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP2,VER,19.0,0 days 00:01:24.964000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP2,VER,21.0,0 days 00:01:22.950000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP2,VER,22.0,0 days 00:01:23.181000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP2,HAM,22.0,0 days 00:01:24.766000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP2,HAM,27.0,0 days 00:01:23.428000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP2,MSC,10.0,0 days 00:01:32.285000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP2,MSC,13.0,0 days 00:01:21.232000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP2,MSC,23.0,0 days 00:01:25.067000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP2,SAI,12.0,0 days 00:01:44.573000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP2,RUS,21.0,0 days 00:01:24.564000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP2,GIO,19.0,0 days 00:01:25.807000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP2,GIO,29.0,0 days 00:01:35.896000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP3,NOR,16.0,0 days 00:01:24.535000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP3,VET,10.0,0 days 00:01:20.228000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP3,VET,14.0,0 days 00:01:29.200000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP3,VET,15.0,0 days 00:01:20.129000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP3,RAI,2.0,0 days 00:01:37.519000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP3,RAI,23.0,0 days 00:01:23.174000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP3,MAZ,6.0,0 days 00:01:37.608000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP3,MAZ,7.0,0 days 00:01:22.486000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP3,MAZ,12.0,0 days 00:01:21.197000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP3,MAZ,14.0,0 days 00:01:20.640000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP3,MAZ,19.0,0 days 00:01:47.631000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP3,GAS,2.0,0 days 00:01:20.525000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP3,GAS,14.0,0 days 00:01:19.427000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP3,GAS,16.0,0 days 00:01:20.140000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP3,PER,15.0,0 days 00:01:28.366000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP3,ALO,11.0,0 days 00:01:18.735000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP3,ALO,14.0,0 days 00:01:29.474000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP3,STR,14.0,0 days 00:01:20.007000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP3,HAM,6.0,0 days 00:01:26.577000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP3,HAM,20.0,0 days 00:01:39.149000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP3,MSC,20.0,0 days 00:01:28.293000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,FP3,SAI,16.0,0 days 00:01:19.460000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,FP3,SAI,22.0,0 days 00:01:24.493000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,Q,HAM,3.0,0 days 00:01:18.726000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,Q,VER,16.0,0 days 00:01:18.209000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,Q,LEC,3.0,0 days 00:01:36.555000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,Q,GAS,25.0,0 days 00:01:19.375000,14,clear_violation,TRACK LIMITS AT TURN 14
+2021,Portuguese Grand Prix,Q,RAI,4.0,0 days 00:01:20.740000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,Q,RAI,12.0,0 days 00:01:26.919000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,Q,MAZ,5.0,0 days 00:01:21.580000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,R,GAS,30.0,0 days 00:01:23.003000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,R,GAS,34.0,0 days 00:01:24.121000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,R,GAS,39.0,0 days 00:01:22.961000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,R,ALO,29.0,0 days 00:01:23.275000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,R,ALO,40.0,0 days 00:01:28.031000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,R,STR,19.0,0 days 00:01:23.890000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,R,TSU,10.0,0 days 00:01:24.972000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,R,TSU,11.0,0 days 00:01:24.489000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,R,VER,24.0,0 days 00:01:22.813000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,R,VER,66.0,0 days 00:01:19.849000,14,clear_violation,TRACK LIMITS AT TURN 14
+2021,Portuguese Grand Prix,R,NOR,18.0,0 days 00:01:23.636000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Portuguese Grand Prix,R,MSC,11.0,0 days 00:01:25.244000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,R,MSC,25.0,0 days 00:01:26.159000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,R,VET,26.0,0 days 00:01:23.341000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,R,VET,56.0,0 days 00:01:23.476000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,R,LAT,30.0,0 days 00:01:24.292000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,R,MAZ,8.0,0 days 00:01:28.577000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,R,MAZ,12.0,0 days 00:01:25.308000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Portuguese Grand Prix,R,RAI,,,,no_advantage,MAIN STRAIGHT INCIDENT INVOLVING CARS 7 (RAI) AND 99 (GIO) NOTED - NO INVESTIGATION NECESSARY
+2021,Spanish Grand Prix,FP1,LEC,16.0,0 days 00:01:34.401000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Spanish Grand Prix,FP1,SAI,15.0,0 days 00:01:50.541000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Spanish Grand Prix,FP1,MAZ,,,7,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 7
+2021,Spanish Grand Prix,FP1,HAM,,,2,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 2
+2021,Spanish Grand Prix,FP1,SAI,,,2,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 2
+2021,Spanish Grand Prix,FP1,LEC,,,2,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 2
+2021,Spanish Grand Prix,FP1,SAI,,,13,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 13
+2021,Spanish Grand Prix,FP2,LEC,,,2,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 2
+2021,Spanish Grand Prix,FP3,RIC,,,13,no_advantage,CAR 3 (RIC) OFF TRACK AND CONTINUED AT TURN 13
+2021,Spanish Grand Prix,FP3,RAI,,,13,no_advantage,CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 13
+2021,Spanish Grand Prix,FP3,NOR,,,10,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 10
+2021,Spanish Grand Prix,Q,STR,,,13,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 13
+2021,Spanish Grand Prix,R,ALO,11.0,0 days 00:01:28.119000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Spanish Grand Prix,R,STR,60.0,0 days 00:01:27.774000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Spanish Grand Prix,R,MAZ,5.0,0 days 00:01:26.945000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Monaco Grand Prix,FP1,LAT,32.0,0 days 00:01:17.978000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP1,MAZ,17.0,0 days 00:01:37.749000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP1,MAZ,28.0,0 days 00:01:33.881000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP1,PER,27.0,0 days 00:01:35.267000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP1,PER,29.0,0 days 00:01:40.347000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP1,ALO,30.0,0 days 00:01:19.922000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP1,HAM,9.0,0 days 00:01:22.300000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP1,SAI,12.0,0 days 00:01:20.323000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP1,SAI,27.0,0 days 00:01:33.659000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP1,RUS,14.0,0 days 00:01:24.461000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP1,GIO,23.0,0 days 00:01:25.547000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP1,RAI,,,1,no_advantage,CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 1
+2021,Monaco Grand Prix,FP1,ALO,,,1,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 1
+2021,Monaco Grand Prix,FP2,NOR,20.0,0 days 00:01:24.986000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,VET,7.0,0 days 00:01:44.723000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,VET,14.0,0 days 00:01:28.316000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,VET,18.0,0 days 00:01:49.420000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,MAZ,15.0,0 days 00:01:53.194000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,MAZ,22.0,0 days 00:01:19.340000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,PER,7.0,0 days 00:01:34.753000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,PER,14.0,0 days 00:01:32.501000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,PER,16.0,0 days 00:01:45.214000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,PER,18.0,0 days 00:01:43.473000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,LEC,6.0,0 days 00:01:27.489000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,LEC,26.0,0 days 00:01:27.612000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,STR,8.0,0 days 00:01:41.763000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,STR,17.0,0 days 00:01:49.388000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,TSU,8.0,0 days 00:01:34.353000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,OCO,16.0,0 days 00:01:51.717000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,HAM,4.0,0 days 00:01:24.369000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,HAM,16.0,0 days 00:01:30.624000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,HAM,19.0,0 days 00:01:34.213000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,HAM,20.0,0 days 00:01:19.162000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,HAM,24.0,0 days 00:01:17.154000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,SAI,6.0,0 days 00:01:25.202000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,SAI,10.0,0 days 00:01:32.296000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,SAI,20.0,0 days 00:01:43.673000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,RUS,4.0,0 days 00:01:22.795000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,RUS,16.0,0 days 00:01:36.899000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP2,BOT,17.0,0 days 00:01:15.649000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,RIC,9.0,0 days 00:01:26.177000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,RIC,11.0,0 days 00:01:31.491000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,RIC,15.0,0 days 00:01:16.770000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,RIC,17.0,0 days 00:01:34.552000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,RIC,23.0,0 days 00:01:18.708000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,VET,7.0,0 days 00:01:47.254000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,VET,11.0,0 days 00:01:31.570000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,LAT,3.0,0 days 00:01:20.039000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,RAI,8.0,0 days 00:01:27.867000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,RAI,10.0,0 days 00:01:38.329000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,MAZ,15.0,0 days 00:01:16.400000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,PER,9.0,0 days 00:01:46.673000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,LEC,4.0,0 days 00:01:32.164000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,LEC,10.0,0 days 00:01:32.538000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,LEC,14.0,0 days 00:01:37.184000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,LEC,19.0,0 days 00:01:33.346000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,LEC,25.0,0 days 00:01:43.130000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,STR,21.0,0 days 00:01:40.128000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,OCO,16.0,0 days 00:01:34.809000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,VER,9.0,0 days 00:01:37.120000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,VER,15.0,0 days 00:01:18.890000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,VER,17.0,0 days 00:01:39.206000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,HAM,6.0,0 days 00:01:24.931000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,HAM,16.0,0 days 00:01:22.618000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,HAM,18.0,0 days 00:01:17.089000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,SAI,6.0,0 days 00:01:46.464000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,SAI,7.0,0 days 00:01:18.741000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,SAI,18.0,0 days 00:01:28.718000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,SAI,26.0,0 days 00:01:39.397000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,RUS,6.0,0 days 00:01:44.537000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,RUS,21.0,0 days 00:01:31.583000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,BOT,4.0,0 days 00:01:25.269000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,FP3,LEC,,,1,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 1
+2021,Monaco Grand Prix,FP3,BOT,,,1,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 1
+2021,Monaco Grand Prix,Q,SAI,10.0,0 days 00:01:21.978000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,Q,SAI,12.0,0 days 00:01:39.777000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,Q,SAI,16.0,0 days 00:01:27.087000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,Q,HAM,10.0,0 days 00:01:25.284000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,Q,HAM,21.0,0 days 00:01:16.375000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,Q,VET,21.0,0 days 00:01:22.200000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,Q,RAI,14.0,0 days 00:01:33.014000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,Q,RUS,13.0,0 days 00:01:17.078000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,Q,RAI,,,1,no_advantage,CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 1
+2021,Monaco Grand Prix,R,NOR,10.0,0 days 00:01:17.190000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,NOR,18.0,0 days 00:01:16.602000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,GAS,19.0,0 days 00:01:17.309000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,HAM,64.0,0 days 00:01:16.498000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,STR,45.0,0 days 00:01:17.562000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,GIO,37.0,0 days 00:01:16.038000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,RIC,46.0,0 days 00:01:22.040000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,RUS,56.0,0 days 00:01:23.427000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,LAT,45.0,0 days 00:01:16.122000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,LAT,56.0,0 days 00:01:17.179000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,TSU,34.0,0 days 00:01:17.043000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,TSU,74.0,0 days 00:01:17.043000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,MAZ,7.0,0 days 00:01:19.535000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,MAZ,12.0,0 days 00:01:18.904000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,MAZ,39.0,0 days 00:01:21.209000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,MAZ,42.0,0 days 00:01:20.555000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,MAZ,43.0,0 days 00:01:22.757000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,MAZ,46.0,0 days 00:01:22.519000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,MAZ,68.0,0 days 00:01:20.632000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,MSC,25.0,0 days 00:01:22.457000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,MSC,26.0,0 days 00:01:23.437000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,MSC,38.0,0 days 00:01:26.398000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Monaco Grand Prix,R,MSC,39.0,0 days 00:01:24.818000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Azerbaijan Grand Prix,FP1,HAM,,,15,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 15
+2021,Azerbaijan Grand Prix,FP1,TSU,,,15,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 15
+2021,Azerbaijan Grand Prix,FP1,GAS,,,15,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 15
+2021,Azerbaijan Grand Prix,FP1,SAI,,,15,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 15
+2021,Azerbaijan Grand Prix,FP1,MSC,,,4,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 4
+2021,Azerbaijan Grand Prix,FP1,BOT,,,2,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 2
+2021,Azerbaijan Grand Prix,FP1,NOR,,,2,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 2
+2021,Azerbaijan Grand Prix,FP1,TSU,,,15,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 15
+2021,Azerbaijan Grand Prix,FP2,BOT,,,1,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 1
+2021,Azerbaijan Grand Prix,FP2,NOR,,,15,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 15
+2021,Azerbaijan Grand Prix,FP2,LAT,,,2,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 2
+2021,Azerbaijan Grand Prix,FP2,MAZ,,,1,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 1
+2021,Azerbaijan Grand Prix,FP2,LAT,,,15,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 15
+2021,Azerbaijan Grand Prix,FP2,TSU,,,2,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 2
+2021,Azerbaijan Grand Prix,FP2,GAS,,,15,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 15
+2021,Azerbaijan Grand Prix,FP2,VET,,,2,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 2
+2021,Azerbaijan Grand Prix,FP2,TSU,,,2,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 2
+2021,Azerbaijan Grand Prix,FP3,BOT,,,3,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 3
+2021,Azerbaijan Grand Prix,FP3,VER,,,4,no_advantage,CAR 33 (VER) OFF TRACK AND CONTINUED AT TURN 4
+2021,Azerbaijan Grand Prix,FP3,RAI,,,1,no_advantage,CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 1
+2021,Azerbaijan Grand Prix,FP3,LAT,,,3,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 3
+2021,Azerbaijan Grand Prix,FP3,SAI,,,15,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 15
+2021,Azerbaijan Grand Prix,FP3,MSC,,,15,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 15
+2021,Azerbaijan Grand Prix,FP3,VET,,,15,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 15
+2021,Azerbaijan Grand Prix,FP3,BOT,,,3,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 3
+2021,Azerbaijan Grand Prix,Q,MAZ,,,3,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 3
+2021,Azerbaijan Grand Prix,R,SAI,,,8,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 8
+2021,Azerbaijan Grand Prix,R,BOT,,,16,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 16
+2021,Azerbaijan Grand Prix,R,MAZ,,,4,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 4
+2021,French Grand Prix,FP1,MSC,,,3,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 3
+2021,French Grand Prix,FP1,RAI,,,2,no_advantage,CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 2
+2021,French Grand Prix,FP1,SAI,,,4,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 4
+2021,French Grand Prix,FP1,GAS,,,2,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 2
+2021,French Grand Prix,FP1,GAS,,,2,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 2
+2021,French Grand Prix,FP1,RAI,,,6,no_advantage,CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 6
+2021,French Grand Prix,FP1,NIS,,,7,no_advantage,CAR 45 (NIS) OFF TRACK AND CONTINUED AT TURN 7
+2021,French Grand Prix,FP1,SAI,,,11,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 11
+2021,French Grand Prix,FP2,TSU,,,6,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 6
+2021,French Grand Prix,FP2,NOR,,,6,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 6
+2021,French Grand Prix,FP2,SAI,,,6,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 6
+2021,French Grand Prix,FP2,MSC,,,2,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 2
+2021,French Grand Prix,FP2,LEC,,,6,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 6
+2021,French Grand Prix,FP2,NOR,,,6,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 6
+2021,French Grand Prix,FP2,SAI,,,6,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 6
+2021,French Grand Prix,FP2,MAZ,,,7,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 7
+2021,French Grand Prix,FP2,VER,,,6,no_advantage,CAR 33 (VER) OFF TRACK AND CONTINUED AT TURN 6
+2021,French Grand Prix,FP3,NOR,2.0,0 days 00:01:33.845000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,French Grand Prix,FP3,RAI,7.0,0 days 00:01:33.445000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,French Grand Prix,FP3,MAZ,9.0,0 days 00:01:34.865000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,French Grand Prix,FP3,GAS,2.0,0 days 00:01:34.118000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,French Grand Prix,FP3,TSU,7.0,0 days 00:01:33.412000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,French Grand Prix,FP3,TSU,15.0,0 days 00:01:32.900000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,French Grand Prix,FP3,VER,5.0,0 days 00:01:32.024000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,French Grand Prix,FP3,SAI,2.0,0 days 00:01:34.856000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,French Grand Prix,FP3,SAI,16.0,0 days 00:01:32.560000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,French Grand Prix,FP3,GIO,8.0,0 days 00:01:33.586000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,French Grand Prix,FP3,GIO,,,2,no_advantage,CAR 99 (GIO) OFF TRACK AND CONTINUED AT TURN 2
+2021,French Grand Prix,FP3,MAZ,,,2,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 2
+2021,French Grand Prix,FP3,BOT,,,2,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 2
+2021,French Grand Prix,FP3,SAI,,,2,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 2
+2021,French Grand Prix,FP3,MAZ,,,2,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 2
+2021,French Grand Prix,Q,GAS,15.0,0 days 00:01:31.416000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,French Grand Prix,Q,GAS,18.0,0 days 00:01:31.410000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,French Grand Prix,Q,STR,3.0,0 days 00:01:32.122000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,French Grand Prix,Q,NOR,8.0,0 days 00:01:31.520000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,French Grand Prix,Q,MAZ,,,2,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 2
+2021,French Grand Prix,Q,VET,,,2,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 2
+2021,French Grand Prix,Q,MAZ,,,2,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 2
+2021,French Grand Prix,Q,SAI,,,2,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 2
+2021,French Grand Prix,Q,VER,,,2,no_advantage,CAR 33 (VER) OFF TRACK AND CONTINUED AT TURN 2
+2021,French Grand Prix,Q,VER,,,2,no_advantage,CAR 33 (VER) OFF TRACK AND CONTINUED AT TURN 2
+2021,French Grand Prix,R,GIO,13.0,0 days 00:01:41.689000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,French Grand Prix,R,VER,,,2,no_advantage,TURN 2 INCIDENT INVOLVING CAR 33 (VER) NOTED - NO INVESTIGATION NECESSARY
+2021,French Grand Prix,R,NOR,,,11,no_advantage,TURN 11 INCIDENT INVOLVING CARS 4 (NOR) AND 10 (GAS) - NO INVESTIGATION NECESSARY
+2021,Styrian Grand Prix,FP1,NOR,16.0,0 days 00:01:06.914000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP1,NOR,20.0,0 days 00:01:11.003000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP1,NOR,21.0,0 days 00:01:10.616000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP1,NOR,27.0,0 days 00:01:10.987000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP1,NOR,28.0,0 days 00:01:10.847000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP1,NOR,29.0,0 days 00:01:10.750000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP1,MAZ,11.0,0 days 00:01:08.835000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,FP1,MAZ,18.0,0 days 00:01:12.590000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,FP1,GAS,7.0,0 days 00:01:06.979000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP1,GAS,17.0,0 days 00:01:06.547000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP1,ALO,9.0,0 days 00:01:07.278000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,FP1,ALO,11.0,0 days 00:01:07.182000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP1,ALO,14.0,0 days 00:01:06.475000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,FP1,OCO,6.0,0 days 00:01:07.809000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,FP1,VER,6.0,0 days 00:01:06.649000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP1,HAM,8.0,0 days 00:01:06.987000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP1,HAM,23.0,0 days 00:01:10.025000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP1,HAM,24.0,0 days 00:01:09.992000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP1,SAI,8.0,0 days 00:01:07.518000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP1,SAI,9.0,0 days 00:01:43.978000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP1,BOT,19.0,0 days 00:01:06.155000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP2,NOR,11.0,0 days 00:01:06.207000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP2,NOR,27.0,0 days 00:01:10.432000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP2,NOR,28.0,0 days 00:01:10.627000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP2,NOR,31.0,0 days 00:01:11.128000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,FP2,NOR,33.0,0 days 00:01:28.304000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP2,NOR,34.0,0 days 00:01:10.196000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP2,VET,32.0,0 days 00:01:11.136000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP2,VET,33.0,0 days 00:01:10.153000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP2,MAZ,9.0,0 days 00:01:07.315000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,FP2,MAZ,15.0,0 days 00:01:12.690000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,FP2,MAZ,24.0,0 days 00:01:11.674000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,FP2,ALO,8.0,0 days 00:01:06.700000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,FP2,ALO,21.0,0 days 00:01:09.663000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP2,ALO,22.0,0 days 00:01:09.865000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP2,TSU,30.0,0 days 00:01:11.199000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP2,TSU,31.0,0 days 00:01:10.509000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP2,TSU,37.0,0 days 00:01:11.046000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP2,VER,26.0,0 days 00:01:09.461000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP2,VER,27.0,0 days 00:01:09.469000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP2,HAM,14.0,0 days 00:01:05.335000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP2,HAM,15.0,0 days 00:01:44.194000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP2,HAM,21.0,0 days 00:01:09.456000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,FP2,HAM,27.0,0 days 00:01:09.430000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP2,HAM,28.0,0 days 00:01:09.936000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP2,GIO,8.0,0 days 00:01:06.861000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP3,NOR,8.0,0 days 00:01:12.872000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,FP3,NOR,12.0,0 days 00:01:05.228000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP3,NOR,13.0,0 days 00:02:04.414000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP3,RAI,2.0,0 days 00:01:06.778000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,FP3,MAZ,3.0,0 days 00:01:11.322000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,FP3,MAZ,6.0,0 days 00:01:11.330000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP3,MAZ,11.0,0 days 00:01:07.033000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP3,MAZ,12.0,0 days 00:01:57.470000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP3,ALO,4.0,0 days 00:01:06.980000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP3,ALO,5.0,0 days 00:01:51.800000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP3,LEC,17.0,0 days 00:01:05.398000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,FP3,TSU,4.0,0 days 00:01:06.387000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP3,TSU,5.0,0 days 00:01:48.779000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP3,VER,13.0,0 days 00:01:04.570000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP3,VER,14.0,0 days 00:01:41.204000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP3,MSC,17.0,0 days 00:01:06.116000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP3,MSC,18.0,0 days 00:02:04.787000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,FP3,SAI,2.0,0 days 00:01:06.817000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,Q,HAM,23.0,0 days 00:01:06.385000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,Q,GAS,5.0,0 days 00:01:04.827000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,Q,TSU,14.0,0 days 00:01:04.656000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,Q,STR,14.0,0 days 00:01:04.775000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,Q,SAI,14.0,0 days 00:01:04.711000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,Q,VET,14.0,0 days 00:01:04.711000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,Q,MAZ,2.0,0 days 00:01:07.229000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,R,HAM,5.0,0 days 00:01:09.865000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,R,HAM,56.0,0 days 00:01:08.969000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,R,HAM,57.0,0 days 00:01:09.001000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,R,NOR,7.0,0 days 00:01:10.987000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,R,NOR,8.0,0 days 00:01:11.203000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,R,LEC,48.0,0 days 00:01:09.518000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,R,LEC,49.0,0 days 00:01:09.411000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,R,LEC,51.0,0 days 00:01:09.968000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,R,LEC,52.0,0 days 00:01:10.244000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,R,TSU,28.0,0 days 00:01:10.925000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,R,TSU,69.0,0 days 00:01:10.426000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,R,RAI,64.0,0 days 00:01:09.813000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,R,RAI,65.0,0 days 00:01:10.153000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,R,VET,66.0,0 days 00:01:10.273000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,R,VET,67.0,0 days 00:01:11.239000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Styrian Grand Prix,R,MAZ,28.0,0 days 00:01:11.708000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Styrian Grand Prix,R,,,,3,no_advantage,TURN 3 INCIDENT LAP 1 NOTED - NO INVESTIGATION NECESSARY
+2021,Austrian Grand Prix,FP1,VET,21.0,0 days 00:01:06.205000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,VET,22.0,0 days 00:01:44.478000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,RAI,6.0,0 days 00:01:06.406000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,RAI,7.0,0 days 00:01:47.826000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,RAI,13.0,0 days 00:01:05.746000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,RAI,14.0,0 days 00:02:01.409000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,RAI,19.0,0 days 00:01:06.054000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,MAZ,12.0,0 days 00:01:07.593000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,FP1,MAZ,23.0,0 days 00:01:07.284000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,MAZ,24.0,0 days 00:01:56.097000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,GAS,2.0,0 days 00:01:06.375000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,GAS,3.0,0 days 00:01:44.792000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,GAS,12.0,0 days 00:01:06.103000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,FP1,GAS,26.0,0 days 00:01:10.127000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,GAS,29.0,0 days 00:01:09.469000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,GAS,30.0,0 days 00:01:09.957000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,GAS,33.0,0 days 00:01:10.032000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,GAS,34.0,0 days 00:01:10.286000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,TSU,11.0,0 days 00:01:06.165000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,TSU,12.0,0 days 00:01:36.453000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,TSU,25.0,0 days 00:01:10.321000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,TSU,26.0,0 days 00:01:10.596000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,HAM,5.0,0 days 00:01:09.895000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,HAM,6.0,0 days 00:01:09.763000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,HAM,7.0,0 days 00:01:09.715000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,MSC,23.0,0 days 00:01:09.374000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,FP1,ILO,8.0,0 days 00:01:07.640000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,ILO,9.0,0 days 00:01:43.994000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,ILO,10.0,0 days 00:01:07.324000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP1,TSU,,,5,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 5
+2021,Austrian Grand Prix,FP1,STR,,,7,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 7
+2021,Austrian Grand Prix,FP2,LAT,9.0,0 days 00:01:06.690000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,FP2,LAT,14.0,0 days 00:01:06.189000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP2,RAI,4.0,0 days 00:01:06.170000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP2,RAI,14.0,0 days 00:01:05.405000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP2,RAI,15.0,0 days 00:01:52.348000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP2,MAZ,4.0,0 days 00:01:10.142000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,FP2,MAZ,11.0,0 days 00:01:06.630000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,FP2,MAZ,17.0,0 days 00:01:12.313000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,FP2,MAZ,30.0,0 days 00:01:10.991000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,FP2,GAS,5.0,0 days 00:01:06.135000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,FP2,GAS,11.0,0 days 00:01:05.430000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP2,GAS,12.0,0 days 00:02:06.377000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP2,GAS,22.0,0 days 00:01:10.312000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP2,GAS,23.0,0 days 00:01:10.729000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP2,LEC,7.0,0 days 00:01:12.309000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,FP2,TSU,14.0,0 days 00:01:05.716000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP2,OCO,12.0,0 days 00:01:05.775000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP2,MSC,10.0,0 days 00:01:05.636000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,FP2,SAI,10.0,0 days 00:01:05.652000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,FP2,SAI,17.0,0 days 00:01:31.882000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP2,SAI,21.0,0 days 00:01:05.985000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP2,GIO,11.0,0 days 00:01:05.894000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,FP2,LEC,,,9,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 9
+2021,Austrian Grand Prix,FP2,HAM,,,4,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 4
+2021,Austrian Grand Prix,FP3,NOR,17.0,0 days 00:01:09.172000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP3,NOR,19.0,0 days 00:01:05.800000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP3,LAT,13.0,0 days 00:01:06.145000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP3,LAT,14.0,0 days 00:01:38.096000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP3,RAI,4.0,0 days 00:01:06.809000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,FP3,MAZ,4.0,0 days 00:01:11.098000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,FP3,MAZ,8.0,0 days 00:01:10.915000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP3,MAZ,9.0,0 days 00:01:11.172000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP3,GAS,13.0,0 days 00:01:05.748000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP3,GAS,14.0,0 days 00:02:08.566000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP3,GAS,16.0,0 days 00:01:05.753000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,FP3,ALO,12.0,0 days 00:01:06.668000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,FP3,LEC,11.0,0 days 00:01:06.401000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP3,STR,6.0,0 days 00:01:06.344000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP3,HAM,14.0,0 days 00:01:04.994000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP3,SAI,16.0,0 days 00:01:07.558000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,FP3,MAZ,,,7,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 7
+2021,Austrian Grand Prix,FP3,BOT,,,1,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 1
+2021,Austrian Grand Prix,Q,GAS,2.0,0 days 00:01:05.434000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,Q,LEC,5.0,0 days 00:01:04.775000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,Q,RIC,8.0,0 days 00:01:05.202000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,Q,GIO,14.0,0 days 00:01:04.777000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,SAI,34.0,0 days 00:01:09.961000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,SAI,35.0,0 days 00:01:09.907000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,RIC,68.0,0 days 00:01:09.480000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,RIC,69.0,0 days 00:01:09.448000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,LEC,60.0,0 days 00:01:08.930000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,LEC,61.0,0 days 00:01:09.376000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,LEC,64.0,0 days 00:01:09.065000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,LEC,65.0,0 days 00:01:10.530000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,GAS,28.0,0 days 00:01:09.891000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,GAS,29.0,0 days 00:01:09.894000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,GAS,67.0,0 days 00:01:08.250000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,GAS,68.0,0 days 00:01:08.533000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,GAS,71.0,0 days 00:01:10.068000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,R,ALO,59.0,0 days 00:01:09.214000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,ALO,60.0,0 days 00:01:09.711000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,ALO,61.0,0 days 00:01:09.566000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,TSU,21.0,0 days 00:01:10.349000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,TSU,22.0,0 days 00:01:10.551000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,TSU,31.0,0 days 00:01:10.285000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,TSU,32.0,0 days 00:01:10.472000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,GIO,27.0,0 days 00:01:11.013000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,R,RAI,35.0,0 days 00:01:10.335000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,RAI,36.0,0 days 00:01:10.344000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,RAI,57.0,0 days 00:01:09.028000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,RAI,58.0,0 days 00:01:08.836000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,RAI,59.0,0 days 00:01:09.461000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,VET,29.0,0 days 00:01:11.029000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,VET,30.0,0 days 00:01:10.740000,10,clear_violation,TRACK LIMITS AT TURN 10
+2021,Austrian Grand Prix,R,MSC,63.0,0 days 00:01:12.211000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,R,MAZ,12.0,0 days 00:01:11.966000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,R,MAZ,20.0,0 days 00:01:11.966000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,R,MAZ,31.0,0 days 00:01:12.397000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,R,MAZ,46.0,0 days 00:01:31.577000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Austrian Grand Prix,R,OCO,,,3,no_advantage,TURN 3 INCIDENT INVOLVING CAR 31 (OCO) NO INVESTIGATION NECESSARY
+2021,British Grand Prix,FP1,MAZ,13.0,0 days 00:01:30.341000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,FP1,MAZ,17.0,0 days 00:01:30.082000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,British Grand Prix,FP1,RUS,21.0,0 days 00:01:29.665000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,FP2,NOR,15.0,0 days 00:01:32.414000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,British Grand Prix,FP2,NOR,19.0,0 days 00:01:30.831000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,FP2,GAS,4.0,0 days 00:01:34.543000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,FP2,TSU,30.0,0 days 00:01:32.450000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,FP2,GIO,22.0,0 days 00:01:32.328000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,Q,PER,16.0,0 days 00:01:26.813000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,British Grand Prix,Q,VET,11.0,0 days 00:01:27.276000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,British Grand Prix,SQ,GAS,7.0,0 days 00:01:33.219000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,SQ,RAI,6.0,0 days 00:01:32.928000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,SQ,GIO,13.0,0 days 00:01:32.481000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,SQ,LAT,9.0,0 days 00:01:33.212000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,SQ,SAI,,,7,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 7
+2021,British Grand Prix,SQ,MAZ,,,3,no_advantage,TURN 3 INCIDENT INVOLVING CARS 9 (MAZ) AND 47 (MSC) NOTED - NO INVESTIGATION NECESSARY
+2021,British Grand Prix,S,GAS,7.0,0 days 00:01:33.219000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,S,RAI,6.0,0 days 00:01:32.928000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,S,GIO,13.0,0 days 00:01:32.481000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,S,LAT,9.0,0 days 00:01:33.212000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,S,SAI,,,7,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 7
+2021,British Grand Prix,S,MAZ,,,3,no_advantage,TURN 3 INCIDENT INVOLVING CARS 9 (MAZ) AND 47 (MSC) NOTED - NO INVESTIGATION NECESSARY
+2021,British Grand Prix,R,LEC,50.0,0 days 00:01:32.956000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,R,NOR,31.0,0 days 00:01:33.668000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,R,RIC,9.0,0 days 00:01:33.710000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,R,SAI,6.0,0 days 00:01:34.026000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,R,SAI,26.0,0 days 00:01:31.819000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,R,GAS,8.0,0 days 00:01:35.158000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,R,GAS,12.0,0 days 00:01:34.825000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,R,GAS,16.0,0 days 00:01:34.314000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,R,GAS,29.0,0 days 00:01:53.002000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,British Grand Prix,R,GIO,7.0,0 days 00:01:35.379000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,R,RAI,7.0,0 days 00:01:35.251000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,R,PER,17.0,0 days 00:01:34.081000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,British Grand Prix,R,VET,30.0,0 days 00:01:33.713000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,Hungarian Grand Prix,FP1,MAZ,10.0,0 days 00:01:22.687000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Hungarian Grand Prix,FP1,MSC,21.0,0 days 00:01:28.951000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Hungarian Grand Prix,FP1,GIO,2.0,0 days 00:01:24.195000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Hungarian Grand Prix,FP2,MAZ,2.0,0 days 00:01:23.093000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Hungarian Grand Prix,FP2,HAM,20.0,0 days 00:01:32.053000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Hungarian Grand Prix,FP2,GIO,12.0,0 days 00:01:19.256000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Hungarian Grand Prix,FP3,RAI,20.0,0 days 00:01:28.894000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Hungarian Grand Prix,FP3,GIO,10.0,0 days 00:01:19.784000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Hungarian Grand Prix,R,RUS,,,,no_advantage,PIT LANE INCIDENT INVOLVING CAR 63 (RUS) NOTED - NO INVESTIGATION NECESSARY
+2021,Hungarian Grand Prix,R,TSU,,,,no_advantage,PIT LANE INCIDENT INVOLVING CARS 22 (TSU) AND 55 (SAI) NO INVESTIGATION NECESSARY - UNSAFE RELEASE
+2021,Hungarian Grand Prix,R,VER,,,1,no_advantage,TURN 1 INCIDENT INVOLVING CARS 33 (VER) AND 47 (MSC) NO INVESTIGATION NECESSARY
+2021,Belgian Grand Prix,FP2,TSU,5.0,0 days 00:01:47.571000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Belgian Grand Prix,FP2,SAI,2.0,0 days 00:01:47.339000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Belgian Grand Prix,FP2,GAS,,,5,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 5
+2021,Belgian Grand Prix,FP3,LEC,13.0,0 days 00:02:09.101000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,Belgian Grand Prix,FP3,RUS,,,18,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 18
+2021,Belgian Grand Prix,FP3,SAI,,,5,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 5
+2021,Belgian Grand Prix,FP3,HAM,,,5,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 5
+2021,Belgian Grand Prix,FP3,OCO,,,5,no_advantage,CAR 31 (OCO) OFF TRACK AND CONTINUED AT TURN 5
+2021,Belgian Grand Prix,FP3,ALO,,,5,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 5
+2021,Belgian Grand Prix,FP3,HAM,,,5,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 5
+2021,Belgian Grand Prix,FP3,MAZ,,,5,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 5
+2021,Dutch Grand Prix,FP1,OCO,,,11,no_advantage,CAR 31 (OCO) OFF TRACK AND CONTINUED AT TURN 11
+2021,Dutch Grand Prix,FP1,NOR,,,13,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 13
+2021,Dutch Grand Prix,FP3,VET,,,10,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 10
+2021,Dutch Grand Prix,FP3,NOR,,,9,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 9
+2021,Italian Grand Prix,FP1,RIC,24.0,0 days 00:01:21.474000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP1,RIC,25.0,0 days 00:02:18.220000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP1,NOR,24.0,0 days 00:01:21.202000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP1,NOR,25.0,0 days 00:02:12.609000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP1,GAS,23.0,0 days 00:02:13.703000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP1,GAS,24.0,0 days 00:01:45.634000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP1,GAS,27.0,0 days 00:01:22.318000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP1,ALO,12.0,0 days 00:01:23.566000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP1,ALO,13.0,0 days 00:01:38.515000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP1,LEC,4.0,0 days 00:01:27.401000,5,clear_violation,TRACK LIMITS AT TURN 5
+2021,Italian Grand Prix,FP1,LEC,11.0,0 days 00:01:22.176000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP1,LEC,12.0,0 days 00:01:56.986000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP1,LEC,22.0,0 days 00:01:21.802000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP1,LEC,23.0,0 days 00:02:20.740000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP1,TSU,25.0,0 days 00:01:22.912000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP1,TSU,26.0,0 days 00:02:07.545000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP1,MSC,12.0,0 days 00:01:24.779000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP1,MSC,13.0,0 days 00:01:49.269000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP1,SAI,25.0,0 days 00:01:22.573000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP2,NOR,16.0,0 days 00:01:25.498000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP2,NOR,17.0,0 days 00:01:26.083000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP2,VET,21.0,0 days 00:01:25.486000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP2,VET,22.0,0 days 00:01:26.468000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP2,MAZ,11.0,0 days 00:01:27.835000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP2,MAZ,12.0,0 days 00:01:27.758000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP2,HAM,23.0,0 days 00:01:26.340000,5,clear_violation,TRACK LIMITS AT TURN 5
+2021,Italian Grand Prix,FP2,MSC,3.0,0 days 00:01:29.406000,5,clear_violation,TRACK LIMITS AT TURN 5
+2021,Italian Grand Prix,FP2,SAI,12.0,0 days 00:01:26.698000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP2,SAI,13.0,0 days 00:01:33.300000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,FP2,BOT,5.0,0 days 00:01:28.478000,5,clear_violation,TRACK LIMITS AT TURN 5
+2021,Italian Grand Prix,Q,NOR,5.0,0 days 00:01:21.109000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,Q,STR,3.0,0 days 00:02:09.799000,5,clear_violation,TRACK LIMITS AT TURN 5
+2021,Italian Grand Prix,Q,TSU,8.0,0 days 00:01:21.711000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,Q,LEC,,,,no_advantage,PIT LANE INCIDENT INVOLVING CARS 16 (LEC) AND 9 (MAZ) NO INVESTIGATION NECESSARY
+2021,Italian Grand Prix,SQ,NOR,6.0,0 days 00:01:24.799000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,SQ,NOR,7.0,0 days 00:01:24.858000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,SQ,GAS,,,1,no_advantage,TURN 1 INCIDENT INVOLVING CAR 10 (GAS) NO INVESTIGATION NECESSARY 
+2021,Italian Grand Prix,SQ,TSU,,,5,no_advantage,TURN 5 INCIDENT INVOLVING CAR 22 (TSU) NO INVESTIGATION NECESSARY
+2021,Italian Grand Prix,S,NOR,6.0,0 days 00:01:24.799000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,S,NOR,7.0,0 days 00:01:24.858000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,S,GAS,,,1,no_advantage,TURN 1 INCIDENT INVOLVING CAR 10 (GAS) NO INVESTIGATION NECESSARY 
+2021,Italian Grand Prix,S,TSU,,,5,no_advantage,TURN 5 INCIDENT INVOLVING CAR 22 (TSU) NO INVESTIGATION NECESSARY
+2021,Italian Grand Prix,R,PER,32.0,0 days 00:01:26.594000,5,clear_violation,TRACK LIMITS AT TURN 5
+2021,Italian Grand Prix,R,ALO,44.0,0 days 00:01:45.578000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,R,ALO,45.0,0 days 00:01:26.574000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,R,ALO,46.0,0 days 00:01:26.474000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,R,RIC,5.0,0 days 00:01:26.410000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,R,RIC,6.0,0 days 00:01:26.419000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,R,NOR,11.0,0 days 00:01:26.663000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,R,NOR,12.0,0 days 00:01:27.304000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,R,NOR,31.0,0 days 00:01:26.782000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,R,MSC,32.0,0 days 00:01:38.648000,5,clear_violation,TRACK LIMITS AT TURN 5
+2021,Italian Grand Prix,R,VET,45.0,0 days 00:01:26.631000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,R,VET,46.0,0 days 00:01:26.498000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,R,RUS,45.0,0 days 00:01:27.102000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,R,RUS,46.0,0 days 00:01:26.513000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Italian Grand Prix,R,MAZ,2.0,0 days 00:01:29.945000,5,clear_violation,TRACK LIMITS AT TURN 5
+2021,Italian Grand Prix,R,HAM,,,4,no_advantage,TURN 4 INCIDENT INVOLVING CARS 44 (HAM) AND 33 (VER) - NO INVESTIGATION NECESSARY
+2021,Italian Grand Prix,R,ALO,,,5,no_advantage,TURN 5 INCIDENT INVOLVING CARS 14 (ALO) 31 AND 6 (LAT) NO INVESTIGATION NECESSARY
+2021,Italian Grand Prix,R,VER,,,2,no_advantage,TURN 2 INCIDENT INVOLVING CAR 33 (VER) - NO INVESTIGATION NECESSARY
+2021,Russian Grand Prix,FP1,RAI,8.0,0 days 00:01:56.321000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Russian Grand Prix,FP1,GAS,9.0,0 days 00:02:03.475000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Russian Grand Prix,FP1,GIO,5.0,0 days 00:02:14.861000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Russian Grand Prix,FP1,RAI,,,13,no_advantage,CAR 7 (RAI) OFF TRACK AND CONTINUED AT TURN 13
+2021,Russian Grand Prix,FP1,MAZ,,,4,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 4
+2021,Russian Grand Prix,FP1,NOR,,,10,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 10
+2021,Russian Grand Prix,FP1,GIO,,,13,no_advantage,CAR 99 (GIO) OFF TRACK AND CONTINUED AT TURN 13
+2021,Russian Grand Prix,FP2,PER,19.0,0 days 00:01:44.753000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Russian Grand Prix,FP2,PER,,,14,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 14
+2021,Russian Grand Prix,FP2,HAM,,,7,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 7
+2021,Russian Grand Prix,FP2,VET,,,7,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 7
+2021,Russian Grand Prix,Q,NOR,7.0,0 days 00:02:00.048000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Russian Grand Prix,Q,HAM,5.0,0 days 00:02:09.690000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Russian Grand Prix,Q,BOT,11.0,0 days 00:02:02.536000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Russian Grand Prix,Q,BOT,,,10,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 10
+2021,Russian Grand Prix,Q,STR,,,10,no_advantage,CORRECTION - CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 10
+2021,Russian Grand Prix,Q,LAT,,,13,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 13
+2021,Russian Grand Prix,Q,TSU,,,4,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 4
+2021,Russian Grand Prix,Q,VET,,,7,no_advantage,TURN 7-9 INCIDENT INVOLVING CARS 5 (VET) AND 22 (TSU) NO INVESTIGATION NECESSARY
+2021,Russian Grand Prix,Q,PER,,,5,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 5
+2021,Russian Grand Prix,Q,PER,,,15,no_advantage,TURN 15-16 INCIDENT INVOLVING CARS 11 (PER) AND 18 (STR) NO INVESTIGATION NECESSARY 
+2021,Russian Grand Prix,R,BOT,40.0,0 days 00:01:41.316000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Russian Grand Prix,R,RUS,19.0,0 days 00:01:41.915000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Russian Grand Prix,R,MSC,4.0,0 days 00:01:44.586000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Russian Grand Prix,R,,,,2,no_advantage,TURN 2 INCIDENT NO INVESTIGATION NECESSARY
+2021,Russian Grand Prix,R,MSC,,,2,no_advantage,TURN 2 INCIDENT INVOLVING CAR 47 (MSC) NO INVESTIGATION NECESSARY 
+2021,Russian Grand Prix,R,RUS,,,2,no_advantage,TURN 2 INCIDENT INVOLVING CAR 63 (RUS) NO INVESTIGATION NECESSARY
+2021,Russian Grand Prix,R,STR,,,13,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 13
+2021,Russian Grand Prix,R,VET,,,13,no_advantage,CORRECTION - CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 13
+2021,Russian Grand Prix,R,NOR,,,5,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 5
+2021,Russian Grand Prix,R,NOR,,,5,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 5
+2021,Russian Grand Prix,R,GAS,,,13,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 13
+2021,Russian Grand Prix,R,LEC,,,5,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 5
+2021,Russian Grand Prix,R,LEC,,,13,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 13
+2021,Turkish Grand Prix,FP1,NOR,9.0,0 days 00:01:26.029000,14,clear_violation,TRACK LIMITS AT TURN 14
+2021,Turkish Grand Prix,FP1,VET,21.0,0 days 00:01:33.650000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP1,RAI,2.0,0 days 00:01:29.266000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,Turkish Grand Prix,FP1,RAI,4.0,0 days 00:01:28.849000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,Turkish Grand Prix,FP1,MAZ,21.0,0 days 00:01:31.796000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP1,MAZ,25.0,0 days 00:01:34.096000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP1,GAS,5.0,0 days 00:01:27.163000,14,clear_violation,TRACK LIMITS AT TURN 14
+2021,Turkish Grand Prix,FP1,GAS,6.0,0 days 00:01:57.799000,14,clear_violation,TRACK LIMITS AT TURN 14
+2021,Turkish Grand Prix,FP1,GAS,9.0,0 days 00:01:26.494000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP1,GAS,23.0,0 days 00:01:29.613000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP1,GAS,24.0,0 days 00:01:29.426000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP1,GAS,25.0,0 days 00:01:30.353000,14,clear_violation,TRACK LIMITS AT TURN 14
+2021,Turkish Grand Prix,FP1,GAS,26.0,0 days 00:01:29.438000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP1,PER,21.0,0 days 00:01:29.040000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP1,ALO,4.0,0 days 00:01:28.213000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,Turkish Grand Prix,FP1,ALO,23.0,0 days 00:01:30.007000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP1,LEC,8.0,0 days 00:01:34.251000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,Turkish Grand Prix,FP1,LEC,13.0,0 days 00:01:24.965000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,Turkish Grand Prix,FP1,LEC,24.0,0 days 00:01:29.861000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP1,STR,10.0,0 days 00:01:26.221000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP1,SAI,7.0,0 days 00:01:25.897000,14,clear_violation,TRACK LIMITS AT TURN 14
+2021,Turkish Grand Prix,FP1,GIO,15.0,0 days 00:01:26.811000,14,clear_violation,TRACK LIMITS AT TURN 14
+2021,Turkish Grand Prix,FP1,GIO,18.0,0 days 00:01:25.812000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP1,GIO,20.0,0 days 00:01:57.032000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,RIC,14.0,0 days 00:01:36.568000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,RIC,15.0,0 days 00:01:24.975000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,VET,22.0,0 days 00:01:29.102000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,MAZ,4.0,0 days 00:01:26.720000,6,clear_violation,TRACK LIMITS AT TURN 6
+2021,Turkish Grand Prix,FP2,MAZ,6.0,0 days 00:01:26.298000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,MAZ,9.0,0 days 00:01:25.768000,14,clear_violation,TRACK LIMITS AT TURN 14
+2021,Turkish Grand Prix,FP2,MAZ,10.0,0 days 00:02:06.441000,14,clear_violation,TRACK LIMITS AT TURN 14
+2021,Turkish Grand Prix,FP2,MAZ,13.0,0 days 00:01:26.069000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,GAS,11.0,0 days 00:01:25.078000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,GAS,28.0,0 days 00:01:29.012000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,PER,19.0,0 days 00:01:28.611000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,PER,22.0,0 days 00:01:28.223000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,LEC,24.0,0 days 00:01:29.070000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,TSU,19.0,0 days 00:01:29.199000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,TSU,28.0,0 days 00:01:28.839000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,OCO,8.0,0 days 00:01:25.350000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,HAM,2.0,0 days 00:01:42.494000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,MSC,5.0,0 days 00:01:49.078000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,SAI,7.0,0 days 00:01:43.382000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,SAI,25.0,0 days 00:01:29.352000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,SAI,26.0,0 days 00:01:28.928000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,RUS,2.0,0 days 00:01:26.964000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,BOT,17.0,0 days 00:01:36.882000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,GIO,15.0,0 days 00:01:25.094000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,GIO,23.0,0 days 00:01:31.606000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP2,MSC,,,1,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 1
+2021,Turkish Grand Prix,FP2,MAZ,,,1,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 1
+2021,Turkish Grand Prix,FP2,SAI,,,1,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 1
+2021,Turkish Grand Prix,FP2,NOR,,,10,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 10
+2021,Turkish Grand Prix,FP2,TSU,,,9,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 9
+2021,Turkish Grand Prix,FP2,BOT,,,1,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 1
+2021,Turkish Grand Prix,FP2,VER,,,7,no_advantage,CAR 33 (VER) OFF TRACK AND CONTINUED AT TURN 7
+2021,Turkish Grand Prix,FP3,STR,7.0,0 days 00:01:34.869000,14,clear_violation,TRACK LIMITS AT TURN 14
+2021,Turkish Grand Prix,FP3,GIO,19.0,0 days 00:01:51.877000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,FP3,GAS,,,11,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 11
+2021,Turkish Grand Prix,FP3,ALO,,,1,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 1
+2021,Turkish Grand Prix,FP3,SAI,,,8,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 8
+2021,Turkish Grand Prix,FP3,GIO,,,1,no_advantage,CAR 99 (GIO) OFF TRACK AND CONTINUED AT TURN 1
+2021,Turkish Grand Prix,Q,HAM,2.0,0 days 00:01:31.641000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,Q,HAM,6.0,0 days 00:01:38.076000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,Q,VER,7.0,0 days 00:01:25.033000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,Q,LEC,2.0,0 days 00:01:41.417000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,Q,LEC,3.0,0 days 00:01:28.054000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,Q,LEC,17.0,0 days 00:01:38.311000,14,clear_violation,TRACK LIMITS AT TURN 14
+2021,Turkish Grand Prix,Q,PER,12.0,0 days 00:02:07.972000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,Q,TSU,2.0,0 days 00:01:46.461000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,Q,VET,7.0,0 days 00:01:40.788000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,Q,RUS,19.0,0 days 00:01:26.327000,14,clear_violation,TRACK LIMITS AT TURN 14
+2021,Turkish Grand Prix,Q,MSC,2.0,0 days 00:01:38.771000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,Q,SAI,2.0,0 days 00:01:55.086000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,Q,SAI,3.0,0 days 00:01:29.364000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,Q,LAT,8.0,0 days 00:01:36.723000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,Q,GIO,2.0,0 days 00:01:47.266000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,Q,RAI,2.0,0 days 00:01:47.249000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,Q,RAI,3.0,0 days 00:01:46.071000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,Q,RAI,5.0,0 days 00:01:57.305000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,Q,MAZ,2.0,0 days 00:01:38.112000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,Q,MAZ,8.0,0 days 00:01:45.846000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Turkish Grand Prix,Q,SAI,,,1,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 1
+2021,Turkish Grand Prix,Q,TSU,,,1,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 1
+2021,Turkish Grand Prix,Q,MAZ,,,1,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 1
+2021,Turkish Grand Prix,Q,LEC,,,14,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 14
+2021,Turkish Grand Prix,Q,STR,,,1,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 1
+2021,Turkish Grand Prix,R,LAT,,,9,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 9
+2021,Turkish Grand Prix,R,SAI,,,12,no_advantage,TURN 12 INCIDENT INVOLVING CARS 55 (SAI) AND 5 (VET) - NO INVESTIGATION NECESSARY
+2021,Turkish Grand Prix,R,VET,,,7,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 7
+2021,United States Grand Prix,FP1,RIC,3.0,0 days 00:01:37.856000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP1,RIC,4.0,0 days 00:02:13.394000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP1,RIC,11.0,0 days 00:01:36.220000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP1,NOR,10.0,0 days 00:01:38.199000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP1,VET,8.0,0 days 00:01:36.344000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP1,RAI,2.0,0 days 00:01:39.888000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP1,MAZ,6.0,0 days 00:01:42.476000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP1,MAZ,8.0,0 days 00:01:40.948000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP1,MAZ,14.0,0 days 00:01:45.405000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP1,GAS,3.0,0 days 00:01:38.116000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP1,PER,5.0,0 days 00:01:56.075000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP1,PER,6.0,0 days 00:01:41.209000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP1,PER,11.0,0 days 00:01:35.817000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP1,PER,14.0,0 days 00:01:41.714000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP1,PER,16.0,0 days 00:01:41.849000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP1,STR,4.0,0 days 00:01:38.342000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP1,STR,13.0,0 days 00:01:37.417000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP1,TSU,11.0,0 days 00:01:37.661000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP1,TSU,14.0,0 days 00:01:37.248000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP1,TSU,21.0,0 days 00:01:43.398000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP1,OCO,4.0,0 days 00:01:38.784000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP1,OCO,16.0,0 days 00:01:37.252000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP1,VER,13.0,0 days 00:01:43.143000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP1,SAI,7.0,0 days 00:01:37.483000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP1,MAZ,,,19,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 19
+2021,United States Grand Prix,FP2,VET,7.0,0 days 00:01:41.572000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP2,VET,25.0,0 days 00:01:42.073000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP2,LAT,2.0,0 days 00:01:38.478000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP2,RAI,20.0,0 days 00:01:42.389000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP2,RAI,22.0,0 days 00:01:42.784000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP2,RAI,24.0,0 days 00:01:42.697000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP2,MAZ,4.0,0 days 00:01:39.961000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP2,MAZ,6.0,0 days 00:01:39.474000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP2,MAZ,16.0,0 days 00:01:44.330000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP2,MAZ,19.0,0 days 00:01:45.205000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP2,GAS,22.0,0 days 00:01:43.287000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP2,PER,22.0,0 days 00:01:43.244000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP2,ALO,2.0,0 days 00:01:36.744000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP2,LEC,5.0,0 days 00:01:36.402000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP2,LEC,11.0,0 days 00:01:35.999000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP2,LEC,16.0,0 days 00:01:41.767000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP2,STR,15.0,0 days 00:01:42.714000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP2,TSU,10.0,0 days 00:01:36.690000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP2,TSU,18.0,0 days 00:01:42.882000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP2,TSU,19.0,0 days 00:01:43.241000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP2,OCO,19.0,0 days 00:01:42.757000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP2,HAM,7.0,0 days 00:01:34.842000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP2,MSC,2.0,0 days 00:01:38.268000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP2,BOT,20.0,0 days 00:01:43.539000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP2,VER,,,20,no_advantage,CAR 33 (VER) OFF TRACK AND CONTINUED AT TURN 20
+2021,United States Grand Prix,FP2,MSC,,,1,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 1
+2021,United States Grand Prix,FP2,OCO,,,1,no_advantage,CAR 31 (OCO) OFF TRACK AND CONTINUED AT TURN 1
+2021,United States Grand Prix,FP2,NOR,,,11,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 11
+2021,United States Grand Prix,FP3,RAI,10.0,0 days 00:01:36.758000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP3,RAI,19.0,0 days 00:01:37.066000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP3,MAZ,2.0,0 days 00:01:38.442000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP3,MAZ,9.0,0 days 00:01:37.414000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP3,MAZ,12.0,0 days 00:01:37.344000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP3,GAS,4.0,0 days 00:01:36.647000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP3,LEC,10.0,0 days 00:01:35.343000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP3,STR,2.0,0 days 00:01:37.015000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP3,TSU,2.0,0 days 00:01:38.124000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP3,VER,9.0,0 days 00:01:34.383000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP3,HAM,12.0,0 days 00:01:34.458000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,FP3,MSC,12.0,0 days 00:01:40.545000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,FP3,BOT,2.0,0 days 00:01:35.556000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,Q,PER,8.0,0 days 00:01:34.074000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,Q,RIC,5.0,0 days 00:01:34.248000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,Q,RUS,10.0,0 days 00:01:35.730000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,Q,STR,4.0,0 days 00:01:36.219000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,Q,RAI,3.0,0 days 00:01:36.336000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,Q,MAZ,2.0,0 days 00:01:37.894000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,Q,MAZ,,,3,no_advantage,TURN 3-5 INCIDENT INVOLVING CARS 9 (MAZ) AND 5 (VET) - NO INVESTIGATION NECESSARY
+2021,United States Grand Prix,Q,MAZ,,,15,no_advantage,TURN 15 INCIDENT INVOLVING CARS 9 (MAZ) AND 18 (STR) NO INVESTIGATION NECESSARY
+2021,United States Grand Prix,R,VER,4.0,0 days 00:01:41.125000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,R,PER,13.0,0 days 00:02:01.373000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,R,TSU,11.0,0 days 00:01:42.046000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,R,VET,51.0,0 days 00:01:41.439000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,R,VET,55.0,0 days 00:01:41.639000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,R,GIO,28.0,0 days 00:01:40.792000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,R,STR,21.0,0 days 00:01:43.098000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,R,STR,29.0,0 days 00:01:43.550000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,R,STR,47.0,0 days 00:01:41.381000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,R,RAI,13.0,0 days 00:02:02.425000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,R,RAI,16.0,0 days 00:01:43.605000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,United States Grand Prix,R,RAI,33.0,0 days 00:01:42.505000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,R,RAI,40.0,0 days 00:01:41.585000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,R,RUS,14.0,0 days 00:01:43.719000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,R,RUS,40.0,0 days 00:01:42.221000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,R,LAT,55.0,0 days 00:01:43.709000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,R,MSC,46.0,0 days 00:01:42.189000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,R,MAZ,5.0,0 days 00:01:45.006000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,R,MAZ,30.0,0 days 00:01:48.426000,19,clear_violation,TRACK LIMITS AT TURN 19
+2021,United States Grand Prix,R,MAZ,39.0,0 days 00:01:46.284000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,R,OCO,6.0,0 days 00:01:45.194000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,United States Grand Prix,R,GAS,11.0,0 days 00:02:02.604000,9,clear_violation,TRACK LIMITS AT TURN 9
+2021,United States Grand Prix,R,,,,1,no_advantage,TURN 1 INCIDENT NO INVESTIGATION NECESSARY
+2021,United States Grand Prix,R,ALO,,,1,no_advantage,TURN 1 INCIDENT INVOLVING CARS 14 (ALO) AND 7 (RAI) NO INVESTIGATION NECESSARY
+2021,United States Grand Prix,R,GIO,,,12,no_advantage,TURN 12 INCIDENT INVOLVING CARS 99 (GIO) AND 14 (ALO) NO INVESTIGATION NECESSARY 
+2021,Mexico City Grand Prix,FP1,STR,5.0,0 days 00:01:21.978000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Mexico City Grand Prix,FP1,MSC,2.0,0 days 00:01:28.441000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Mexico City Grand Prix,FP1,BOT,,,12,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,FP1,ALO,,,12,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,FP1,OCO,,,4,no_advantage,CAR 31 (OCO) OFF TRACK AND CONTINUED AT TURN 4
+2021,Mexico City Grand Prix,FP1,STR,,,12,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,FP1,BOT,,,13,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 13
+2021,Mexico City Grand Prix,FP1,MAZ,,,11,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 11
+2021,Mexico City Grand Prix,FP1,PER,,,12,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,FP1,NOR,,,4,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 4
+2021,Mexico City Grand Prix,FP1,LEC,,,12,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,FP2,LAT,2.0,0 days 00:01:21.233000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Mexico City Grand Prix,FP2,MAZ,23.0,0 days 00:01:25.034000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Mexico City Grand Prix,FP2,MAZ,26.0,0 days 00:01:23.894000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Mexico City Grand Prix,FP2,STR,,,12,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,FP2,STR,,,12,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,FP2,BOT,,,1,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 1
+2021,Mexico City Grand Prix,FP2,HAM,,,1,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 1
+2021,Mexico City Grand Prix,FP2,MAZ,,,12,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,FP2,MSC,,,12,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,FP2,LAT,,,16,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 16
+2021,Mexico City Grand Prix,FP2,MSC,,,12,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,FP2,VET,,,12,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,FP3,NOR,6.0,0 days 00:01:26.242000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Mexico City Grand Prix,FP3,NOR,11.0,0 days 00:01:47.672000,1,clear_violation,TRACK LIMITS AT TURN 1
+2021,Mexico City Grand Prix,FP3,MAZ,5.0,0 days 00:01:54.422000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Mexico City Grand Prix,FP3,ALO,10.0,0 days 00:01:18.816000,12,clear_violation,TRACK LIMITS AT TURN 12
+2021,Mexico City Grand Prix,FP3,LEC,,,8,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 8
+2021,Mexico City Grand Prix,FP3,MAZ,,,8,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 8
+2021,Mexico City Grand Prix,FP3,GAS,,,12,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,FP3,STR,,,12,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,FP3,VET,,,12,no_advantage,CORRECTION - CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,FP3,ALO,,,12,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,FP3,GAS,,,12,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,FP3,VET,,,12,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,Q,TSU,15.0,0 days 00:01:50.338000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Mexico City Grand Prix,Q,MSC,2.0,0 days 00:01:21.524000,12,clear_violation,TRACK LIMITS AT TURN 12
+2021,Mexico City Grand Prix,Q,SAI,,,12,no_advantage,CAR 55 (SAI) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,Q,GIO,,,7,no_advantage,CAR 99 (GIO) OFF TRACK AND CONTINUED AT TURN 7
+2021,Mexico City Grand Prix,Q,NOR,,,1,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 1
+2021,Mexico City Grand Prix,R,MAZ,33.0,0 days 00:01:23.857000,11,clear_violation,TRACK LIMITS AT TURN 11
+2021,Mexico City Grand Prix,R,,,,,no_advantage,LAP 1 TURNS 1-2 INCIDENT NO INVESTIGATION NECESSARY
+2021,Mexico City Grand Prix,R,RIC,,,7,no_advantage,TURN 7 INCIDENT INVOLVING CARS 3 (RIC) AND 18 (STR) NO INVESTIGATION NECESSARY
+2021,Mexico City Grand Prix,R,VET,,,12,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,R,HAM,,,12,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 12
+2021,Mexico City Grand Prix,R,GAS,,,12,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 12
+2021,São Paulo Grand Prix,FP1,LEC,,,4,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 4
+2021,São Paulo Grand Prix,FP1,RUS,,,4,no_advantage,CAR 63 (RUS) OFF TRACK AND CONTINUED AT TURN 4
+2021,São Paulo Grand Prix,FP1,LEC,,,4,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 4
+2021,São Paulo Grand Prix,FP1,BOT,,,5,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 5
+2021,São Paulo Grand Prix,FP2,NOR,20.0,0 days 00:01:14.151000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,FP2,RAI,29.0,0 days 00:01:14.666000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,FP2,RAI,33.0,0 days 00:01:14.666000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,FP2,MAZ,2.0,0 days 00:01:16.500000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,FP2,GAS,22.0,0 days 00:01:14.415000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,FP2,LEC,8.0,0 days 00:01:15.011000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,FP2,LEC,22.0,0 days 00:01:13.358000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,Q,HAM,11.0,0 days 00:01:08.659000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,Q,LEC,6.0,0 days 00:01:09.135000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,Q,GIO,5.0,0 days 00:01:10.067000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,Q,MSC,10.0,0 days 00:01:09.958000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,SQ,VET,16.0,0 days 00:01:14.337000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,SQ,STR,17.0,0 days 00:01:14.111000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,SQ,MSC,21.0,0 days 00:01:14.904000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,SQ,MAZ,7.0,0 days 00:01:16.702000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,SQ,MAZ,22.0,0 days 00:01:15.066000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,SQ,RAI,,,1,no_advantage,TURN 1 INCIDENT INVOLVING CARS 7 (RAI) AND 99 (GIO) NO INVESTIGATION NECESSARY
+2021,São Paulo Grand Prix,S,VET,16.0,0 days 00:01:14.337000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,S,STR,17.0,0 days 00:01:14.111000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,S,MSC,21.0,0 days 00:01:14.904000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,S,MAZ,7.0,0 days 00:01:16.702000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,S,MAZ,22.0,0 days 00:01:15.066000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,S,RAI,,,1,no_advantage,TURN 1 INCIDENT INVOLVING CARS 7 (RAI) AND 99 (GIO) NO INVESTIGATION NECESSARY
+2021,São Paulo Grand Prix,R,HAM,48.0,0 days 00:01:14.577000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,R,VER,48.0,0 days 00:01:14.042000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,R,GAS,5.0,0 days 00:01:16.073000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,R,NOR,60.0,0 days 00:01:14.252000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,R,RAI,64.0,0 days 00:01:13.829000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,R,MSC,43.0,0 days 00:01:15.427000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,R,MSC,65.0,0 days 00:01:14.182000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,São Paulo Grand Prix,R,,,,1,no_advantage,TURN 1 INCIDENT NO INVESTIGATION NECESSARY 
+2021,São Paulo Grand Prix,R,RAI,,,2,no_advantage,TURN 2 INCIDENT INVOLVING CARS 7 (RAI) AND 47 (MSC) NO INVESTIGATION NECESSARY
+2021,São Paulo Grand Prix,R,VER,,,4,no_advantage,TURN 4 INCIDENT INVOLVING CARS 33 (VER) AND 44 (HAM) NO INVESTIGATION NECESSARY
+2021,Qatar Grand Prix,FP1,MSC,,,7,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 7
+2021,Qatar Grand Prix,FP2,RIC,18.0,0 days 00:01:31.763000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Qatar Grand Prix,FP2,NOR,21.0,0 days 00:01:29.882000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Qatar Grand Prix,FP2,ALO,18.0,0 days 00:01:28.693000,7,clear_violation,TRACK LIMITS AT TURN 7
+2021,Qatar Grand Prix,FP2,ALO,21.0,0 days 00:01:43.012000,7,clear_violation,TRACK LIMITS AT TURN 7
+2021,Qatar Grand Prix,FP2,LEC,13.0,0 days 00:01:26.546000,8,clear_violation,TRACK LIMITS AT TURN 8
+2021,Qatar Grand Prix,FP2,LEC,21.0,0 days 00:01:30.038000,7,clear_violation,TRACK LIMITS AT TURN 7
+2021,Qatar Grand Prix,FP2,STR,6.0,0 days 00:01:24.733000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Qatar Grand Prix,FP2,RUS,6.0,0 days 00:01:25.366000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Qatar Grand Prix,FP2,BOT,10.0,0 days 00:01:23.154000,7,clear_violation,TRACK LIMITS AT TURN 7
+2021,Qatar Grand Prix,FP2,BOT,18.0,0 days 00:01:28.565000,7,clear_violation,TRACK LIMITS AT TURN 7
+2021,Qatar Grand Prix,FP2,GAS,,,16,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 16
+2021,Qatar Grand Prix,FP3,GAS,8.0,0 days 00:01:22.721000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Qatar Grand Prix,FP3,LEC,16.0,0 days 00:01:25.748000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Qatar Grand Prix,FP3,STR,12.0,0 days 00:01:25.438000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Qatar Grand Prix,FP3,TSU,19.0,0 days 00:01:24.815000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Qatar Grand Prix,FP3,OCO,14.0,0 days 00:01:23.601000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Qatar Grand Prix,FP3,PER,,,15,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 15
+2021,Qatar Grand Prix,FP3,NOR,,,15,no_advantage,CAR 4 (NOR) OFF TRACK AND CONTINUED AT TURN 15
+2021,Qatar Grand Prix,FP3,LEC,,,16,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 16
+2021,Qatar Grand Prix,Q,NOR,4.0,0 days 00:01:22.975000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Qatar Grand Prix,Q,LEC,5.0,0 days 00:01:23.120000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Qatar Grand Prix,Q,MSC,2.0,0 days 00:01:24.573000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Qatar Grand Prix,Q,TSU,,,1,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 1
+2021,Qatar Grand Prix,R,GAS,3.0,0 days 00:01:30.886000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Qatar Grand Prix,R,GAS,4.0,0 days 00:01:31.260000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Qatar Grand Prix,R,ALO,29.0,0 days 00:01:29.846000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Qatar Grand Prix,R,OCO,47.0,0 days 00:01:29.029000,2,clear_violation,TRACK LIMITS AT TURN 2
+2021,Qatar Grand Prix,R,VET,10.0,0 days 00:01:31.382000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Qatar Grand Prix,R,VET,11.0,0 days 00:01:31.343000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Qatar Grand Prix,R,GIO,49.0,0 days 00:01:29.198000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Qatar Grand Prix,R,GIO,50.0,0 days 00:01:28.909000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Qatar Grand Prix,R,STR,,,15,no_advantage,CAR 18 (STR) OFF TRACK AND CONTINUED AT TURN 15
+2021,Qatar Grand Prix,R,BOT,,,7,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 7
+2021,Saudi Arabian Grand Prix,FP1,VER,,,11,no_advantage,CAR 33 (VER) OFF TRACK AND CONTINUED AT TURN 11
+2021,Saudi Arabian Grand Prix,FP2,PER,,,4,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 4
+2021,Saudi Arabian Grand Prix,FP2,VER,,,8,no_advantage,CAR 33 (VER) OFF TRACK AND CONTINUED AT TURN 8
+2021,Saudi Arabian Grand Prix,FP2,PER,,,2,no_advantage,CAR 11 (PER) OFF TRACK AND CONTINUED AT TURN 2
+2021,Saudi Arabian Grand Prix,FP2,GAS,,,2,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 2
+2021,Saudi Arabian Grand Prix,FP2,GAS,,,8,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 8
+2021,Saudi Arabian Grand Prix,FP2,LEC,,,8,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 8
+2021,Saudi Arabian Grand Prix,FP2,ALO,,,5,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 5
+2021,Saudi Arabian Grand Prix,FP2,MSC,,,23,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 23
+2021,Saudi Arabian Grand Prix,FP2,VET,,,11,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 11
+2021,Saudi Arabian Grand Prix,FP3,HAM,,,1,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 1
+2021,Saudi Arabian Grand Prix,Q,SAI,11.0,0 days 00:01:30.358000,4,clear_violation,TRACK LIMITS AT TURN 4
+2021,Saudi Arabian Grand Prix,Q,BOT,,,17,no_advantage,TURN 17 INCIDENT INVOLVING CARS 77 (BOT) AND 7 (RAI) NO INVESTIGATION NECESSARY 
+2021,Saudi Arabian Grand Prix,R,STR,,,7,no_advantage,TURN 7 INCIDENT INVOLVING CARS 18 (STR) AND 63 (RUS) NO INVESTIGATION NECESSARY
+2021,Saudi Arabian Grand Prix,R,OCO,,,,no_advantage,START INCIDENT INVOLVING CARS 31 (OCO) AND 22 (TSU) NO INVESTIGATION NECESSARY
+2021,Saudi Arabian Grand Prix,R,VET,,,4,no_advantage,TURN 4 INCIDENT INVOLVING CARS 5 (VET) AND 7 (RAI) NO INVESTIGATION NECESSARY
+2021,Abu Dhabi Grand Prix,FP1,NOR,2.0,0 days 00:01:28.247000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP1,NOR,3.0,0 days 00:02:21.073000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP1,NOR,6.0,0 days 00:01:57.281000,7,clear_violation,TRACK LIMITS AT TURN 7
+2021,Abu Dhabi Grand Prix,FP1,VET,7.0,0 days 00:01:26.864000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP1,VET,8.0,0 days 00:02:21.587000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP1,LAT,4.0,0 days 00:01:28.686000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP1,LAT,5.0,0 days 00:02:17.478000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP1,LAT,6.0,0 days 00:01:28.281000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP1,MAZ,17.0,0 days 00:01:33.541000,7,clear_violation,TRACK LIMITS AT TURN 7
+2021,Abu Dhabi Grand Prix,FP1,PER,4.0,0 days 00:01:26.652000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP1,ALO,3.0,0 days 00:01:27.624000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,Abu Dhabi Grand Prix,FP1,ALO,9.0,0 days 00:01:26.505000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP1,TSU,4.0,0 days 00:01:27.092000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,Abu Dhabi Grand Prix,FP1,HAM,16.0,0 days 00:01:25.042000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP1,SAI,2.0,0 days 00:01:27.594000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP1,SAI,19.0,0 days 00:02:10.779000,7,clear_violation,TRACK LIMITS AT TURN 7
+2021,Abu Dhabi Grand Prix,FP1,BOT,2.0,0 days 00:01:26.580000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP1,BOT,3.0,0 days 00:02:11.905000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP1,BOT,24.0,0 days 00:01:29.766000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP1,BOT,25.0,0 days 00:01:31.317000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP1,ALO,,,1,no_advantage,CAR 14 (ALO) OFF TRACK AND CONTINUED AT TURN 1
+2021,Abu Dhabi Grand Prix,FP2,RIC,13.0,0 days 00:01:24.812000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP2,NOR,4.0,0 days 00:01:25.072000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP2,VET,21.0,0 days 00:01:30.219000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP2,VET,22.0,0 days 00:01:31.445000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP2,RAI,8.0,0 days 00:01:26.150000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP2,MAZ,16.0,0 days 00:01:34.020000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP2,MAZ,17.0,0 days 00:01:46.154000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP2,MAZ,19.0,0 days 00:01:32.311000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP2,MAZ,20.0,0 days 00:01:32.371000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP2,ALO,7.0,0 days 00:01:24.225000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP2,ALO,8.0,0 days 00:02:25.980000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP2,LEC,6.0,0 days 00:01:25.104000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP2,LEC,22.0,0 days 00:01:29.668000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP2,LEC,23.0,0 days 00:01:29.439000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP2,VER,4.0,0 days 00:01:24.989000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP2,VER,5.0,0 days 00:02:21.507000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP2,BOT,,,1,no_advantage,CAR 77 (BOT) OFF TRACK AND CONTINUED AT TURN 1
+2021,Abu Dhabi Grand Prix,FP3,VET,4.0,0 days 00:01:26.936000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP3,VET,5.0,0 days 00:01:56.958000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP3,VET,13.0,0 days 00:01:26.259000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP3,RAI,20.0,0 days 00:01:26.337000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP3,RAI,21.0,0 days 00:01:45.594000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,FP3,MAZ,4.0,0 days 00:01:50.771000,7,clear_violation,TRACK LIMITS AT TURN 7
+2021,Abu Dhabi Grand Prix,FP3,LAT,,,1,no_advantage,CAR 6 (LAT) OFF TRACK AND CONTINUED AT TURN 1
+2021,Abu Dhabi Grand Prix,FP3,HAM,,,12,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 12
+2021,Abu Dhabi Grand Prix,FP3,MAZ,,,1,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 1
+2021,Abu Dhabi Grand Prix,FP3,RIC,,,1,no_advantage,CAR 3 (RIC) OFF TRACK AND CONTINUED AT TURN 1
+2021,Abu Dhabi Grand Prix,FP3,HAM,,,1,no_advantage,CAR 44 (HAM) OFF TRACK AND CONTINUED AT TURN 1
+2021,Abu Dhabi Grand Prix,Q,LEC,16.0,0 days 00:01:23.284000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,Q,TSU,18.0,0 days 00:01:23.011000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,Q,GAS,5.0,0 days 00:01:23.842000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,Q,MSC,,,1,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 1
+2021,Abu Dhabi Grand Prix,Q,MAZ,,,1,no_advantage,CAR 9 (MAZ) OFF TRACK AND CONTINUED AT TURN 1
+2021,Abu Dhabi Grand Prix,Q,MSC,,,1,no_advantage,CAR 47 (MSC) OFF TRACK AND CONTINUED AT TURN 1
+2021,Abu Dhabi Grand Prix,Q,VET,,,16,no_advantage,TURN 16 INCIDENT INVOLVING CARS 5 (VET) AND 55 (SAI) NO INVESTIGATION NECESSARY
+2021,Abu Dhabi Grand Prix,Q,TSU,,,1,no_advantage,CAR 22 (TSU) OFF TRACK AND CONTINUED AT TURN 1
+2021,Abu Dhabi Grand Prix,Q,VET,,,1,no_advantage,CAR 5 (VET) OFF TRACK AND CONTINUED AT TURN 1
+2021,Abu Dhabi Grand Prix,Q,VER,,,1,no_advantage,CAR 33 (VER) OFF TRACK AND CONTINUED AT TURN 1
+2021,Abu Dhabi Grand Prix,Q,GAS,,,1,no_advantage,CAR 10 (GAS) OFF TRACK AND CONTINUED AT TURN 1
+2021,Abu Dhabi Grand Prix,R,LEC,41.0,0 days 00:01:28.338000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,R,LEC,42.0,0 days 00:01:28.729000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,R,STR,4.0,0 days 00:01:31.871000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,Abu Dhabi Grand Prix,R,STR,45.0,0 days 00:01:28.776000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,R,STR,46.0,0 days 00:01:28.789000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,R,VER,16.0,0 days 00:01:29.006000,15,clear_violation,TRACK LIMITS AT TURN 15
+2021,Abu Dhabi Grand Prix,R,MSC,3.0,0 days 00:01:33.612000,7,clear_violation,TRACK LIMITS AT TURN 7
+2021,Abu Dhabi Grand Prix,R,VET,17.0,0 days 00:01:30.310000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,R,VET,18.0,0 days 00:01:30.160000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,R,VET,30.0,0 days 00:01:29.596000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,R,VET,31.0,0 days 00:01:29.471000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,R,LAT,50.0,0 days 00:01:29.752000,16,clear_violation,TRACK LIMITS AT TURN 16
+2021,Abu Dhabi Grand Prix,R,VER,,,7,no_advantage,TURN 7 INCIDENT INVOLVING CARS 33 (VER) AND 44 (HAM) NO INVESTIGATION NECESSARY
+2021,Abu Dhabi Grand Prix,R,LEC,,,4,no_advantage,CAR 16 (LEC) OFF TRACK AND CONTINUED AT TURN 4
+2021,Abu Dhabi Grand Prix,R,TSU,,,,no_advantage, INCIDENT INVOLVING CARS 22 (TSU) AND 14 (ALO) NO INVESTIGATION NECESSARY
